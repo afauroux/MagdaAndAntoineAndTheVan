@@ -1,0 +1,65 @@
+<div class="left">
+    <nav>
+    <a class="menu" id="home"     ><img src="../static/icons/home.svg" class="icon">Home</a>
+    <a class="menu" id="journal"  ><img src="../static/icons/date.svg" class="icon">Journal</a>
+    <a class="menu" id="archives" ><img src="../static/icons/archives.svg" class="icon">Archives</a>
+    <a class="menu" id="other"    ><img src="../static/icons/infinity.svg" class="icon">Other</a>
+    <a class="menu" id="vanbuild" ><img src="../static/icons/tools.svg" class="icon">Van Build</a>
+    <a class="menu" id="about"    ><img src="../static/icons/user.svg" class="icon"><span id="about-txt">About +</span></a>
+    </nav>
+    <div id="description" style="display: none;">
+    <img src="../static/images/avatar.png" class="site-avatar" alt="Avatar">
+    <h5 class="about_descr">{{description}}</h5>
+    <a class="email" href="mailto:greenpilloz2@gmail.com?subject=Mail from the Blog">Email Us</a> 
+
+    </div>
+    <script>
+
+    //get the home (baseurl) address
+    var home = window.location.href.split('#')[0].toString().replace(/\w+\.html/,"index.html");
+    for(var elem of document.getElementsByClassName("menu")){
+        if(elem.id=="home"){
+             elem.href = home;
+        }else if(elem.id=="about"){
+            elem.href="#";
+        }else{
+            elem.href = home+"#"+elem.id;
+        }
+    }
+
+    //get the category and display it is selected (van and fat)
+    const category2 = window.location.hash.replace('#','');
+
+    var elem = document.getElementById(category2);
+    //if(elem==null)elem=document.getElementById("home")
+
+    //creating the van icon
+    let van = document.createElement("img");
+    van.src = "../static/icons/favicon.ico"; 
+    van.classList.add("icon");
+    van.style.paddingLeft="10px";
+
+    //displaying which category is active
+    elem.appendChild(van);
+    elem.style.backgroundColor = "lightgray";
+
+
+    // the about button logic
+    var ele_about = document.getElementById("about");
+    var ele_aboutxt = document.getElementById("about-txt");
+    var ele_descr = document.getElementById("description");
+    ele_about.addEventListener("click", function(event) {
+        event.preventDefault();
+        this.classList.toggle("active");
+        if (ele_descr.style.display === "block") {
+            ele_descr.style.display = "none";
+            ele_aboutxt.textContent="About +";
+        } else {
+            ele_descr.style.display = "block";
+            ele_aboutxt.textContent="About -";
+        }
+        return false;
+        });
+    
+    </script>
+</div>

@@ -1,0 +1,3 @@
+Flask==1.1.2
+Markdown==3.2.1
+PyYAML==5.4.1
