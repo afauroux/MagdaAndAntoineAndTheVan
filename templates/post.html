@@ -16,6 +16,20 @@
     </div>
   </div>
 
+  <script>
+    for(let image of document.getElementsByTagName("img")){
+     
+      var caption = document.createElement('span');
+      caption.innerHTML = image.alt;
+      caption.classList.add("caption");
+      
+      if(image.parentElement.tagName=='P'){
+        image.parentElement.appendChild(caption);
+      }
+    
+    }
+
+  </script>
   
 
   </body>

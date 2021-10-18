@@ -10,11 +10,11 @@ import yaml
 
 import blog
 
-ROOT = Path(__file__).parent.parent.parent
+ROOT = Path(__file__).parent.parent
 
-POSTS_DIR = ROOT / "app" / "posts"
-TEMPLATE_DIR = ROOT / "app" / "templates"
-OUTPUT_DIR = ROOT / "app" / "html"
+POSTS_DIR = ROOT / "posts"
+TEMPLATE_DIR = ROOT / "templates"
+OUTPUT_DIR = ROOT
 
 BLOG_TEMPLATE_FILE = "post.html"
 INDEX_TEMPLATE_FILE = "index.html"

@@ -40,8 +40,10 @@
     van.style.paddingLeft="10px";
 
     //displaying which category is active
-    elem.appendChild(van);
-    elem.style.backgroundColor = "lightgray";
+    if(elem!=null){
+        elem.appendChild(van);
+        elem.style.backgroundColor = "lightgray";
+    }
 
 
     // the about button logic
