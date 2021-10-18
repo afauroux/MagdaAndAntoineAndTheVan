@@ -1,3 +1,5 @@
+[![create-html](https://github.com/afauroux/MagdaAndAntoineAndTheVan/actions/workflows/create-html.yml/badge.svg)](https://github.com/afauroux/MagdaAndAntoineAndTheVan/actions/workflows/create-html.yml)
+
 This is a blog created for private use using a python script to transform markdown files to html static pages.
 It can be accessed at the URL: (https://www.afauroux.github.io/MagdaAndAntoineAndTheVan/index.html)
 
