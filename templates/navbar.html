@@ -1,4 +1,16 @@
 <div class="left">
+    <div id="google_translate_element"></div>
+        <script type="text/javascript">
+            function googleTranslateElementInit() {
+                new google.translate.TranslateElement({
+                    pageLanguage: 
+                        'en', 
+                        layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+                    }, 'google_translate_element'
+                    );
+            }
+    </script>
+    <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript"></script>
     <nav>
     <a class="menu" id="home"     ><img src="static/icons/home.svg" class="icon">Home</a>
     <a class="menu" id="journal"  ><img src="static/icons/date.svg" class="icon">Journal</a>
@@ -8,10 +20,9 @@
     <a class="menu" id="about"    ><img src="static/icons/user.svg" class="icon"><span id="about-txt">About +</span></a>
     </nav>
     <div id="description" style="display: none;">
-    <img src="static/images/avatar.png" class="site-avatar" alt="Avatar">
-    <h5 class="about_descr">{{description}}</h5>
-    <a class="email" href="mailto:greenpilloz2@gmail.com?subject=Mail from the Blog">Email Us</a> 
-
+        <img src="static/images/avatar.png" class="site-avatar" alt="Avatar">
+        <h5 class="about_descr">{{description}}</h5>
+        <a class="email" href="mailto:greenpilloz2@gmail.com?subject=Mail from the Blog">Email Us</a> 
     </div>
     <script>
 

@@ -15,7 +15,7 @@
         <article name="{{ post.title[0] }}" class="row card {{ post.category[0] }}">
           <a href="{{ post.rel_link }}">
             <figure>
-              <img src="{{ post.image[0] }}" loading="lazy" style="width:100%;" alt="{{ post.title[0] }} Thumbnail">
+              <img src="{{ post.image[0] }}" loading="lazy" class="thumbnail" alt="{{ post.title[0] }} Thumbnail">
             </figure>
             <h2 class="post-title">{{ post.title[0] }}</h2>
             <h5 class="post-descr"> <img src="static/icons/date.svg" class="icon" alt="date">{{ post.published[0] }}                        <img src="static/icons/clock.svg" class="icon" alt="read time">{{ post.estimated_reading_time[0] }} min</h5>
@@ -23,10 +23,8 @@
         </article>
       {% endfor %}
     </section>
-    <div class="right">
-    </div>
   </div>
-
+  <div class="right"></div>
   <script>
 
     var cards = document.getElementsByClassName('card');

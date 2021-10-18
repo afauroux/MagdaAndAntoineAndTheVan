@@ -4,6 +4,7 @@ published: 15/10/21
 category: journal
 image: https://lh3.googleusercontent.com/pw/AM-JKLXfZkVrUbONov6YSJeNK97-xBkeJhz8BuKV2BPhFF1UlmGKHu0u0xT4VV26usold4Dh5C24n_RkMlG_3x6AGvNxwzODb9YYJcRkS6oGGJ6m8UIHxk4Znp-d38QwrALROT4ldczAtKTZU2fZUhJv3pQK=w2368-h1578-no?authuser=0)
 ---
+
 ![Antoine in Oslo](https://lh3.googleusercontent.com/pw/AM-JKLXfZkVrUbONov6YSJeNK97-xBkeJhz8BuKV2BPhFF1UlmGKHu0u0xT4VV26usold4Dh5C24n_RkMlG_3x6AGvNxwzODb9YYJcRkS6oGGJ6m8UIHxk4Znp-d38QwrALROT4ldczAtKTZU2fZUhJv3pQK=w2368-h1578-no?authuser=0)
 
 We left from Belgium a week ago, after Antoine's PhD defense. We stopped to sleep after Hamburg (shitty weather didn't let us do many kilometers that day) and got to Copenhagen the next day, where we biked around the city and grabbed some lunch. We left in the evening, crossed the super cool Copenhagen-Malmo bridge, got questioned by Swedish border control 👮‍♀️ for some reason, and drove a bit more in Sweden before stopping for sleep next to a small town. We arrived in Oslo early afternoon next day and visited the folk museum, then biked around the city. Next day, we saw the city a bit more and did two more museums: [Fram museum about Norvegian exploration of the poles](https://frammuseum.no/), and Kon-Tiki museum about [Thor Heyersdal](https://en.wikipedia.org/wiki/Thor_Heyerdahl) and his crazy expedition 🏄‍♂️🌊🌏. 
