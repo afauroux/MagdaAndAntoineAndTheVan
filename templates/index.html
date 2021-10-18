@@ -5,7 +5,7 @@
   <body>
 
   <header>
-    <h2>{{blogTitle}}<img src="../static/icons/favicon.ico" class="icon" style="padding-left:10px;" alt="the van"</h2>
+    <h2>{{blogTitle}}<img src="static/icons/favicon.ico" class="icon" style="padding-left:10px;" alt="the van"</h2>
   </header>
   
   <div class="row">
@@ -18,7 +18,7 @@
               <img src="{{ post.image[0] }}" loading="lazy" style="width:100%;" alt="{{ post.title[0] }} Thumbnail">
             </figure>
             <h2 class="post-title">{{ post.title[0] }}</h2>
-            <h5 class="post-descr"> <img src="../static/icons/date.svg" class="icon" alt="date">{{ post.published[0] }}                        <img src="../static/icons/clock.svg" class="icon" alt="read time">{{ post.estimated_reading_time[0] }} min</h5>
+            <h5 class="post-descr"> <img src="static/icons/date.svg" class="icon" alt="date">{{ post.published[0] }}                        <img src="static/icons/clock.svg" class="icon" alt="read time">{{ post.estimated_reading_time[0] }} min</h5>
           </a>
         </article>
       {% endfor %}
