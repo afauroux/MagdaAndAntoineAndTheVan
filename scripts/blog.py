@@ -19,4 +19,4 @@ def _filter_visible_text(text: str) -> str:
 def estimate_reading_time(text: str) -> int:
     filtered_text = _filter_visible_text(text)
     total_words = _count_words_in_text(filtered_text)
-    return min(total_words // WPM, 1)
+    return max(total_words // WPM, 1)

@@ -1,7 +1,8 @@
 ---
-title: Norway-Trolltunga
+title: Norway - Trolltunga
 published: 18/10/21
 category: journal
+author: Magda
 image: https://lh3.googleusercontent.com/pw/AM-JKLWXuQLNnAV_GgpAuqG27_qW_MBbSNxONT1g6HPX-9yaB42GRWVyOKGWHlcghqqgTiVpDLZkhvgdXWBhb-wrhPafozRfSflOipfeGeAZmwVoiyLUFjd1W3IvmGNfSF5T-kIe2f8yG1MC72yhfo4ZxZxz=w2092-h1394-no?authuser=0
 ...
 We stopped at the campsite in [Odda](https://goo.gl/maps/xV3F4GLVznosjDzj8), and spent there three nights (for free as it's out of season and the owners didn't care to collect the payment). On Saturday, we were very lucky to catch basically the last day of good weather this year and do the Trolltunga hike. The 10km trail goes all the way to the well-known rock formation, and has tons of great views on the way.

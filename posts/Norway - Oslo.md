@@ -2,8 +2,9 @@
 title: Norway - Oslo
 published: 15/10/21
 category: journal
+author: Magda
 image: https://lh3.googleusercontent.com/pw/AM-JKLXfZkVrUbONov6YSJeNK97-xBkeJhz8BuKV2BPhFF1UlmGKHu0u0xT4VV26usold4Dh5C24n_RkMlG_3x6AGvNxwzODb9YYJcRkS6oGGJ6m8UIHxk4Znp-d38QwrALROT4ldczAtKTZU2fZUhJv3pQK=w2368-h1578-no?authuser=0)
----
+...
 
 ![Antoine in Oslo](https://lh3.googleusercontent.com/pw/AM-JKLXfZkVrUbONov6YSJeNK97-xBkeJhz8BuKV2BPhFF1UlmGKHu0u0xT4VV26usold4Dh5C24n_RkMlG_3x6AGvNxwzODb9YYJcRkS6oGGJ6m8UIHxk4Znp-d38QwrALROT4ldczAtKTZU2fZUhJv3pQK=w2368-h1578-no?authuser=0)
 

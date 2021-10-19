@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+      <title>Magda and Antoine and the Van</title>
+      <link rel="stylesheet" href="static/css/style.css">
+      <link rel="icon" href="static/icons/favicon.ico" type="image/x-icon">
+      <meta property='og:title' content='Magda and Antoine and the Van'>
+      <meta property='og:description' content='We are a recently engaged Franco-Polish couple travelling the world in a homemade van taking pictures along the way.'>
+      <meta property='og:url' content='https://afauroux.github.io/MagdaAndAntoineAndTheVan'> 
+      <meta property='og:site_name' content='Magda and Antoine and the Van'>
+      <meta property='og:type' content='website'>
+      <meta property='og:updated_time' content='2021-10-19 11:34:22.394814'/>
+      <meta name="twitter:title" content="Magda and Antoine and the Van">
+      <meta name="twitter:description" content="We are a recently engaged Franco-Polish couple travelling the world in a homemade van taking pictures along the way.">
+  </head>
+  <body>
+  <header>
+    <h2>Norway - Trolltunga</h2>
+  </header>
+  <div class="row">
+    <div class="left">
+    <!--copypasted block for gtranslate -->
+    <div id="google_translate_element"></div>
+        <script type="text/javascript">
+            function googleTranslateElementInit() {
+                new google.translate.TranslateElement({
+                    pageLanguage: 
+                        'en', 
+                        layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+                    }, 'google_translate_element'
+                    );
+            }
+    </script>
+    <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript"></script>
+    <!--end copypaste-->
+    <nav>
+    <a class="menu" id="home"     ><img src="static/icons/home.svg" class="icon">Home</a>
+    <a class="menu" id="journal"  ><img src="static/icons/date.svg" class="icon">Journal</a>
+    <a class="menu" id="archives" ><img src="static/icons/archives.svg" class="icon">Archives</a>
+    <a class="menu" id="other"    ><img src="static/icons/infinity.svg" class="icon">Other</a>
+    <a class="menu" id="vanbuild" ><img src="static/icons/tools.svg" class="icon">Van Build</a>
+    <a class="menu" id="about"    ><img src="static/icons/user.svg" class="icon"><span id="about-txt">About +</span></a>
+    </nav>
+    <div id="description" style="display: none;">
+        <img src="static/images/avatar.png" class="site-avatar" alt="Avatar">
+        <h5 class="about_descr">We are a recently engaged Franco-Polish couple travelling the world in a homemade van taking pictures along the way.</h5>
+        <a class="email" href="mailto:greenpilloz2@gmail.com?subject=Mail from the Blog">Email Us</a> 
+    </div>
+    <script>
+
+    //get the home (baseurl) address
+    var home = window.location.href.split('#')[0].toString().replace(/\w+\.html/,"index.html");
+    for(var elem of document.getElementsByClassName("menu")){
+        if(elem.id=="home"){
+             elem.href = home;
+        }else if(elem.id=="about"){
+            elem.href="#";
+        }else{
+            elem.href = home+"#"+elem.id;
+        }
+    }
+
+    //get the category and display it is selected (van and fat)
+    const category2 = window.location.hash.replace('#','');
+
+    var elem = document.getElementById(category2);
+    //if(elem==null)elem=document.getElementById("home")
+
+    //creating the van icon
+    let van = document.createElement("img");
+    van.src = "static/icons/favicon.ico"; 
+    van.classList.add("icon");
+    van.style.paddingLeft="10px";
+
+    //displaying which category is active
+    if(elem!=null){
+        elem.appendChild(van);
+        elem.style.backgroundColor = "lightgray";
+    }
+
+
+    // the about button logic
+    var ele_about = document.getElementById("about");
+    var ele_aboutxt = document.getElementById("about-txt");
+    var ele_descr = document.getElementById("description");
+    ele_about.addEventListener("click", function(event) {
+        event.preventDefault();
+        this.classList.toggle("active");
+        if (ele_descr.style.display === "block") {
+            ele_descr.style.display = "none";
+            ele_aboutxt.textContent="About +";
+        } else {
+            ele_descr.style.display = "block";
+            ele_aboutxt.textContent="About -";
+        }
+        return false;
+        });
+    
+    </script>
+</div>
+    <section class="main card expended">
+      
+        <p>We stopped at the campsite in <a href="https://goo.gl/maps/xV3F4GLVznosjDzj8">Odda</a>, and spent there three nights (for free as it&rsquo;s out of season and the owners didn&rsquo;t care to collect the payment). On Saturday, we were very lucky to catch basically the last day of good weather this year and do the Trolltunga hike. The 10km trail goes all the way to the well-known rock formation, and has tons of great views on the way.
+<img alt="beginning of the hike" src="https://lh3.googleusercontent.com/pw/AM-JKLW0ucP70CL9zYlfbFEHIRoGXahonLAsg5_txEhXhLbKiwZZvdwGGrJ6ajJ62NrltdfBGWhnkPaEwlJQ7J8VcfDCSorL7ZOEgSwQfYHI873rrgRxPYS6CpAIOozUC9vFy71w5Cp8xfuu-x1uMGzGQ8ge=w2092-h1394-no?authuser=0"></p>
+<p><img alt="Antoine after the first, longest ascent" src="https://lh3.googleusercontent.com/pw/AM-JKLWY0QGLH22U9rx1I4HJyEzoyGDa5qb1OHwRJ3BjZKcf_M_FyQfVsgs_IKIj6kFcX3Zy9PNtCAEbUhoRokpueO6oZDUV4elFqGZGfqpk4Hkv747UcfHOD4pOQuFOp3bHPBFLfs599qGT8Uj-dhjJrIAC=w2092-h1394-no?authuser=0"></p>
+<p><img alt="cute little pond" src="https://lh3.googleusercontent.com/pw/AM-JKLWXuQLNnAV_GgpAuqG27_qW_MBbSNxONT1g6HPX-9yaB42GRWVyOKGWHlcghqqgTiVpDLZkhvgdXWBhb-wrhPafozRfSflOipfeGeAZmwVoiyLUFjd1W3IvmGNfSF5T-kIe2f8yG1MC72yhfo4ZxZxz=w2092-h1394-no?authuser=0"></p>
+<p><img alt="epic mountains in the back" src="https://lh3.googleusercontent.com/pw/AM-JKLWgGPKvOiALozLd_BIr3YtEIB06OxXzoblQHJMWVUmh7YBy7PdUbx37a6r6Yyk2I57ZEDgTvD0ns9pMifgvUiX7tw3tLRZxtXAiyEKn6wynkaGdrYq4jxlwxRAHxImD5Lro9wSpO9kVoHEJMvTyNuv1=w2092-h1394-no?authuser=0"></p>
+<p><img alt="Antoine contemplates the view" src="https://lh3.googleusercontent.com/pw/AM-JKLXGUaqR1KHna9LnCNn5IVJFsM4Vqi_wnHiH_Kz_QVschLwoBjRZ-RKgHO56ZI_nSkqen9p4a4Ji97aFJ1NCXyFZY-q4nLftUhGhurCdfR4Cw-kHxgDWj9Grn8MThs0tUSA5ujl_94_yjOAIRkJkBqJI=w2092-h1394-no?authuser=0"></p>
+<p><img alt="first of the two emergency huts" src="https://lh3.googleusercontent.com/pw/AM-JKLVLrGcGb4WVQKKmTTVzfB5LSu_FutnEciIlOuHCqnaJawsRRY3z1ZhfepuJONErXtElqOEXobW0rvC25f856gOwexwrkBBlcYUQ3O0SztE3aLxXvc1QkYPIQ2_cyvb0OxfOLRLTk5SdUk0bW-YWBwhj=w2092-h1394-no?authuser=0"></p>
+<p><img alt="view" src="https://lh3.googleusercontent.com/pw/AM-JKLWhJM7JOoGSVVjCYTtdUrHhjzcDdJEPCkiExWzMOa-jFzRMyBFx8IslO0trfF35nUFiZg62doybl-IuResQzhqwUUECZRc-8rrjlNsSSiLSN92CUkEA39HvIeI-wqWA1PZptugRAIzTghdrvZPtAU4Z=w2092-h1394-no?authuser=0"></p>
+<p><img alt="Antoine admires another view" src="https://lh3.googleusercontent.com/pw/AM-JKLXgFpx_lv-Epn67L4_5gPSYCFfCulGKcFwIYr6VgN6Ax4uzsuHvjL6_nYPMQssU1ns4FeBZ6hRveOJ0Ojd1PMFohjNK5Y5YcQ6DqN0ZxESPyxoGjSf5hXvAnrPqGhwxKwEqBNYdvC5kYIVWCEzIY0l2=w2092-h1394-no?authuser=0"></p>
+<p><img alt="on the trail" src="https://lh3.googleusercontent.com/pw/AM-JKLXIa5G4ojP_Ti2qTkHCr-CWhqo7TWgr6eF4NZZ042aZBXa48pemEj3p3t9bOzDDplYiU2bPYIkEzp7bNgHB40y_sbZZRdVyuvFEWxuiJBQednicZF06sLRVL93Fc6c-362YdvDaVOL3Zf8-jTnwRan9=w2092-h1394-no?authuser=0"></p>
+<p><img alt="view admiring again" src="https://lh3.googleusercontent.com/pw/AM-JKLVPk0eQW4bwobGldgv63tkGJGr1cSw3rFtqGmmIT8jldqs-LnZyq8sca0BficFQXgw58CVkH_Q2Rd18st-DiK1yuofruMSyWq6RepTTSP4zhWuOR0-sbH03lAG3zyfbbxL-Re_2L_I01WP1H-155kh7=w2092-h1394-no?authuser=0"></p>
+<p><img alt="snack next to Trolltunga" src="https://lh3.googleusercontent.com/pw/AM-JKLUloSnmwtUjPTMLbxT9bZVEQzIUNa1ZovTvxld5U93k0HdbRjbQnAx6EDQ_SOeZjP5jMrt1V1cYs6-ZDA8tm2IHmOHycj5QlwPyjqBh_voYLHSgotKemiqmKkFNvLZu4s0orzLb9ahzNrZ5MGXZRpYS=w2092-h1394-no?authuser=0"></p>
+<p><img alt="And Magda's there, too!" src="https://lh3.googleusercontent.com/pw/AM-JKLV9-3HOKi2DkY-Tr7gaG4JBoKhFp5UQGnxweDmAszIl4abgnHvCbIw-imoHvD9RV2NAGeIs-mzT80y-TrEw8wuQho3VWC_-BQEA69eSxH2R0_SU-6EqxjfVCEK8XCBimwmKTEPnhrPwYr5To3Gw_BsF=w2092-h1394-no?authuser=0"></p>
+<p><img alt="Us at Trolltunga - epic!" src="https://lh3.googleusercontent.com/pw/AM-JKLXjz4O3Thl9i9k9AmvCqkqLcHv8kNttkZtVB3pcxc2gLjrsvF5IuJ7Vv2rYvbVFhsiJpnTw00oeqFMcCUOiWXglAO21CLupdzNSwkTkTRqd-p2cZi8Nn8I28GvVQIVtuXbuyUtv6-8hHN3cjliuSPza=w2092-h1394-no?authuser=0"></p>
+<p><img alt="yet another view to admire" src="https://lh3.googleusercontent.com/pw/AM-JKLWkahivU62GmwTGsHhujRRlmtNzEpNloQWwi3ZZMcXyypmgDBwYDHXLDpkvp-4Z2XWiOlz6duViV02SN0x9jKzvXqGUHhM4bBlmVVxEWKrhdd_p5pHveuCMo7jdwZSBqLwYVVz3D0YoxPgDPLHSovBf=w2092-h1394-no?authuser=0"></p>
+<p><img alt="getting smoky" src="https://lh3.googleusercontent.com/pw/AM-JKLUD1DL2-WY45-eJthl8pQT675lenP0v739UnOj7UNdhDGLVYEfOshEWAGCWiBe1rilq4DTtQi1yqofqRHlMybIZ_DLsPhbNvoCV-RBVM82f3VB2ojNkh0VSmlX4tfgDiN-P8n_PE1FWyTyIhmZTps4Y=w2092-h1394-no?authuser=0"></p>
+        
+    </section>
+    <div class="right"></div>
+  </div>
+
+  <script>
+    for(let image of document.getElementsByTagName("img")){
+     
+      var caption = document.createElement('span');
+      caption.innerHTML = image.alt;
+      caption.classList.add("caption");
+      
+      if(image.parentElement.tagName=='P'){
+        image.parentElement.appendChild(caption);
+      }
+    
+    }
+
+  </script>
+  
+
+  </body>
+</html>

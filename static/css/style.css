@@ -177,6 +177,12 @@ h3{
     color: rgb(0, 0, 0);
 
 }
+.descr {
+    margin: 10px;
+    display:flex;
+    justify-content: left;
+    align-items: center;
+}
 .post-descr{
 
     margin:10px;

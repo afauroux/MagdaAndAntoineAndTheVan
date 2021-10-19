@@ -39,6 +39,9 @@ def generate_entries():
     for post in posts:
         print(f"rendering {post}")
 
+        if('template' in str(post)):
+            print(f'igoring template: {post}')
+            continue
 
         url = f"{post.stem}.html"
         target_file = OUTPUT_DIR / url

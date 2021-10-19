@@ -18,13 +18,17 @@
               <img src="{{ post.image[0] }}" loading="lazy" class="thumbnail" alt="{{ post.title[0] }} Thumbnail">
             </figure>
             <h2 class="post-title">{{ post.title[0] }}</h2>
-            <h5 class="post-descr"> <img src="static/icons/date.svg" class="icon" alt="date">{{ post.published[0] }}                        <img src="static/icons/clock.svg" class="icon" alt="read time">{{ post.estimated_reading_time[0] }} min</h5>
+            <h5 class="post-descr row"> 
+              <div class="descr" ><img src="static/icons/date.svg" class="icon" alt="date">{{ post.published[0] }}</div>
+              <div class="descr" ><img src="static/icons/clock.svg" class="icon" alt="read time">{{ post.estimated_reading_time[0] }} min</div>
+              <div class="descr" ><img src="static/icons/user.svg" class="icon" alt="author">{{post.author[0]}}</div>
+            </h5>
           </a>
         </article>
       {% endfor %}
     </section>
-  </div>
   <div class="right"></div>
+  </div>
   <script>
 
     var cards = document.getElementsByClassName('card');
