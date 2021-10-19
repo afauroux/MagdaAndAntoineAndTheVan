@@ -11,7 +11,9 @@ published: {{#custom_datetime}}DD/MM/YY{{/custom_datetime}}
 category: {{category}}
 author: {{author}}
 image: 	
+...
 
----
+
+
 
 

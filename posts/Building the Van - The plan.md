@@ -4,8 +4,7 @@ published: 18/10/21
 category: vanbuild
 author: Antoine
 image: https://lh3.googleusercontent.com/pw/AM-JKLX20h2rIf8RU4ZLYzTW7zdgRYUxSr2txh4OzKpxIMX4KWs42jrlh08TJrbU0OEIuNQHaBw2hIeBUCfuBinCFeQ773p8wfR8qlE5KMSa4dYVmUOUQ8BKB1geDe3xc_HzOij7oVbasxj8HzCGdPO5SEtj=w1052-h1578-no?authuser=0
-
----
+...
 
 The goal was to travel in a van for as long and as far as we want. One critical aspect was that it should be comfy to live inside the van as we love the raw beauty of northen climates,
 
