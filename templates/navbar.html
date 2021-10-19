@@ -29,7 +29,7 @@
     <script>
 
     //get the home (baseurl) address
-    var home = window.location.href.split('#')[0].toString().replace(/\w+\.html/,"index.html");
+    var home = window.location.href.split('#')[0].toString().replace(/.+\.html/,"index.html");
     for(var elem of document.getElementsByClassName("menu")){
         if(elem.id=="home"){
              elem.href = home;
