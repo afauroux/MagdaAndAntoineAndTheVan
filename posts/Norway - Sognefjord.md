@@ -3,7 +3,7 @@ title: Norway - Sognefjord
 published: 27/10/21
 category: journal
 author: Magda
-description:
+description: Sognefjord area
 image: 	https://lh3.googleusercontent.com/pw/AM-JKLWBFnpOZFcxjoqbzgTF4r2SEibNmiL-8YeaEzCEGuuNExASXnbDJBdCr56KBxVoGgMsKE8DgB0-ieernlsw5_S-6s9m9wWI-vsu1FWw5NPmfAS8LLUMMUBtEnJexarvbZGUqA34mRjnyMvUmue7ZBc9=w1920-h1280-no?authuser=0
 ...
 
