@@ -1,6 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
-  {% include 'head_posts.html' %}
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+      <title>{{title[0]}}</title>
+      <link rel="stylesheet" href="static/css/style.css">
+      <link rel="icon" href="static/icons/favicon.ico" type="image/x-icon">
+      <meta property='og:title' content='{{title[0]}}'>
+      <meta property='og:image' content='{{image[0]}}'>
+      <meta property='og:description' content='{{description[0]}}'>
+      <meta property='og:url' content='{{baseURL}}'> 
+      <meta property='og:site_name' content='{{title[0]}}'>
+      <meta property='og:type' content='website'>
+      <meta property='og:updated_time' content='{{ published[0] }}'/>
+      <meta name="twitter:title" content="{{title[0]}}">
+      <meta name="twitter:description" content="{{description[0]}}">
+    </head>
   <body>
   <header>
     <h2>{{ title[0] }}</h2>
