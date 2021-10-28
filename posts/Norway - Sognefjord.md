@@ -19,6 +19,8 @@ We left Bergen in a really bad weather and didn't do much road neither that or t
 
 ![Balestrand](https://lh3.googleusercontent.com/pw/AM-JKLU-ASdJpWeXmEAcbmTeT8ZGo6639bMiLD9-hs8yAFBBhSmZ5PPVjJ7trdaY8lzEtsX2ugU9dCn75wqVz8o3LOBWhhxKtkin12gwrQJJuY-p_GabDPkE2RDhCitbgrEkcb-PzMn-aHuLJveSnGc3WFUA=w1920-h1280-no?authuser=0)
 
+![Antoine and King Bele](https://lh3.googleusercontent.com/pw/AM-JKLUkI9No5b-vhiZQf1Djq8kDa-iEnDrdIotHum-G15ejpOyanBem_5PwwLvWkRRZDEZhy5XKXZYYxlNtbHjnA4Fqn7A3BV0BLQCQqPrNcub5Yw1TsApz6VG72FDQIKwlW13rRdCyB0XNK9lZLxoHsN5p=w2092-h1394-no?authuser=0)
+
 One of the advantages of travelling in off-season is that lot of things are free. In Balestrand, friendly guy in a supermarket gave us the code to the showers and washing machines, located in the small port. We spent the night at the parking of the school (it was Friday, so the school was closed the next day). 
 
 ![Sleeping spot on the school parking](https://lh3.googleusercontent.com/pw/AM-JKLVSiv0selBqjZTLGjSOeUly13ocjbwBEwuQFZCDu3-96SbpPSYm4XeaCSOYGJTWGLaRxqEkIh76EgqmUgPLpJL3RWCH75KvwqF-280uNPru8abu8njGctgN_NmyFh5QZJxEVLcghI2gWIPRMcc-5fmw=w1920-h1280-no?authuser=0)
