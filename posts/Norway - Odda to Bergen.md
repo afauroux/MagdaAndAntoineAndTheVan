@@ -3,6 +3,7 @@ title: Norway - Odda to Bergen
 published: 25/10/21
 category: journal
 author: Magda
+description:
 image: https://lh3.googleusercontent.com/pw/AM-JKLUMYCFsOMh-g6Khnppl4FY67DHNOoBQUVL2eySpcq5K97qJqTG_9Q-BOY7q37jedGGdmpK-DFDch4Uy-MaS-F9JDkxt_VXLO-ePhUSwtlRSyHzeyJIO2LSCB_khfJhhjnlaeIf97VXvOjnrQ0ljkm_F=w2092-h1394-no?authuser=0
 ...
 

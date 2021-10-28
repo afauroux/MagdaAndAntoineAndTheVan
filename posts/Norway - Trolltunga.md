@@ -3,6 +3,7 @@ title: Norway - Trolltunga
 published: 18/10/21
 category: journal
 author: Magda
+description:
 image: https://lh3.googleusercontent.com/pw/AM-JKLWXuQLNnAV_GgpAuqG27_qW_MBbSNxONT1g6HPX-9yaB42GRWVyOKGWHlcghqqgTiVpDLZkhvgdXWBhb-wrhPafozRfSflOipfeGeAZmwVoiyLUFjd1W3IvmGNfSF5T-kIe2f8yG1MC72yhfo4ZxZxz=w2092-h1394-no?authuser=0
 ...
 
