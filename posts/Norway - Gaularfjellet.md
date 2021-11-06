@@ -1,6 +1,7 @@
 ---
 title: Norway - Gaularfjellet
-published: 3/11/21
+description: One of the National Scenic Routes
+published: 5/11/21
 category: journal
 author: Magda
 image: https://lh3.googleusercontent.com/pw/AM-JKLXB3hH3o6xBvE-bkz53bgrms196L3n2AhGxwIMzoHNYrwt6nrLxkNxw-P8tYA7Pdr4hPtcW35Op32IWWVCBRUt2zU65MkV3QA4rQSnSzhJfWBo4qm2jVlSIen-mOEkm1BqerCz0URFVdaoDkZ7vMm70=w2092-h1394-no?authuser=0	
