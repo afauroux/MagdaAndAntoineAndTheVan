@@ -23,7 +23,7 @@
   </header>
   <div class="row">
     {% include 'navbar.html' %}
-    <section class="main card expended">
+    <section class="main card">
       
         {{ content | safe }}
         
@@ -34,6 +34,7 @@
   <script>
     for(let image of document.getElementsByTagName("img")){
      
+      image.loading="lazy";
       var caption = document.createElement('span');
       caption.innerHTML = image.alt;
       caption.classList.add("caption");

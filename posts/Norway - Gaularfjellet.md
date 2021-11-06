@@ -57,4 +57,7 @@ For a short while, we found ourselves above the snowline. The road was however c
 
 ![morning view](https://lh3.googleusercontent.com/pw/AM-JKLXZM2xqbJD0cSX192o4N6MlUg2huiIammbT8TgUBTk_byA4zYJ-W1NF8yiR2a3fu6gXOUJ2N3j3bt5ty00h8y8scBnoDBvsG6NzhWYfJuq--GKVHLJeLQxfgoxA0MjLMGbfkG3_sXsHTpz3zj8tr0-_=w2092-h1394-no?authuser=0)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d122589.64751692105!2d6.3111065969900615!3d61.308861138222895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sno!4v1636157983071!5m2!1sfr!2sno" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe  style="width:100%;" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d122499.45872231937!2d6.291827243374801!3d61.33192784298186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sno!4v1636215222008!5m2!1sfr!2sno" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<p class="caption">Map of the road throught the montain pass</p> 
+
+
