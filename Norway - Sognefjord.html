@@ -102,7 +102,7 @@
     
     </script>
 </div>
-    <section class="main card expended">
+    <section class="main card">
       
         <p>We left Bergen in a really bad weather and didn&rsquo;t do much road neither that or the next day. But we slowly reached Sognefjord - the biggest fjord in Norway (and if we don&rsquo;t count those that are covered by ice, the biggest fjord in the world). It stretches 205 km inland from the ocean, and reaches the depth of more than 1000 m. We slowly followed its northern side, although the views were sometimes obstructed by low clouds and, well, rain. When it started to get dark, we stopped in a sleepy town of Balestrand. </p>
 <p><img alt="Our sleeping spot after Bergen" src="https://lh3.googleusercontent.com/pw/AM-JKLXPNs-d5Ng5n8mRh3PKXAyTJfdhYjG9wUG6a6rNZ73hjHkEMPpkNg6j_X3CqecgDObkBrsrN5_iXe69w-XOCVlEwVml7HEsWeFQsv8gWG277hdeDsTcFz-Fy43qqlnGpPPvsHNcxPaDy0O_MdQV4dss=w1920-h1280-no?authuser=0"></p>
@@ -144,6 +144,7 @@
   <script>
     for(let image of document.getElementsByTagName("img")){
      
+      image.loading="lazy";
       var caption = document.createElement('span');
       caption.innerHTML = image.alt;
       caption.classList.add("caption");

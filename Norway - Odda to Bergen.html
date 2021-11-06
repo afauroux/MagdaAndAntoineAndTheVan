@@ -102,7 +102,7 @@
     
     </script>
 </div>
-    <section class="main card expended">
+    <section class="main card">
       
         <p>The road from Odda to Bergen took us through the Norwegian region of apples - Hardangerfjord. We followed its southern coast for half a day, slept next to Jondal and arrived in Bergen the next evening. As in Oslo, we explored it on bikes - we managed to park not too far from the center. The trademark of Bergen is its historical site Bryggen - Hanzeatic buildings that occupy the old port. We also checked out the fish market (but it turned out to be just a fancy fish shop) and the docks - Antoine likes boats.</p>
 <p><img alt="the car among apple trees in Aga" src="https://lh3.googleusercontent.com/pw/AM-JKLUVLfVA4ZJ6Wxw8x2VITXoWLntmlYKVPfpJFVn-LaDFX20SC4PGrAEHideJABqHqXKnNxI87Nor0U17TGRXMrh_NW2UUeT3SxHbwYtH50aCmnLMTXXk5Dcp28iyyT1TUC1uZJ-3ceAktdDEzgZMrY5r=w2092-h1394-no?authuser=0"></p>
@@ -127,6 +127,7 @@
   <script>
     for(let image of document.getElementsByTagName("img")){
      
+      image.loading="lazy";
       var caption = document.createElement('span');
       caption.innerHTML = image.alt;
       caption.classList.add("caption");
