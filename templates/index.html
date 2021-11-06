@@ -10,7 +10,7 @@
   
   <div class="row">
     {% include 'navbar.html' %}
-    <section class="main">
+    <section class="main home">
       {% for post in posts %}
         <article name="{{ post.title[0] }}" class="row card {{ post.category[0] }}">
           <a href="{{ post.rel_link }}">
