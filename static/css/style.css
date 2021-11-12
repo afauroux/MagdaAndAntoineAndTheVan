@@ -87,6 +87,9 @@ flex: 10%;
 
 }
 
+div#google_translate_element {
+    padding: 10px;
+}
 
 /* Footer */
 .footer {
@@ -154,7 +157,14 @@ align-items:center;
 .post img{
     object-position: center; /* Center the image within the element */
     max-height: 80vh;
-    max-width: 100vw;
+    max-width: 100%;
+    width: auto;
+    align-self: center;
+ }
+
+ .post video{
+    max-height: 80vh;
+    max-width: 100%;
     width: auto;
     align-self: center;
  }
