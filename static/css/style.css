@@ -167,6 +167,7 @@ align-items:center;
     max-width: 100%;
     width: auto;
     align-self: center;
+    padding-bottom: 10px;
  }
 
 .caption{
