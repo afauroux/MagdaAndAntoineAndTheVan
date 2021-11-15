@@ -5,7 +5,7 @@ category: journal
 author: Magda
 description: basically Ålesund and around
 image: https://lh3.googleusercontent.com/pw/AM-JKLUD0ACosORlEVT7SuRf_ie1e6Ayd08gIuQ0TW5TYaHNsDTDtOYepSYn-GSIBC3LAlw58mobY1dcZrUjDA3izQK2uiM1_EyrKkghScfg8FXb5-uAJN4hUBWFC-_I5MmtmeKXTStPp130L-gG9CfxHmpc=w2032-h1354-no?authuser=0
-...
+---
 
 On the way to Ålesund, we stopped at the island of Maloy, located at the mouth of Nordfjord. We were intrigued by the Krakenes lighthouse - on the very tip of the island, with a cool name. It turned out to be an odd one - it didn't have a form of an epic tower, but it was a big house with the light on the first floor. 
 

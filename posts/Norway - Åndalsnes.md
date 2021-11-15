@@ -5,7 +5,7 @@ category: journal
 author: Magda
 description: small town and big nature
 image: 	https://lh3.googleusercontent.com/jHXxco1yLVfof-0sgiu95h6w1yzYbHK_I-KZ_bp1kc2Tx1n_jBAVPqKF2Za07M9GIDV-VWkjg1B5Y7qPi0YFT_aRe3LF8I14wO1QilblpCuEjhIDeVMRYtmyCHMK2CRvxSyxzP-sgJbavDg3x_Ul3c74txANxQAsTmQyMA294mIAzJhUyhhH-bbInj58QLcatumr40wdScopHpo-XzyWWor3sc-kFdJUHkh17kX8qEmqEDMoWD9ChXPKRoXBM5pJlBCs9FQ-xWJcYbHB0SvrQT2-K9HGFOlQtN6mHQepjYpvK551HsoENz9aDGmxYT-laRogw5oUrAyuQT64JVsfEjuGf7Bw-TZJiuLUnW-Th8iVSEgof85OMB2hALyZW6iaCxM2uphjFcDaeaXRaThgz0Zmjn2X6MCZxstyfa3OluNxlTFtFsOMSwZTsS1G_dbnj6P8X-0krwx_vOxH8iqJsooGKOSOaHLlrjo-u3NYjzK_-5BZ4DVaFetlpsVeVIVrWMje8adHTvLRGr7qp_z-mGfrZZM6ijrlta00UamvJaQqN-F9SjHIP45feeUT1akVc86cggCg7t0NVkmWoHRcKKYqloY3I3STxuS2sJY-FVj40CFvIOfrlebZzhvZAgPynOSjL2yGeY2nTRx6TIEsDRKOZgS_VBCe7Y1udPzHSoVcfcAw6oxx6kmksNCHHNaOPMb5-rAe67hSuKa-C_dGWyxzZtrf4zbf3yy5p-kSWpTYQSUerfim7vocKANdCNTXG4hHVgftM2XUGL2c=w6000-h4000-n
-...
+---
 
 Åndalsnes is a small town at the edge of Sunnmøre Alps, east of Ålesund. It's a popular place as it's close to the Troll Wall (Trollveggen; apparently everything in Norway has something to do with trolls), tallest vertical rock face in Europe with 1100 m of drop. The town also has gondolas that go from the port to one of the peaks above it, with views on the fjord and the mountains. We did not visit the restaurant on the top, but it looks fancy! 
 

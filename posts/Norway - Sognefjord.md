@@ -5,7 +5,7 @@ category: journal
 author: Magda
 description: Sognefjord area
 image: 	https://lh3.googleusercontent.com/pw/AM-JKLWBFnpOZFcxjoqbzgTF4r2SEibNmiL-8YeaEzCEGuuNExASXnbDJBdCr56KBxVoGgMsKE8DgB0-ieernlsw5_S-6s9m9wWI-vsu1FWw5NPmfAS8LLUMMUBtEnJexarvbZGUqA34mRjnyMvUmue7ZBc9=w1920-h1280-no?authuser=0
-...
+---
 
 
 We left Bergen in a really bad weather and didn't do much road neither that or the next day. But we slowly reached Sognefjord - the biggest fjord in Norway (and if we don't count those that are covered by ice, the biggest fjord in the world). It stretches 205 km inland from the ocean, and reaches the depth of more than 1000 m. We slowly followed its northern side, although the views were sometimes obstructed by low clouds and, well, rain. When it started to get dark, we stopped in a sleepy town of Balestrand. 

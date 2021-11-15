@@ -5,7 +5,7 @@ category: journal
 author: Magda
 description: scenic route along the coast
 image: https://lh3.googleusercontent.com/2jzLI8FDZNZIRTdH6DL4dU0pXQKzQjrVqmDjrnptZCOzJH5YEGanxfkP6nx-2xZelTTeCkc2RMwV7GOvva8MIf5C_gMQHaqyZpCFkWQXa7WVRwtoXdVWwiiJH9ihDDBhXHKfOR7RznzjbLL3C6G9s_k80Fl9xNqWGKXm8c_xIuiCJInnwlWya56OeSXxlq3cNwFck18EEp8JdmC-1DZ_k5Z9t6MorEfUwlaH54hzK1-Mlq15ei0Q8aNfRNN0uJxKG_EHkZv3by2yQPsAIwflYLkQv8ASycSmgvvGYVahceOWqAAGUJE7-56v7zREficqb1LbxV5sCLWZ5rHXBXYwwMk3tapLP-QrEjAJoluKGCZQ6MujjIUO-Vxuc6c-BVK5-94jvJgA4XG-D_8zlyjTm-1Ub17P7Yx3uEwW4flSA5tHN2CRsi-ib_cxEdV95NH0OjviWoQ5fdG9BKnmWBnbLQuhLri-P40E-BvEMToKgIaRy_50QppSoA1p2sxSNBvL2v8vnBx6Jf62Duna2zu4GoZIaVevFeqCYyxNn5DURL3ShpFHueS0Csx9qqowD5embr0iigoOg96q58P_JdQKKHdUn6s9QJHVnT3QtDEFUgXkZbBHezd3SjUokvuLy3wb1mf7xmBpFWIRvORZZD88lBewuMFPBcDTd-FVG8wB6eTAhJvL6f2uHjScPALNdkmxXnFr6fr2S0JPc1NCLZcu0V7_35cLWSLI5E1wDl7xs6my2QgXzrHCW1BwbtdY1lNu75AK5pgbZJxZvAtf=w6000-h4000-no
-...
+---
 
 From Åndalsnes, it didn't take us long to get to the Atlantic Ocean Road - another of the National Scenic Routes of Norway. It stretches for a couple of kilometers (shortest among the scenic routes) along the coast on a series of small rocky islands, connected by bridges. We crossed it on bikes cause it's more fun.
 

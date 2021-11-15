@@ -5,7 +5,7 @@ category: journal
 author: Magda
 description:
 image: https://lh3.googleusercontent.com/pw/AM-JKLUMYCFsOMh-g6Khnppl4FY67DHNOoBQUVL2eySpcq5K97qJqTG_9Q-BOY7q37jedGGdmpK-DFDch4Uy-MaS-F9JDkxt_VXLO-ePhUSwtlRSyHzeyJIO2LSCB_khfJhhjnlaeIf97VXvOjnrQ0ljkm_F=w2092-h1394-no?authuser=0
-...
+---
 
 The road from Odda to Bergen took us through the Norwegian region of apples - Hardangerfjord. We followed its southern coast for half a day, slept next to Jondal and arrived in Bergen the next evening. As in Oslo, we explored it on bikes - we managed to park not too far from the center. The trademark of Bergen is its historical site Bryggen - Hanzeatic buildings that occupy the old port. We also checked out the fish market (but it turned out to be just a fancy fish shop) and the docks - Antoine likes boats.
 
