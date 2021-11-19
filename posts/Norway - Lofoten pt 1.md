@@ -5,8 +5,8 @@ category: journal
 author: Magda
 description: magical Lofoten <3
 image: https://lh3.googleusercontent.com/s56mkuyO1G0C7KNg4nKHGMa-X3pVLSoJ_efs8m6MvxdDSr7adCQef7n2MuxK76nJjd41QmK8-RkG09wkUW-xSQuWRJRT-Ji4ydm6ZWUYk_1Xjb2rDEEvQKNiOc6GdkrmOwFrh9QsIAASljh-N0-Oa9fgz9OCxL9ePMXDfSgcGjSzkV7PfmT2EX25UtU2i7kMmkgOWUx5wp3YPKqU5ProH8hQa7NT8c1oeSSzHiDVAt6Fo71l2jz4iajEeEFGVmE9p75XclfFypfV8Zex3q0ihaFnXoytQImtKorE7G7zKzR6619Qxy1SL4r6SO89aLuG0wYwyMAllcQT-D4PXOJVj6MTKPxHgROCZEcptunGj-inyr-4qd6K4UT0dlr9Nl3VQIBlb1EnhZkmqEtXbZ6fIlCCvsDCvDJaZlj4F0qh1TxJl2t6H6t0QdOR3dl7Enb7CHaVngGRZyAJ0eVoKVmpC7K6B8xgJXmJFqg-q09b626BMtxkLajnL5YCg-r64V2YFgtxoZ6dEVngStz6_cQmYoB5Gl52ZxfXPQgn72iqJyZ-YHWAwhBP972dxjuS7QfxnkNNWyzKLb1MEBeSk6OqcZ6tlQXcmxW3m7kwOf5Ir7bwvZgXFtG1lwJHlrZp2K_ICfcBJpCyNg42E9nFHU-XQedwJuilqAlVfnW_9VGQPTTlMFPWK6QbcaOq2HvcKBckD89ZqVc4aYgRb9dDC7rgIHpOmjUZBhATfA0-8bJtfdsBe4JkkP7fvbeCf_qCgG55KcSop6cTDt90972U=w1500-h1000-no
-
 ---
+
 Being in Bodø gave us an opportunity to easily reach Lofoten - it's only 3 hours by ferry. What is more, the ferry took us to the very tip of the archipelago. The wind was strong and the sea was quite rough - the ferry rocked quite a lot despite its size. We arrived at night and slept in Reine, cute town located on small islands dispersed close to the main island (Moskenesoya). Only the next morning we finally saw where we are.
 
 The main occupation of people living in Lofoten is fishing, so everything in the islands is adjusted to this. There are wooden racks for drying fish everywhere, and the traditional fishermen houses on stilts - rorbuer - fill the coasts. 
