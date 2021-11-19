@@ -26,7 +26,7 @@ BASE_URL = os.environ.get("DOMAIN", "http://0.0.0.0:5000/")
 def generate_entries():
     posts = POSTS_DIR.glob("*.md")
 
-    extensions = ["extra", "smarty", "meta"]
+    extensions = ["extra", "smarty", "meta", "footnotes"]
     loader = jinja2.FileSystemLoader(searchpath=TEMPLATE_DIR)
     env = jinja2.Environment(loader=loader, autoescape=True)
 
