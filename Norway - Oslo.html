@@ -38,12 +38,12 @@
     <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript"></script>
     <!--end copypaste-->
     <nav>
-    <a class="menu" id="home"     ><img src="static/icons/home.svg" class="icon">Home</a>
-    <a class="menu" id="journal"  ><img src="static/icons/date.svg" class="icon">Journal</a>
-    <a class="menu" id="archives" ><img src="static/icons/archives.svg" class="icon">Archives</a>
-    <a class="menu" id="other"    ><img src="static/icons/infinity.svg" class="icon">Other</a>
-    <a class="menu" id="vanbuild" ><img src="static/icons/tools.svg" class="icon">Van Build</a>
-    <a class="menu" id="about"    ><img src="static/icons/user.svg" class="icon"><span id="about-txt">About +</span></a>
+    <a class="menu" id="home"     ><img src="static/icons/home.svg" class="icon"><b>Home</b></a>
+    <a class="menu" id="journal"  ><img src="static/icons/date.svg" class="icon"><b>Journal</b></a>
+    <a class="menu" id="archives" ><img src="static/icons/archives.svg" class="icon"><b>Archives</b></a>
+    <a class="menu" id="other"    ><img src="static/icons/infinity.svg" class="icon"><b>Other</b></a>
+    <a class="menu" id="vanbuild" ><img src="static/icons/tools.svg" class="icon"><b>Van Build</b></a>
+    <a class="menu" id="about"    ><img src="static/icons/user.svg" class="icon"><b><span id="about-txt">About +</span></b></a>
     </nav>
     <div id="description" style="display: none;">
         <img src="static/images/avatar.png" class="site-avatar" alt="Avatar">
@@ -73,13 +73,13 @@
     //creating the van icon
     let van = document.createElement("img");
     van.src = "static/icons/favicon.ico"; 
-    van.classList.add("icon");
+    van.classList.add("vanicon");
     van.style.paddingLeft="10px";
 
     //displaying which category is active
     if(elem!=null){
         elem.appendChild(van);
-        elem.style.backgroundColor = "lightgray";
+        elem.style.backgroundColor = "var(--nav-selected)";
     }
 
 
@@ -117,7 +117,99 @@
 <p><a href="https://photos.app.goo.gl/y22stzNQ9gVcPQVB6">Photo Album</a></p>
         
     </section>
-    <div class="right"></div>
+    <div class="right"><!-- Dark mode toggle switch copied from: 
+https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34l8 
+-->
+
+<div class="theme-switch-wrapper">
+    <label class="theme-switch" for="checkbox">
+        <input type="checkbox" id="checkbox" />
+        <div class="slider round"></div>
+  </label>
+</div>
+  
+  <style>
+    /*Simple css to style it like a toggle switch*/
+.theme-switch-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.theme-switch {
+  display: inline-block;
+  height: 34px;
+  position: relative;
+  width: 60px;
+}
+
+.theme-switch input {
+  display:none;
+}
+
+.slider {
+  background-color: #ccc;
+  bottom: 0;
+  cursor: pointer;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transition: .4s;
+}
+
+.slider:before {
+  background-color: #fff;
+  bottom: 4px;
+  content: "";
+  height: 26px;
+  left: 4px;
+  position: absolute;
+  transition: .4s;
+  width: 26px;
+  background-image: url("static/icons/sun.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+input:checked + .slider:before {
+  transform: translateX(26px);
+  background-image: url("static/icons/moon.svg");
+}
+
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+  </style>
+
+  <script>
+    const toggleSwitch = document.querySelector('.theme-switch input[type="checkbox"]');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+    
+        if (currentTheme === 'dark') {
+            toggleSwitch.checked = true;
+        }
+    }
+
+    function switchTheme(e) {
+        if (e.target.checked) {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+        }
+        else {        document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+        }    
+    }
+
+    toggleSwitch.addEventListener('change', switchTheme, false);
+  </script>
+</div></div>
   </div>
 
   <script>
