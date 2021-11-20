@@ -55,7 +55,10 @@ def generate_entries():
         html = _md.convert(content)
         _md.Meta['estimated_reading_time']=[estimated_reading_time]
 
-
+        if _md.Meta.get('publish') == ['no']:
+            print('not published')
+            continue
+        
         doc = env.get_template(str(BLOG_TEMPLATE_FILE)).render(
             content=html,
             baseurl=BASE_URL,
