@@ -5,7 +5,7 @@
   <body>
 
   <header>
-    <h2>{{blogTitle}}<img src="static/icons/favicon.ico" class="icon" style="padding-left:10px;" alt="the van"</h2>
+    <h2>{{blogTitle}}<img src="static/icons/favicon.ico" class="vanicon" style="padding-left:10px;" alt="the van"</h2>
   </header>
   
   <div class="row">
@@ -27,7 +27,9 @@
         </article>
       {% endfor %}
     </section>
-  <div class="right"></div>
+  <div class="right">
+  {% include 'darkmode.html' %}
+</div>
   </div>
   <script>
 

@@ -14,12 +14,12 @@
     <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript"></script>
     <!--end copypaste-->
     <nav>
-    <a class="menu" id="home"     ><img src="static/icons/home.svg" class="icon">Home</a>
-    <a class="menu" id="journal"  ><img src="static/icons/date.svg" class="icon">Journal</a>
-    <a class="menu" id="archives" ><img src="static/icons/archives.svg" class="icon">Archives</a>
-    <a class="menu" id="other"    ><img src="static/icons/infinity.svg" class="icon">Other</a>
-    <a class="menu" id="vanbuild" ><img src="static/icons/tools.svg" class="icon">Van Build</a>
-    <a class="menu" id="about"    ><img src="static/icons/user.svg" class="icon"><span id="about-txt">About +</span></a>
+    <a class="menu" id="home"     ><img src="static/icons/home.svg" class="icon"><b>Home</b></a>
+    <a class="menu" id="journal"  ><img src="static/icons/date.svg" class="icon"><b>Journal</b></a>
+    <a class="menu" id="archives" ><img src="static/icons/archives.svg" class="icon"><b>Archives</b></a>
+    <a class="menu" id="other"    ><img src="static/icons/infinity.svg" class="icon"><b>Other</b></a>
+    <a class="menu" id="vanbuild" ><img src="static/icons/tools.svg" class="icon"><b>Van Build</b></a>
+    <a class="menu" id="about"    ><img src="static/icons/user.svg" class="icon"><b><span id="about-txt">About +</span></b></a>
     </nav>
     <div id="description" style="display: none;">
         <img src="static/images/avatar.png" class="site-avatar" alt="Avatar">
@@ -49,13 +49,13 @@
     //creating the van icon
     let van = document.createElement("img");
     van.src = "static/icons/favicon.ico"; 
-    van.classList.add("icon");
+    van.classList.add("vanicon");
     van.style.paddingLeft="10px";
 
     //displaying which category is active
     if(elem!=null){
         elem.appendChild(van);
-        elem.style.backgroundColor = "lightgray";
+        elem.style.backgroundColor = "var(--nav-selected)";
     }
 
 
