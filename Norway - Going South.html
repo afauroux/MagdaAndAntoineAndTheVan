@@ -241,6 +241,12 @@ input:checked + .slider:before {
       if(image.parentElement.tagName=='P'){
         image.parentElement.appendChild(caption);
       }
+      let p = image.parentElement
+      let a = document.createElement('a')
+      a.href = image.src
+      p.removeChild(image)
+      p.appendChild(a)
+      a.appendChild(image)
     
     }
 
