@@ -238,14 +238,14 @@ input:checked + .slider:before {
       caption.classList.add("caption");
       
       if(image.parentElement.tagName=='P'){
-        image.parentElement.appendChild(caption);
+        let p = image.parentElement
+        let a = document.createElement('a')
+        a.href = image.src
+        p.removeChild(image)
+        p.appendChild(a)
+        a.appendChild(image)
+        p.appendChild(caption);
       }
-      let p = image.parentElement
-      let a = document.createElement('a')
-      a.href = image.src
-      p.removeChild(image)
-      p.appendChild(a)
-      a.appendChild(image)
     
     }
 
