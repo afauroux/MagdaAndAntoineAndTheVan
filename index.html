@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+      <title>Magda and Antoine and the Van</title>
+      <link rel="stylesheet" href="static/css/style.css">
+      <link rel="icon" href="static/icons/favicon.ico" type="image/x-icon">
+      <meta property='og:title' content='Magda and Antoine and the Van'>
+      <meta property='og:description' content='We are a recently engaged Franco-Polish couple travelling the world in a homemade van taking pictures along the way.'>
+      <meta property='og:url' content='https://afauroux.github.io/MagdaAndAntoineAndTheVan'> 
+      <meta property='og:site_name' content='Magda and Antoine and the Van'>
+      <meta property='og:type' content='website'>
+      <meta property='og:updated_time' content='2021-12-11 17:10:53.010572'/>
+      <meta name="twitter:title" content="Magda and Antoine and the Van">
+      <meta name="twitter:description" content="We are a recently engaged Franco-Polish couple travelling the world in a homemade van taking pictures along the way.">
+  </head>
+
+  <body>
+
+  <header>
+    <h2>Magda and Antoine and the Van<img src="static/icons/favicon.ico" class="vanicon" style="padding-left:10px;" alt="the van"</h2>
+  </header>
+  
+  <div class="row">
+    <div class="left">
+    <!--copypasted block for gtranslate -->
+    <div id="google_translate_element"></div>
+        <script type="text/javascript">
+            function googleTranslateElementInit() {
+                new google.translate.TranslateElement({
+                    pageLanguage: 
+                        'en', 
+                        layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+                    }, 'google_translate_element'
+                    );
+            }
+    </script>
+    <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript"></script>
+    <!--end copypaste-->
+    <nav>
+    <a class="menu" id="home"     ><img src="static/icons/home.svg" class="icon"><b>Home</b></a>
+    <a class="menu" id="journal"  ><img src="static/icons/date.svg" class="icon"><b>Journal</b></a>
+    <a class="menu" id="archives" ><img src="static/icons/archives.svg" class="icon"><b>Archives</b></a>
+    <a class="menu" id="other"    ><img src="static/icons/infinity.svg" class="icon"><b>Other</b></a>
+    <a class="menu" id="vanbuild" ><img src="static/icons/tools.svg" class="icon"><b>Van Build</b></a>
+    <a class="menu" id="about"    ><img src="static/icons/user.svg" class="icon"><b><span id="about-txt">About +</span></b></a>
+    </nav>
+    <div id="description" style="display: none;">
+        <img src="static/images/avatar.png" class="site-avatar" alt="Avatar">
+        <h5 class="about_descr">We are a recently engaged Franco-Polish couple travelling the world in a homemade van taking pictures along the way.</h5>
+        <a class="email" href="mailto:greenpilloz2@gmail.com?subject=Mail from the Blog">Email Us</a> 
+    </div>
+    <script>
+
+    //get the home (baseurl) address
+    var home = window.location.href.split('#')[0].toString().replace(/.+\.html/,"index.html");
+    for(var elem of document.getElementsByClassName("menu")){
+        if(elem.id=="home"){
+             elem.href = home;
+        }else if(elem.id=="about"){
+            elem.href="#";
+        }else{
+            elem.href = home+"#"+elem.id;
+        }
+    }
+
+    //get the category and display it is selected (van and fat)
+    const category2 = window.location.hash.replace('#','');
+
+    var elem = document.getElementById(category2);
+    //if(elem==null)elem=document.getElementById("home")
+
+    //creating the van icon
+    let van = document.createElement("img");
+    van.src = "static/icons/favicon.ico"; 
+    van.classList.add("vanicon");
+    van.style.paddingLeft="10px";
+
+    //displaying which category is active
+    if(elem!=null){
+        elem.appendChild(van);
+        elem.style.backgroundColor = "var(--nav-selected)";
+    }
+
+
+    // the about button logic
+    var ele_about = document.getElementById("about");
+    var ele_aboutxt = document.getElementById("about-txt");
+    var ele_descr = document.getElementById("description");
+    ele_about.addEventListener("click", function(event) {
+        event.preventDefault();
+        this.classList.toggle("active");
+        if (ele_descr.style.display === "block") {
+            ele_descr.style.display = "none";
+            ele_aboutxt.textContent="About +";
+        } else {
+            ele_descr.style.display = "block";
+            ele_aboutxt.textContent="About -";
+        }
+        return false;
+        });
+    
+    </script>
+</div>
+    <section class="main home">
+      
+        <article name="Norway - Dovrefjell and Jotunheimen" class="row card journal">
+          <a href="Norway - Dovrefjell and Jotunheimen.html">
+            <figure>
+              <img src="https://lh3.googleusercontent.com/-9gMneCPIA7hPbHOKiEMp-LsZyanKjw4R2p4NDKRnjtV_KXa5bE6_zPxh_hO41F2iBUZJyxff64EzjK0OrtQyZISo0-xDqCj0I5ftd_8vIp06Jc7-hHSF5SRlXL38YZcvRiExEnJ4Pcrs1SPWFsWestM4AHBn-i1HDNSumbVmA0NEKiKNwilrUOk4HT25wOALFhu1MXraUOKnVOJI4ySKUjh6_kbfcJV9L6_BJkY6Dazymxgu90U8WiezNO8ljkyvy2OI_mXddMisOtDI97_tCI0_DIoWm3Dm3F2Q54wEZyMjwpQMT92M2Ek6ec7vROm9d_QtWGJO6R0A7D_CSLjWbUxYmAGfCDNqB0xUUoLxjZeP8BZ08gX0OPEmDpiybEUfW0ATi2W5Aeezz-9MNPLxSRER4QkXm-0jN_xLDetNn43lVRIZgM5c-xak3Ub0DCZc1pvbO14tBFDJ6ySjrI5xOiZhpsGXJ1lV0AZYDh9kmY9Y91NOr52IH-qn3DLUlh2-AJG9R4lTT7U8d3-KtdN7X71ULNxRxL9-6Rui_LT6KIZgYUn8NroAC4l8WD2xvGUovf5DgSIux3CK9rQiO6us8ZV3vo8zLLMaBhV_Jq1PsACx5AHsV8E1YSXuDa0bX8GKtiLIycWZugSTMTKgIlhA6_w1JxFUFyif8f2_zk4KCtS2P406kvoQD842Y7VGK4JxwNyiZq6SqNMs6Tmu2Kzbhw_4w33AiZ8CsGixTYTSMUzmncU0Qcrh2JesiAAbmY2TBnzqAozuR45Xldj=w1500-h1000-no" loading="lazy" class="thumbnail" alt="Norway - Dovrefjell and Jotunheimen Thumbnail">
+            </figure>
+            <h2 class="post-title">Norway - Dovrefjell and Jotunheimen</h2>
+            <h5 class="post-descr row"> 
+              <div class="descr" ><img src="static/icons/date.svg" class="icon" alt="date">8/12/21</div>
+              <div class="descr" ><img src="static/icons/clock.svg" class="icon" alt="read time">11 min</div>
+              <div class="descr" ><img src="static/icons/user.svg" class="icon" alt="author">Magda</div>
+            </h5>
+          </a>
+        </article>
+      
+        <article name="Norway - Going South" class="row card journal">
+          <a href="Norway - Going South.html">
+            <figure>
+              <img src="https://lh3.googleusercontent.com/uIW5TZaXNXoqCzyENa5TfRmnxo9T3OndIon8xXMku7SrKvnyPdwdAfBuO0Kg5eysMHvEPkwH_J0PiqjFlVqRrOtLAbAI8VP-eO0_setAk8WD-4vKP_C7nrrlfA1TqV5sMmMYxv95B5fpxxUFO6bW5j0CFa1ILvvVTJKmAT4AIV52lHYFwbAKS1G21dgKAI_x4HxA04xaU4tlKqp4YYZqf8CVUgPKWHNrwoBBqX69sWjmlWDKFNpAbh0VS1N7M_phowavJyDCDlZcEr1E3gBs5aY6BvVuTcjj7n0H5lm3A3LEmWnUB_WxynPVShsVvvf_vyWBR35wOGdI-dahkJkUQ1Wv-67By6eYC3UXM6ZCkeg4rKPxFIUsGYczEuZ9BrPns8hQscZlESy6QE9gnARQOQIJjwNa-_5wnVq7jY1I5EgyTlY7jVaoqHLIYO_LGr3Mx2t0B9ApWZjaJj4L_zW4FT2RKw17T78kfF6KncbAuX-4LGkb10i3ArxdjXtE2QRglHURU4alnWO-e-NQEF1ReAP6xSU8BYV_EkAz00DfTXBRQswqZjsEAHwUqncwi1zGr52aXFpjMTiRp8ZgkiVImVupulJAgGh-Ub1p_qemt_a4xKYFW2QHmjU0FrDj8m1iM9Jxb086vzUhfaySP0rB7T2dI2bgWc3nOLuW1D1FNUtGLFd9tdZZJC9YefGpXbjd7UuE4DuvTYoKEnH5PKP7C1_Hw4W7ihEFa-B6tFbRoF3gWvmBXUTpNUEMe0Je_9P0_225aWDkZKvJwqPS=w1500-h1000-no" loading="lazy" class="thumbnail" alt="Norway - Going South Thumbnail">
+            </figure>
+            <h2 class="post-title">Norway - Going South</h2>
+            <h5 class="post-descr row"> 
+              <div class="descr" ><img src="static/icons/date.svg" class="icon" alt="date">24/11/21</div>
+              <div class="descr" ><img src="static/icons/clock.svg" class="icon" alt="read time">8 min</div>
+              <div class="descr" ><img src="static/icons/user.svg" class="icon" alt="author">Magda</div>
+            </h5>
+          </a>
+        </article>
+      
+        <article name="Norway - Lofoten pt. 2" class="row card journal">
+          <a href="Norway - Lofoten pt. 2.html">
+            <figure>
+              <img src="https://lh3.googleusercontent.com/zQ2efOktX9DLtZHHEay3hW7dXkUwKNhjMl-5paBTrB5WxRcel5RY8NsNdzsEpKsTwntZH66V-5jDFkahlqvFM_C9xocIoHROe5j4VzvveviWI-VsCYGZSj8KFjFgaUapqvRFYCup_bP5NawhCRLp_sKwyFKqob2JN4dC1_zQ93JeXtgb5T0hXFO3bVHC2Tvnm_sHdRIqEIY6mTdmmtqqSvzlHzbuaQ_fgjSS4stbMmQHReb1FS9aYhd3aW-xWA2ijS4kD1I6Ava8V8p7Js38u82BfhcKrclmCqARf6QuBd3aJ2Mw1g5qNn3t1__Y933JCZvUqHc3zhgRP6lXzDIAXLGoI5zb4tuIFXAydlsXKgSqB1_XDYI5Tra2DvnIkXA3UHniCdNL1OYJMml62yWdB23aZbEUsUN2VX5MN6YY-eEiOX14wEoYOyFsOzLoLHbHxJu7g37PqaPTq4mk4Sc5rX3wrBTj17W86vSBwsiCfpEfsHSXzKpytipE-BvfJ9b6X_jhuS7NRzsPqcF0maoXB_NHh7ushcmJ8tOY3rwfniP6fyLcJrYWJkx4uHI_Q1L-BramYFzFEa-JVUWw0KvyjKktboN_njr2noaeop9tx5LRK6mU0xEeC8y5h0JH0DxE4ORyGTLzwPRJNnjF7y_vGf0ufxnmgh_E0poPcN83N4MV-hGdKzSGzeMYYSGj-szAJPa631lUv4xad9GrnbRrLTbIqVpSzPQmGiPETiDHtlneL1e10yiGaBQNzhUXsaXhZoJ0_nAUDNNdBd61=w1500-h1000-no" loading="lazy" class="thumbnail" alt="Norway - Lofoten pt. 2 Thumbnail">
+            </figure>
+            <h2 class="post-title">Norway - Lofoten pt. 2</h2>
+            <h5 class="post-descr row"> 
+              <div class="descr" ><img src="static/icons/date.svg" class="icon" alt="date">20/11/21</div>
+              <div class="descr" ><img src="static/icons/clock.svg" class="icon" alt="read time">8 min</div>
+              <div class="descr" ><img src="static/icons/user.svg" class="icon" alt="author">Magda</div>
+            </h5>
+          </a>
+        </article>
+      
+        <article name="Norway - Lofoten pt. 1" class="row card journal">
+          <a href="Norway - Lofoten pt 1.html">
+            <figure>
+              <img src="https://lh3.googleusercontent.com/a7aaSQM05mcRH2_-za6QYm_IxkjwnoYBQpFnaq8Ee-3C_Bml2GUhtwEvcR76C595BX78lHUG404nxq3kZyRJPa_-F57izsABO9aP3lwmqcj62TEF9Nw13rXaJ_3vxhcvwnDyr0nus6vPn4zsw5giccCNFSeJOhlOhzUiwFUsJO-xZ1_72Bfj8TDb0Out6pEiuwm5Y6EiUr-014Di_S4l-Z3zKyNL6JsGiYB81cDvE2CxokfHaGGl2fnZbhxQeQ9ELMlhXragc8x-1gHQvEPKYSjxtlLVqFTLwJZFaiUFqktXpErSYK2KXV93G05Qr3JPIum0ZRHAAuzQVWXzL9s9NwOtPLWEFnLwrg7uC3LLpVJuLgsmEuf8HtljIj8igwVPNPuJdDvjmcTP0y7LDMwuJjJtc4S-lXcd_mCMD36U0i2kjNBBGmiBbcJ6MvfmQqRM3eq33BxKii1vzGSr5QHgtyhgDU0uAj_3Iw4U2SvGxA2RjFoPmclOhMKm4z3oYA6Y0h9qqhURVHzaCCSGgDVT9o3I2Uzd_oYkjIU75Tx6kmX5jXVSbMDZY4qH2i9XAC2Jhkd2B-ORMQPgRwiye0qXaoBROz6t3Oc1orUFya5RPTzbl1k2wXK-sh32mGLiewgI5pj9QUBOtI8k-tsy1Qgn8cimRPYT7X13JSqaX-5KHQMWnRHYON4PDTh2muBQCPetjUMTwwd4ZJKV6r5NS5gzhz5Brw5p_Nqe39cNIbLyI8bJFAj36EgWBrM6oeOPPZdsOJ5GJxYgGQVyRmn0=w1500-h1000-no" loading="lazy" class="thumbnail" alt="Norway - Lofoten pt. 1 Thumbnail">
+            </figure>
+            <h2 class="post-title">Norway - Lofoten pt. 1</h2>
+            <h5 class="post-descr row"> 
+              <div class="descr" ><img src="static/icons/date.svg" class="icon" alt="date">19/11/21</div>
+              <div class="descr" ><img src="static/icons/clock.svg" class="icon" alt="read time">10 min</div>
+              <div class="descr" ><img src="static/icons/user.svg" class="icon" alt="author">Magda</div>
+            </h5>
+          </a>
+        </article>
+      
+        <article name="Norway - To the North" class="row card journal">
+          <a href="Norway - To the North.html">
+            <figure>
+              <img src="https://lh3.googleusercontent.com/z0IGDFJSny6HQGszN8VKnBSBGGx_VBCHQubYveHES6Tb3ZyOB2yX3cLUDsqY0Cs8fBeKqf1pV-ta-jLFDqduCCX5gJDxeYQUpfABVu-swWCPa9ElqKbpfWZo98P33VUJZEEdOPakLTRrNvEZsu9CrXbHzXgVQGQPIjDdHdp9W38e9o45-cd7yhxIHEeN3nQgK1VZKT1SB8zsVAFMqTqbvbNrnq7RJCZmQGnI7FlP2nezHqpzOT9-8Iv1nTkdW_7rZ_ACb6LMRb-2RZG0RQTYGErOTRkgNkIePK0DrOJCuYQKPFuVA4QFA9OofgCBdZUb3wdr6nvk3gtf1mKjYz9-iw0tpgelWhqbpu9PqQ9Ky9wYcW6m7Jg1SU0Jii3sHZ5ERAc4sr12Ry34SSSc-qrw8ZwgN8pMa5FYZLbKuv7lY-Qh0zJYgnAqO0LeRvyj5rPnMVPVQ9Xk93R5UCKQo1sy_XjnPvk7Y0MXD4T9nTtUg8X-ZMx05cZ6kQJj1KcTZhoWF8yQwCCDZmb0GrVXmimQ5kQNeGeTivTj17xoYENWnBAW9kMMrwsLV-4xGJo3mrV_c1dbcFQpnQnhoLX-NZ11gTsc5NCNLjkAyTqXVkyOwbslpTVFems6J68RbbqEZgvnIaIj4FdttCKwI2fSIxfGwf1_GH8ZsjqPvDEHrfGUD4_uG75pMzVTv6sbp6s_CrX8QX-jVX_MQZIGe_YFL8SQI0jOnQcGWU-mwtz85XMB5_GIL-QxPRV_Pdd7c0BrPaxmynmUjA9zGfEVhPtF=w1500-w1000-no" loading="lazy" class="thumbnail" alt="Norway - To the North Thumbnail">
+            </figure>
+            <h2 class="post-title">Norway - To the North</h2>
+            <h5 class="post-descr row"> 
+              <div class="descr" ><img src="static/icons/date.svg" class="icon" alt="date">13/11/21</div>
+              <div class="descr" ><img src="static/icons/clock.svg" class="icon" alt="read time">7 min</div>
+              <div class="descr" ><img src="static/icons/user.svg" class="icon" alt="author">Magda</div>
+            </h5>
+          </a>
+        </article>
+      
+        <article name="Norway - Atlantic Ocean Road" class="row card journal">
+          <a href="Norway - Atlantic Ocean road.html">
+            <figure>
+              <img src="https://lh3.googleusercontent.com/2jzLI8FDZNZIRTdH6DL4dU0pXQKzQjrVqmDjrnptZCOzJH5YEGanxfkP6nx-2xZelTTeCkc2RMwV7GOvva8MIf5C_gMQHaqyZpCFkWQXa7WVRwtoXdVWwiiJH9ihDDBhXHKfOR7RznzjbLL3C6G9s_k80Fl9xNqWGKXm8c_xIuiCJInnwlWya56OeSXxlq3cNwFck18EEp8JdmC-1DZ_k5Z9t6MorEfUwlaH54hzK1-Mlq15ei0Q8aNfRNN0uJxKG_EHkZv3by2yQPsAIwflYLkQv8ASycSmgvvGYVahceOWqAAGUJE7-56v7zREficqb1LbxV5sCLWZ5rHXBXYwwMk3tapLP-QrEjAJoluKGCZQ6MujjIUO-Vxuc6c-BVK5-94jvJgA4XG-D_8zlyjTm-1Ub17P7Yx3uEwW4flSA5tHN2CRsi-ib_cxEdV95NH0OjviWoQ5fdG9BKnmWBnbLQuhLri-P40E-BvEMToKgIaRy_50QppSoA1p2sxSNBvL2v8vnBx6Jf62Duna2zu4GoZIaVevFeqCYyxNn5DURL3ShpFHueS0Csx9qqowD5embr0iigoOg96q58P_JdQKKHdUn6s9QJHVnT3QtDEFUgXkZbBHezd3SjUokvuLy3wb1mf7xmBpFWIRvORZZD88lBewuMFPBcDTd-FVG8wB6eTAhJvL6f2uHjScPALNdkmxXnFr6fr2S0JPc1NCLZcu0V7_35cLWSLI5E1wDl7xs6my2QgXzrHCW1BwbtdY1lNu75AK5pgbZJxZvAtf=w6000-h4000-no" loading="lazy" class="thumbnail" alt="Norway - Atlantic Ocean Road Thumbnail">
+            </figure>
+            <h2 class="post-title">Norway - Atlantic Ocean Road</h2>
+            <h5 class="post-descr row"> 
+              <div class="descr" ><img src="static/icons/date.svg" class="icon" alt="date">12/11/21</div>
+              <div class="descr" ><img src="static/icons/clock.svg" class="icon" alt="read time">5 min</div>
+              <div class="descr" ><img src="static/icons/user.svg" class="icon" alt="author">Magda</div>
+            </h5>
+          </a>
+        </article>
+      
+        <article name="Norway - Åndalsnes" class="row card journal">
+          <a href="Norway - Åndalsnes.html">
+            <figure>
+              <img src="https://lh3.googleusercontent.com/jHXxco1yLVfof-0sgiu95h6w1yzYbHK_I-KZ_bp1kc2Tx1n_jBAVPqKF2Za07M9GIDV-VWkjg1B5Y7qPi0YFT_aRe3LF8I14wO1QilblpCuEjhIDeVMRYtmyCHMK2CRvxSyxzP-sgJbavDg3x_Ul3c74txANxQAsTmQyMA294mIAzJhUyhhH-bbInj58QLcatumr40wdScopHpo-XzyWWor3sc-kFdJUHkh17kX8qEmqEDMoWD9ChXPKRoXBM5pJlBCs9FQ-xWJcYbHB0SvrQT2-K9HGFOlQtN6mHQepjYpvK551HsoENz9aDGmxYT-laRogw5oUrAyuQT64JVsfEjuGf7Bw-TZJiuLUnW-Th8iVSEgof85OMB2hALyZW6iaCxM2uphjFcDaeaXRaThgz0Zmjn2X6MCZxstyfa3OluNxlTFtFsOMSwZTsS1G_dbnj6P8X-0krwx_vOxH8iqJsooGKOSOaHLlrjo-u3NYjzK_-5BZ4DVaFetlpsVeVIVrWMje8adHTvLRGr7qp_z-mGfrZZM6ijrlta00UamvJaQqN-F9SjHIP45feeUT1akVc86cggCg7t0NVkmWoHRcKKYqloY3I3STxuS2sJY-FVj40CFvIOfrlebZzhvZAgPynOSjL2yGeY2nTRx6TIEsDRKOZgS_VBCe7Y1udPzHSoVcfcAw6oxx6kmksNCHHNaOPMb5-rAe67hSuKa-C_dGWyxzZtrf4zbf3yy5p-kSWpTYQSUerfim7vocKANdCNTXG4hHVgftM2XUGL2c=w6000-h4000-n" loading="lazy" class="thumbnail" alt="Norway - Åndalsnes Thumbnail">
+            </figure>
+            <h2 class="post-title">Norway - Åndalsnes</h2>
+            <h5 class="post-descr row"> 
+              <div class="descr" ><img src="static/icons/date.svg" class="icon" alt="date">8/11/21</div>
+              <div class="descr" ><img src="static/icons/clock.svg" class="icon" alt="read time">5 min</div>
+              <div class="descr" ><img src="static/icons/user.svg" class="icon" alt="author">Magda</div>
+            </h5>
+          </a>
+        </article>
+      
+        <article name="Norway - Maloy, Ålesund and Sunnmøre Alps" class="row card journal">
+          <a href="Norway - Alesund.html">
+            <figure>
+              <img src="https://lh3.googleusercontent.com/pw/AM-JKLUD0ACosORlEVT7SuRf_ie1e6Ayd08gIuQ0TW5TYaHNsDTDtOYepSYn-GSIBC3LAlw58mobY1dcZrUjDA3izQK2uiM1_EyrKkghScfg8FXb5-uAJN4hUBWFC-_I5MmtmeKXTStPp130L-gG9CfxHmpc=w2032-h1354-no?authuser=0" loading="lazy" class="thumbnail" alt="Norway - Maloy, Ålesund and Sunnmøre Alps Thumbnail">
+            </figure>
+            <h2 class="post-title">Norway - Maloy, Ålesund and Sunnmøre Alps</h2>
+            <h5 class="post-descr row"> 
+              <div class="descr" ><img src="static/icons/date.svg" class="icon" alt="date">7/11/21</div>
+              <div class="descr" ><img src="static/icons/clock.svg" class="icon" alt="read time">8 min</div>
+              <div class="descr" ><img src="static/icons/user.svg" class="icon" alt="author">Magda</div>
+            </h5>
+          </a>
+        </article>
+      
+        <article name="Norway - Gaularfjellet" class="row card journal">
+          <a href="Norway - Gaularfjellet.html">
+            <figure>
+              <img src="https://lh3.googleusercontent.com/pw/AM-JKLXB3hH3o6xBvE-bkz53bgrms196L3n2AhGxwIMzoHNYrwt6nrLxkNxw-P8tYA7Pdr4hPtcW35Op32IWWVCBRUt2zU65MkV3QA4rQSnSzhJfWBo4qm2jVlSIen-mOEkm1BqerCz0URFVdaoDkZ7vMm70=w2092-h1394-no?authuser=0" loading="lazy" class="thumbnail" alt="Norway - Gaularfjellet Thumbnail">
+            </figure>
+            <h2 class="post-title">Norway - Gaularfjellet</h2>
+            <h5 class="post-descr row"> 
+              <div class="descr" ><img src="static/icons/date.svg" class="icon" alt="date">5/11/21</div>
+              <div class="descr" ><img src="static/icons/clock.svg" class="icon" alt="read time">7 min</div>
+              <div class="descr" ><img src="static/icons/user.svg" class="icon" alt="author">Magda</div>
+            </h5>
+          </a>
+        </article>
+      
+        <article name="Norway - Sognefjord" class="row card journal">
+          <a href="Norway - Sognefjord.html">
+            <figure>
+              <img src="https://lh3.googleusercontent.com/pw/AM-JKLWBFnpOZFcxjoqbzgTF4r2SEibNmiL-8YeaEzCEGuuNExASXnbDJBdCr56KBxVoGgMsKE8DgB0-ieernlsw5_S-6s9m9wWI-vsu1FWw5NPmfAS8LLUMMUBtEnJexarvbZGUqA34mRjnyMvUmue7ZBc9=w1920-h1280-no?authuser=0" loading="lazy" class="thumbnail" alt="Norway - Sognefjord Thumbnail">
+            </figure>
+            <h2 class="post-title">Norway - Sognefjord</h2>
+            <h5 class="post-descr row"> 
+              <div class="descr" ><img src="static/icons/date.svg" class="icon" alt="date">27/10/21</div>
+              <div class="descr" ><img src="static/icons/clock.svg" class="icon" alt="read time">10 min</div>
+              <div class="descr" ><img src="static/icons/user.svg" class="icon" alt="author">Magda</div>
+            </h5>
+          </a>
+        </article>
+      
+        <article name="Norway - Odda to Bergen" class="row card journal">
+          <a href="Norway - Odda to Bergen.html">
+            <figure>
+              <img src="https://lh3.googleusercontent.com/pw/AM-JKLUMYCFsOMh-g6Khnppl4FY67DHNOoBQUVL2eySpcq5K97qJqTG_9Q-BOY7q37jedGGdmpK-DFDch4Uy-MaS-F9JDkxt_VXLO-ePhUSwtlRSyHzeyJIO2LSCB_khfJhhjnlaeIf97VXvOjnrQ0ljkm_F=w2092-h1394-no?authuser=0" loading="lazy" class="thumbnail" alt="Norway - Odda to Bergen Thumbnail">
+            </figure>
+            <h2 class="post-title">Norway - Odda to Bergen</h2>
+            <h5 class="post-descr row"> 
+              <div class="descr" ><img src="static/icons/date.svg" class="icon" alt="date">25/10/21</div>
+              <div class="descr" ><img src="static/icons/clock.svg" class="icon" alt="read time">6 min</div>
+              <div class="descr" ><img src="static/icons/user.svg" class="icon" alt="author">Magda</div>
+            </h5>
+          </a>
+        </article>
+      
+        <article name="Norway - Trolltunga" class="row card journal">
+          <a href="Norway - Trolltunga.html">
+            <figure>
+              <img src="https://lh3.googleusercontent.com/pw/AM-JKLWXuQLNnAV_GgpAuqG27_qW_MBbSNxONT1g6HPX-9yaB42GRWVyOKGWHlcghqqgTiVpDLZkhvgdXWBhb-wrhPafozRfSflOipfeGeAZmwVoiyLUFjd1W3IvmGNfSF5T-kIe2f8yG1MC72yhfo4ZxZxz=w2092-h1394-no?authuser=0" loading="lazy" class="thumbnail" alt="Norway - Trolltunga Thumbnail">
+            </figure>
+            <h2 class="post-title">Norway - Trolltunga</h2>
+            <h5 class="post-descr row"> 
+              <div class="descr" ><img src="static/icons/date.svg" class="icon" alt="date">18/10/21</div>
+              <div class="descr" ><img src="static/icons/clock.svg" class="icon" alt="read time">5 min</div>
+              <div class="descr" ><img src="static/icons/user.svg" class="icon" alt="author">Magda</div>
+            </h5>
+          </a>
+        </article>
+      
+        <article name="Norway - Oslo" class="row card journal">
+          <a href="Norway - Oslo.html">
+            <figure>
+              <img src="https://lh3.googleusercontent.com/pw/AM-JKLXfZkVrUbONov6YSJeNK97-xBkeJhz8BuKV2BPhFF1UlmGKHu0u0xT4VV26usold4Dh5C24n_RkMlG_3x6AGvNxwzODb9YYJcRkS6oGGJ6m8UIHxk4Znp-d38QwrALROT4ldczAtKTZU2fZUhJv3pQK=w2368-h1578-no?authuser=0)" loading="lazy" class="thumbnail" alt="Norway - Oslo Thumbnail">
+            </figure>
+            <h2 class="post-title">Norway - Oslo</h2>
+            <h5 class="post-descr row"> 
+              <div class="descr" ><img src="static/icons/date.svg" class="icon" alt="date">15/10/21</div>
+              <div class="descr" ><img src="static/icons/clock.svg" class="icon" alt="read time">4 min</div>
+              <div class="descr" ><img src="static/icons/user.svg" class="icon" alt="author">Magda</div>
+            </h5>
+          </a>
+        </article>
+      
+    </section>
+  <div class="right">
+  <!-- Dark mode toggle switch copied from: 
+https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34l8 
+-->
+
+<div class="theme-switch-wrapper">
+    <label class="theme-switch" for="checkbox">
+        <input type="checkbox" id="checkbox" />
+        <div class="slider round"></div>
+  </label>
+</div>
+  
+  <style>
+    /*Simple css to style it like a toggle switch*/
+.theme-switch-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.theme-switch {
+  display: inline-block;
+  height: 34px;
+  position: relative;
+  width: 60px;
+}
+
+.theme-switch input {
+  display:none;
+}
+
+.slider {
+  background-color: #ccc;
+  bottom: 0;
+  cursor: pointer;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transition: .4s;
+}
+
+.slider:before {
+  background-color: #fff;
+  bottom: 4px;
+  content: "";
+  height: 26px;
+  left: 4px;
+  position: absolute;
+  transition: .4s;
+  width: 26px;
+  background-image: url("static/icons/sun.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+input:checked + .slider:before {
+  transform: translateX(26px);
+  background-image: url("static/icons/moon.svg");
+}
+
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+  </style>
+
+  <script>
+    const toggleSwitch = document.querySelector('.theme-switch input[type="checkbox"]');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+    
+        if (currentTheme === 'dark') {
+            toggleSwitch.checked = true;
+        }
+    }
+
+    function switchTheme(e) {
+        if (e.target.checked) {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+        }
+        else {        document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+        }    
+    }
+
+    toggleSwitch.addEventListener('change', switchTheme, false);
+  </script>
+</div>
+</div>
+  </div>
+  <script>
+
+    var cards = document.getElementsByClassName('card');
+
+    //get the category
+    const category = window.location.hash.replace('#','');
+    window.onhashchange = function() {
+        console.log('hash changed');
+        window.location.reload()
+    }
+
+
+    console.log('the category is '+category)
+    for(let c of cards){
+      console.log(c.name)
+      if(c.classList.contains(category) || category==""){
+        c.style.display = "block";
+        console.log("yes")
+      }else{
+        c.style.display = "none";
+        console.log("no ")
+      }
+    }
+  </script>
+  </body>
+</html>

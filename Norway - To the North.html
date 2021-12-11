@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+      <title>Norway - To the North</title>
+      <link rel="stylesheet" href="static/css/style.css">
+      <link rel="icon" href="static/icons/favicon.ico" type="image/x-icon">
+      <meta property='og:title' content='Norway - To the North'>
+      <meta property='og:image' content='https://lh3.googleusercontent.com/z0IGDFJSny6HQGszN8VKnBSBGGx_VBCHQubYveHES6Tb3ZyOB2yX3cLUDsqY0Cs8fBeKqf1pV-ta-jLFDqduCCX5gJDxeYQUpfABVu-swWCPa9ElqKbpfWZo98P33VUJZEEdOPakLTRrNvEZsu9CrXbHzXgVQGQPIjDdHdp9W38e9o45-cd7yhxIHEeN3nQgK1VZKT1SB8zsVAFMqTqbvbNrnq7RJCZmQGnI7FlP2nezHqpzOT9-8Iv1nTkdW_7rZ_ACb6LMRb-2RZG0RQTYGErOTRkgNkIePK0DrOJCuYQKPFuVA4QFA9OofgCBdZUb3wdr6nvk3gtf1mKjYz9-iw0tpgelWhqbpu9PqQ9Ky9wYcW6m7Jg1SU0Jii3sHZ5ERAc4sr12Ry34SSSc-qrw8ZwgN8pMa5FYZLbKuv7lY-Qh0zJYgnAqO0LeRvyj5rPnMVPVQ9Xk93R5UCKQo1sy_XjnPvk7Y0MXD4T9nTtUg8X-ZMx05cZ6kQJj1KcTZhoWF8yQwCCDZmb0GrVXmimQ5kQNeGeTivTj17xoYENWnBAW9kMMrwsLV-4xGJo3mrV_c1dbcFQpnQnhoLX-NZ11gTsc5NCNLjkAyTqXVkyOwbslpTVFems6J68RbbqEZgvnIaIj4FdttCKwI2fSIxfGwf1_GH8ZsjqPvDEHrfGUD4_uG75pMzVTv6sbp6s_CrX8QX-jVX_MQZIGe_YFL8SQI0jOnQcGWU-mwtz85XMB5_GIL-QxPRV_Pdd7c0BrPaxmynmUjA9zGfEVhPtF=w1500-w1000-no'>
+      <meta property='og:description' content='we go North'>
+      <meta property='og:url' content='https://afauroux.github.io/MagdaAndAntoineAndTheVan/Norway%20-%20To%20the%20North.html'> 
+      <meta property='og:site_name' content='Norway - To the North'>
+      <meta property='og:type' content='website'>
+      <meta property='og:updated_time' content='13/11/21'/>
+      <meta name="twitter:title" content="Norway - To the North">
+      <meta name="twitter:description" content="we go North">
+    </head>
+  <body>
+  <header>
+    <h2>Norway - To the North</h2>
+  </header>
+  <div class="row">
+    <div class="left">
+    <!--copypasted block for gtranslate -->
+    <div id="google_translate_element"></div>
+        <script type="text/javascript">
+            function googleTranslateElementInit() {
+                new google.translate.TranslateElement({
+                    pageLanguage: 
+                        'en', 
+                        layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+                    }, 'google_translate_element'
+                    );
+            }
+    </script>
+    <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript"></script>
+    <!--end copypaste-->
+    <nav>
+    <a class="menu" id="home"     ><img src="static/icons/home.svg" class="icon"><b>Home</b></a>
+    <a class="menu" id="journal"  ><img src="static/icons/date.svg" class="icon"><b>Journal</b></a>
+    <a class="menu" id="archives" ><img src="static/icons/archives.svg" class="icon"><b>Archives</b></a>
+    <a class="menu" id="other"    ><img src="static/icons/infinity.svg" class="icon"><b>Other</b></a>
+    <a class="menu" id="vanbuild" ><img src="static/icons/tools.svg" class="icon"><b>Van Build</b></a>
+    <a class="menu" id="about"    ><img src="static/icons/user.svg" class="icon"><b><span id="about-txt">About +</span></b></a>
+    </nav>
+    <div id="description" style="display: none;">
+        <img src="static/images/avatar.png" class="site-avatar" alt="Avatar">
+        <h5 class="about_descr">We are a recently engaged Franco-Polish couple travelling the world in a homemade van taking pictures along the way.</h5>
+        <a class="email" href="mailto:greenpilloz2@gmail.com?subject=Mail from the Blog">Email Us</a> 
+    </div>
+    <script>
+
+    //get the home (baseurl) address
+    var home = window.location.href.split('#')[0].toString().replace(/.+\.html/,"index.html");
+    for(var elem of document.getElementsByClassName("menu")){
+        if(elem.id=="home"){
+             elem.href = home;
+        }else if(elem.id=="about"){
+            elem.href="#";
+        }else{
+            elem.href = home+"#"+elem.id;
+        }
+    }
+
+    //get the category and display it is selected (van and fat)
+    const category2 = window.location.hash.replace('#','');
+
+    var elem = document.getElementById(category2);
+    //if(elem==null)elem=document.getElementById("home")
+
+    //creating the van icon
+    let van = document.createElement("img");
+    van.src = "static/icons/favicon.ico"; 
+    van.classList.add("vanicon");
+    van.style.paddingLeft="10px";
+
+    //displaying which category is active
+    if(elem!=null){
+        elem.appendChild(van);
+        elem.style.backgroundColor = "var(--nav-selected)";
+    }
+
+
+    // the about button logic
+    var ele_about = document.getElementById("about");
+    var ele_aboutxt = document.getElementById("about-txt");
+    var ele_descr = document.getElementById("description");
+    ele_about.addEventListener("click", function(event) {
+        event.preventDefault();
+        this.classList.toggle("active");
+        if (ele_descr.style.display === "block") {
+            ele_descr.style.display = "none";
+            ele_aboutxt.textContent="About +";
+        } else {
+            ele_descr.style.display = "block";
+            ele_aboutxt.textContent="About -";
+        }
+        return false;
+        });
+    
+    </script>
+</div>
+    <section class="main card post">
+      
+        <p>Trondheim was the next big city on our way. There, we managed to change our tyres for the winter ones - a necessary condition if we wanted to continue our trip north. Of course, we also visited the city - the center is quite fine (nothing special; northern cities aren&rsquo;t known for their architecture), but the most important sight is the Nidaros cathedral. Trondheim, called Nidaros in the Middle Ages, was the capital of Norway in 11th and 12th century. The cathedral was built over the burial site of St. Olav, the patron of Norway who spread Christianity in the country, and it was finished at the end of 13th century (after 200 years of works).  </p>
+<p><img alt="Nidaros cathedral - the northernmost medieval cathedral in the world" src="https://lh3.googleusercontent.com/8WB-aFn2CHDxW6pxLji0A7euYrMO1FZgHVV59l7Q21BR2KCcMHN38gerwLtCrauOXWOVAbhDIfu1bK7dZZrloD_77K-AbdWrrMQPfm8BHC0-prQQz4OKv2bcw2DwkiTOVtZZ6ABqEjHfdneDMnsu6IdO17CKWTB8fUhCQ8O3hMSWUQybNntzirpx90DiJmjHtFflw6jHbBqcp89QKL9CHeqvHH2Z9K7Wsl_qVouxzjtGWJrxoDKAjU0YSFm2KSBVeyvqw9uh1IvVGv5jrQ_MpUEQmmvELwS6CDUsovbTvA3jRvd40ow93nM7DgN-hPm-xt9b2HCWxkm9Qsvzoos1G2FHQbQnFR17PBbGk8M3N8QxHKb9Ni_lgarjHRmBFwErI0yvfSIRYMrHiKVwJc8IBZP4FN1m6VbRtq55tQga0X0RTPqwKZyl8aTCeZEKJ7cFSTAP4l0-50DfFofusg7NNwd9a3PUGyvN2vcdXPM8drqLAJwr_X7yrkhRvcfokC97dSUHmZCqbG_TRUpgf1PwIJWFZOyZlulGm6kNMcm_a32rkRVJbFHS_oCFULtG16VORtvpxoKUA8iBr-cbbO6befjH-5HAKqTQ6T3gQM22SMBSrPuKmbiBzIzpaUaiGgtQJv_8CgHdYgSeHxr1WbDYjcUXYLlT6LPDPeabIS5_MSC_qIo6DyFdeZhX917EF0r6kz_jNivvH4DAePktD_sTzzkyJBx3noQhDGmX88hEG7h2Pq2UQbJ8kF0zefWoT9Qen0qETFgnLk5PQODN=w1500-w1000-no"></p>
+<p>In Trondheim we jumped on the E6 road - the main North-South axis in Norway that joins Oslo with Kirkenes in the North, close to the border with Russia (distance of more than 2400km). Although we won&rsquo;t go this far, we took the direction North. The first milestone was the gate to the Northern Norway - the symbolic border between Northern and Southern Norway. </p>
+<p><img alt="the gateway to Northern Norway" src="https://lh3.googleusercontent.com/j18Rz8qrYfxRKSUpPNNt4kn2vJIar4EUOgh-dFH_iOv9rMaa9GUcFTdEPhwaMayYx4m8g_7MQi3Du3pl_dJ4TXh4zuAiuXXDnkmh0-6crjulXxH7hdTSuIs2SDALwzikWA3JWdm0-RMAJAtQkOt0JdgfaM2CuKIr8sikA2Vj5QEss7URDeDqgylZUkodC1ifyw3rZ_DDs_wXj40k96s3313_1eDmVmwb9n0j7K-KZdUu0kxA4rodYd9pCOzf1u9U8-dSTeWBOVWnDoVJF1qAYuM8wODaPRBfLC7a_S2t-g1aUAueH69WknF8upwLuLNOK94TqDW3DjXJ1HWA7Ooh8syblFwEccZaMIO-LhjM_n1UdUqB8qnVn6lhNCoaY_3kCjHjGsJxJIh9haId1gHEpQ9EY4FL4aGG4rnUtIrmZqBK8aJ1_9LksZCfEMs3IUMYLLcb7r5Ol6pW5RTxOJ4tojMJJwOLOVVrILLX9rz6wAGNd_u9S8KHYxAF_z07wlpsHJUYtYR1nyngdOxTsgpjvlvxoMkI1Cckd3XQsQ4wYR_Bof2SiNmf3PNNznIGcHdYrmry2ZKZdjit428qSZVNjZl-OeJLv-J0LY5_1nwagLb_h2gKFCwNjMmj1rcm7CcuOF8tkMCzwBZP7uSVKGNjnna0Jj4bpAdkTYu4EnAN3RoM7NCSLcsXrwySARxn23VJzQNm_4uOIA3ZbbWD5-Y6m70l3ULTHROs6Z5T74ARiDzv0YIbtT6peO5YfzqYk5BtZ-K3T4gLHKV-Q8HC=w1500-w1000-no"></p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7426708.020507553!2d2.813990651585053!3d64.97361858620741!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4673f25ec6e310b3%3A0xf45ed5ab4d34152d!2sNordlandsporten!5e0!3m2!1sen!2sfr!4v1636831289211!5m2!1sen!2sfr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+<p><img alt="border between the counties of Nordland and Trondelag, where Trondheim is located" src="https://lh3.googleusercontent.com/US9MzeNgLroUrsueBu1udzHJCGSwN9sl9nGIgMPeF_1dibG1_UHaf7mbEw5w1sbw0lksNmrfjq54lk8gtdkF2gzUCOewVb5W9ekmEiEnl4cLFxqTgVU5OdJVFAJyqPsfgvYsTND0zMZl1h7DHaP_zqth7sQwsIrkAZQmnmhRipP1Tuf-Hz6DtZpS6NYsL669WdqkEOyJhSqHw76v-R1k7Q48D6rqOjNsXe1kporEbyEl7po_jfomcO8qaxPvSUFEVbDVqh9TUCMKjV8uX2t81jhpzgRezeLzA_g9uuYfmlbhmEWfYCekRMvgXUrdkHl2zVRYtin1af7BH8gt6Ze3vThyDzunuJDLdXLeZnvrvNJ72edaPtFAUdqNrCZnEocs4c_Bs8br1lOB2dfl3Z_8aZl1xn1NQl-owDpwM4rrm6yrATmHiVT49hP7EV_DRd5R87x2-G-B9uaVSH76HdbB4k4AZ9swqzP5wZTAtsHBXqjv6N_nypzeLW7tN1IBAI_gefv8uhnz1N9u3-VUaaBlGXuu7W-vgWOZpk2ZegnyzqvSiqGoevKHH906CKo5smU34paJzXO4-RM5JJUkEV3SHmN-N4uRAfV4kukNKKZ8bBarbwA3hSFnjMHQ_j4XQI_m-Gj56KjllN3ZsMnUtGaQAwRPv6SudCVcpocM1X70kaUfwf9V6y249SgQFdaVW26X1HMaICpN0vQNRrllKBSIvfe_PGk81Yn1UOZ7woL_LNiektCKm9JQQDMCOJn0Kop5e3B_5gY73bztNUtZ=w1500-w1000-no"></p>
+<p>As we continued along the E6, the landscape has slowly turned into taiga, with large coniferous forests and lot of moss.  </p>
+<p><img alt="" src="https://lh3.googleusercontent.com/06_k1gg0AnJz1_9bXjCGURrQesobBx1JYN5oLHAf_HXY_6OYhIXONz22kQFjbvNAHC-TiVNL2p-yxgRNInJ5-OOEhYdJNg4T7FgIC_Dvcsut99EVWr-cddw5bofIgf7GWL63TM-it2LwwrAVUuRWDAaD1VTMlafvrzObCHYHZotxelz3TIytyTR8YYdk891ZqmgLUf3F04YiAzZJJCMSfgorADhAxfREW3G4wyyzKvN3Q_1TNLuWDbIf1VesUuKgNV0xnTn9T6ioqx0wH07evJloU1Vv3TCabEznHpM4jWSVW-N3reckETyUBsdnQuHkC4s2yYM7MVhxm38BLDyuzdSAzCNWse2R7E_TOihz1dpJCfutJrTnpiZGHNxrfRCEEiQRvt7a4RMkkhxfAMTwqEW8Fc1c5EasuQiuF-n3qo0Z8jbgaKPc4wfEobrDKpDC4Np6WBfbHB1jZVHK-fFRr5KN9ckmPZxIo2Adn6a_YkYqp8HNoO6P60jIyeTSKr8_3_SmfLXeTsNSOs3XfRyQrDQ49UjxUdVOfGs6b2ytmOZPtlgBU0mkOYo6E9KhTznfP-2OH9Ernne8l6fW1FARXDz-hmlao0pxGILLJ3shvC1hSOqycJBNCEJ81OIXg4yE9YMQGbD9HEbW25ja5Xd0n6JfUzNozZ7MwCadL_aCrCLGThFM5NMgxfxZAMgL1xTNR3K1MWKu1MtT4d1L2vrbNWtjNqTfvM3FSZWjzDQHScAaLRzKhGuJCeoW-t5aNbFWhz9VvmFSP4bHGQ5A=w1500-w1000-no"></p>
+<p><img alt="" src="https://lh3.googleusercontent.com/TBKiXAPfD-3ViGRiELFnHBuco_FVz1P9-S1C5NwUcA3VPKWF4B0ffJ5hE-P_A9uFYuvj58y2U06w_Xi6tAD5zJWETC3qjgd2zxjy40d7VgnIJ1u5LcYSGA9EN87Nn4yPPkwgfpl1yaahk45vy_fD5rH_H3Si3GY9uisZQjpNzvgFqsxp_cZhzGk0IfY8E2pzwAZBT9FLjTlv5PJ1SBIWJvNveweJo4bXAzQBUjKFSAHpi6YlQMXxcoFMeEc35HxUznZBECwe0nG0duqb7Mes1YZveI9HfaPBeYOxnr2bXOqs9w3Og-dkg_D6oSjX_H2eBYiWxyehQXJILOW7f-99oTbfIQBT_5Jzim4AZyggZJhdaCf7aIDqSIYqWTMQ9r4fKlxjlajuA3MugTLV0N7Q08-pTXEy4LEupAUI5ova4M-E9vfU8Tco77y3XmFgx5L9fQJjENiPTeUyUuk0N34XpN_OdTz7PrmVbuQ7f_e5ZtTAzGPQcF5JnWztQLfjY6DB34ve3Pzd-XNw1ogz-F0plo0RiKkRzwSra3wqTtp-L0O8wb832TwZyZ2kkpsCd6ZNadFW2678oGalyFTi9ttvXShQJ04cW-OfGb0frJNYYWLkarDGVDmYGNcpoZeAaJZ4xDQTgt_3-XQGxXEJ3_m1_zgkM3vcUVD2kIa3k-8x-kMHzWfGRpmUGpjV1938IaRXOVuycfpLmyLTdp5iEwx040O1n1t2YW17yjfV2kMrZZ9lBXvf20_KpCKmY4nPA7s11Pwj11uFB4kZ7EKy=w1500-w1000-no"></p>
+<p><img alt="" src="https://lh3.googleusercontent.com/ehox-hoYtDQNa-ZUeT7AKkLgWh055vKb_PaVa5xmD_RcqAZ3udhqB7k0EK7d_cLpCPRB2yiCoeGGnhNb_pBeRjqLzuSt1sfkBnLo0BC6wZsQe4fNwolxS-crmifKy-xgqSzzebNI8UTgPepAgN3-tNH_ScFxcKQeK3mIfq_D19NFZcscbvDmxv9Mxp4xNgAxrsjFk1RIQNRG8em_jTIUHL_iurP9lgn_D-5KqV6qmRegCWEwse7V7oggR0AyqJ3G7XKbikscMrQGucc601yUpXfHLnxjrQzkDbb8NYOUSLUSlCLEki_xlep-Loo7HiiXmjv_Zp6jDaFZDw87IdPwRocLWxBV4upxW3rgEdn5qFFJOhRM0csWMKB1ZQy1VepMSHcSfuyI8QLAKTPn_Ac8eZl_8qmK4MxB6PwRkGS_7QbcUXUDe6ObG4sLCC8_Qoc9gbt38QMmQLKhbphakBVQ-c27N5zkUO8GyF09umlns24XktFPM8u4ux6cjvCJh4lnzzYLqnxjeO9TVDW80yB-DSm-CTgOcJMdagJ3CKKJV6Q7kODgqQBpNAN_ViGXIf9ddpJ1DK0igzIOjEI6cNDalOT0Bbjwvm070vB7I3UYx7coi1dgo2rVHtTt96We7XokXusFlnZcM3MOtMzfgebOa_C_5NQAWWBaLA47C3EHK7nQUTRzlE_M6NcguHpsI62micgZR2rqGwInPTqrf0w8P5iSwKffMciNM4RjzxtUNlNGKUBqdEV1qOm45C4STbCpWOWOEszPbImQl4yn=w1500-w1000-no"></p>
+<p><img alt="" src="https://lh3.googleusercontent.com/TFRp7DWfb6Eqwkg8F9BNrkPbWY7io1xpHfFWneRHwXVbqAYRz_2fHmxDHnmf_EL5tj5pveuhN-LgwaJRw4zn9W5LTlYy06lm4VBQrlhRtP-7TM10Tvn8aA8fF0nYQf76Wsl3uyXgPp82xwYqgAEVUGJpU3BW2MzLHa7YHPw3AeD_AP04tcLysbel2uHVyYcLlO5_A6bkDHDNI01BqHhHfgliO527dR7Obd_Ku0sLrBZPbdEnYMMbswIUslkVMx0yAU42Pd861PT7F1mw9FJ9o2no4-N4l1wgqqxRY4HqRNl_DNK0xwqfhJgvvA1Ehgx5csbKbT88FrAKIk7NDUfzorZxOtdfLLpFbAZlW47onepJQ3DPkh9RNlWtYpxu_pSuT7a-zC8aPROLcVPZv76QRK-kGEPZTc2A464PBs8tE-qdPnS8ouQ3XFf1vDLOYUC6KnSHQWFAQxfbYqkujX4cPMjIvQizh0_T-1LyGaQiYxuRR7deCBF6XZokZBZ9yaIM9ZuG2bh6d7NLL6LPeQCVinsITCW6Md7lOP5S3bbfDmlHmoI5sKoMs4DOAz0SznHV9GIjrRh38NgonKXKYpBpg5UwDxG0QbUQgciJxVW1CV6Q-aCpndfO-ZyZSdPKtsr3zdWBdm1vOqVReIiEBq0g1wfTWgHLKXcs6MZHVMCvVVU7laLLP-QuOamuYfWS2wvCM51KckfJWcaydyDZW4-I8T39LvITg_YCjmboWGevrm2H1jEg49hMPtRfxuRgIzlRlWpOAlEUs7i7KeSu=w1500-w1000-no"></p>
+<p>Shortly after passing the town of Mo i Rana, we crossed the Arctic Circle. The crossing point is well marked with a little statue and the Polarsirkelsenteret - Polar Circle Center - next to the road. The center was closed as it&rsquo;s not the season (although it&rsquo;s basically just a souvenir shop and a restaurant so it was not a big loss)</p>
+<p><img alt="" src="https://lh3.googleusercontent.com/z0IGDFJSny6HQGszN8VKnBSBGGx_VBCHQubYveHES6Tb3ZyOB2yX3cLUDsqY0Cs8fBeKqf1pV-ta-jLFDqduCCX5gJDxeYQUpfABVu-swWCPa9ElqKbpfWZo98P33VUJZEEdOPakLTRrNvEZsu9CrXbHzXgVQGQPIjDdHdp9W38e9o45-cd7yhxIHEeN3nQgK1VZKT1SB8zsVAFMqTqbvbNrnq7RJCZmQGnI7FlP2nezHqpzOT9-8Iv1nTkdW_7rZ_ACb6LMRb-2RZG0RQTYGErOTRkgNkIePK0DrOJCuYQKPFuVA4QFA9OofgCBdZUb3wdr6nvk3gtf1mKjYz9-iw0tpgelWhqbpu9PqQ9Ky9wYcW6m7Jg1SU0Jii3sHZ5ERAc4sr12Ry34SSSc-qrw8ZwgN8pMa5FYZLbKuv7lY-Qh0zJYgnAqO0LeRvyj5rPnMVPVQ9Xk93R5UCKQo1sy_XjnPvk7Y0MXD4T9nTtUg8X-ZMx05cZ6kQJj1KcTZhoWF8yQwCCDZmb0GrVXmimQ5kQNeGeTivTj17xoYENWnBAW9kMMrwsLV-4xGJo3mrV_c1dbcFQpnQnhoLX-NZ11gTsc5NCNLjkAyTqXVkyOwbslpTVFems6J68RbbqEZgvnIaIj4FdttCKwI2fSIxfGwf1_GH8ZsjqPvDEHrfGUD4_uG75pMzVTv6sbp6s_CrX8QX-jVX_MQZIGe_YFL8SQI0jOnQcGWU-mwtz85XMB5_GIL-QxPRV_Pdd7c0BrPaxmynmUjA9zGfEVhPtF=w1500-w1000-no"></p>
+<p><img alt="Polarsirkelsenteret" src="https://lh3.googleusercontent.com/Ksd5fY2CKdi6KWrgsjJrbp9LWDwnilea6zGi5HteTwOiakxxYUYdH01DQve50uJmoP926-jYYwBQoSomT3SXGb47MsA5rbyo9kSPPZ5oUfysYspIqktMLGdtWAw2hBWrFlOZAUVW8be3igHs9s2rwXPQ8xM8MGp2Ue0kzWSPb4j7TgqJD0_TKda4uebhpqfXqzrk3txMOOczQr5FXhuVQLskL_ZSgDj9uJjpqH2D-vsXXx9ftEijxVMrSj24MvzXCugYwfGahybXIclWI1K68EinClrzMiGlDTGw-jrIpKU4VTpvpd5J9jm0l5_XtloExSMyVpzsaTi7HrE_EoXx0uDt_3V8ZGTjt3g5zvr57BsVhdS5OPBnWoSkSTsBKyyEsfsmE6zFegNDD285TgudugGkS3ab8IufpbdLSm37N0ijEJLr0ZNwpDkVd-e1akI1l83rsZ5If0bH6nLyuD5m1F70ZGMap-pqcMSk2uj6XKhJfwMti0PxLr4yd1-fdiHbctl8FwI2GjT6AnMnBCjoTovSC_ntYEplyQBP0T8C6bPAMUhAxBXehZlRn4tXst9zmEwrI5qOBWkQDjfFHnEnZpzlMYsS2vl1SuyH6_8qtFiGJJfg_TsIRZRX44ycywko1_Un70AZtusBr6_oapJ6ZnaNHYnKKpeRHnmVqB2DumQc2M7OAXwtECKuHzH_5zGHd1mVcQ8fJjMfT16LmAosJZ35OGODu9n9BzZxwtL0Skcc2XsQFjVAukP8LrkrLN9acEK_nMopyAIlNEpM=w1500-w1000-no"></p>
+<p><img alt="we are in the Arctic!" src="https://lh3.googleusercontent.com/hRdxTMOVEojrncmsGoi3MRJYzhcXb14Jku67DHfs9J9CXS5rNoRUBM32r0emeQJxk_QnAuAkVrQ_vw9-ZuLp2MBpR3Wc9nux1YaXfNfWMtIvEFVqi_GIhWskfqQSDHDOHwl_5rbeb9Ovy7h2oKPNz-uCyXlRr4OgnoxPsiz6S4BdzX2OAPMIABFeGJfh-VEbe9fLPCYWHKdZsnEUgG-5RwMWP58ykRNfw9QQWNSOgxbldIsRPf9U4sAnVBjVrKk2krDy3Gfv6IIEQLyibX6joSab-Z77f6TdoQ27WYcBYfBxkOShAdIyWzZV0AB1TXjlrl6iaw4V6teRStLwdWtU82FIrrAXEWtLiQyPccNRYGxeCUrKDvwi2oGs3CJkVmtd7ycA92gZxlU4thKBRaYa1BAVINMyJm86AKfLfbRT_Zo_5X_ofkMBqsb3HWxjXTzEtWy4jNqRIX4AKnMeGFsREySiH10TUGnWuNoa9j9pw77hqghtf9pNnOthFS7S278UxSzqe_PoVZtgC1bRGURcJZ4-iUYUy-jWBtG1XqjJ9UTT5S5vM-EPPQaypSmvYNMefaQ9kGGpxDEGRZ6tsgn92aELei3FAUgSJoPYHI1tZ1h70MXWW1CdoVlkXJdPNiHr3o9U2-WHQJ8EHioQCzJBP15pQKAHszp28exuNV67V8-9R0BAcs92ftcSOfmaC7UBGs6bW-CVIUrnL6dRUD8bFHSDZlEPwBdSV1_8xdCN2vEtb4_0D7DDoksUADd07oWQcxjNk9OojI1Fqv4k=w1500-w1000-no"></p>
+<p><img alt="the Polarsirkelsenteret is located on a plateau between mountains" src="https://lh3.googleusercontent.com/84sI9xkkkyrNRhF86JBEjYw5E5p8FKgwDamyC8morWUQyuNpsyjzi5PdROAqJCqPah19VPnpuHBDsQ32r3M2ro3aPtt1i3fwdtqH61Fpy4qf1F01NAtOsHZRdcvBLpvzl9HOyoiFOMzlk1W8du10RP5dWmTL9YJET-cybWI3AorNEtT9F94aKg9bv4aHlnzeBa7Nj5yFuF6_v3Ikm5aj2w3hHL-aJIJ6vyZF_Cx18R-mZiVBuEputTerxReC9qao_4zyMaeLySF8ntyNQ5t-FILhgNL-OV7FhkhwG_gYxDC8iut_sAq9atILouxit22_oYNkB3YDX4mzipMhs1mMdpBIXmd701_X1GpppkpokONK2Fez-3jKLobH9EtZVIMg9EUIAIdAFN4s2zjVSuHnNe9nFJKNno1nqpr_MnwdI5LNhJ21NWGFloDWmeJVxHmT83E0xecc38uVWYS6X3KKoCsdpt8kkBfU5mqX7sQVfBS2xSJppBh3MtuFgXjyCjcoLhhDltkDNjEX-2dEf_n0gPj8ACKXSnsbNu8QYBwYI6pEss2HUPShl-IgxlKLs17kl5Alq2dyJBadICHHV9UNbZSXVlOgT8pgZ-tVzWRDgbdOMLVKSbmlklDl005rx9cKbII8WBHPw5X6-PXevDbIijqzuFgSQl16Gthfvj0sBKsnkb7Z9DyKPwyDzq9jxqsoVG01730ZZ4T6TbzekZHBcm7fKz27Yw9khrvPtXGkz_sVhPp66DwJ8aEl6GCsqM7lSdMyuScEEoPxq7s7=w1500-w1000-no"></p>
+<p><img alt="" src="https://lh3.googleusercontent.com/jsIQaSC7oPfEFws25FEP5Z0TLrZthBeGm9on0jqiT1B56wtPRE2JHpr143E3_bsaMun2hkZWqn4HcyGFoEM2TpFrHlNE0ND1VBVAFRWID39tgqTmM6d5W3luqeZr0xuK4BeplPli_NL9w-AmNs-RQT5X_KpezzVblppomFK4z3mijHFqh7Pe4s9vFYHhsVLOFCAeU_86EFezcsDtGZKAfyLLh7FxpZN-rmBEv5p2Q6wE0TepZCROXDqgoHaYoyDwWg88vt5ekWDK9UvsTrTZnSgBs_PjcWNfiHGS5wviijBZtlYSwBP9i5l9oLS73bHFA9WSkQc3IeYQnt4v28pYhUy1BwfMZ63Pcr7n2UYkxWX2n2FTWW8GiLdo2rbMsCXf1CvgaaOyVAIez57zifcAyKgSGOPxNELLlG094hsHOWevL3kw7opPThAvg3Wie0Dch9LcymUepBDmzglWdptGukf7A42Aqs30lS5khviAWVuret4V9GB4mIPculfXRGJ_AIz3V4O5QrGIVGca5xwNW_5Zhfw4fOKjQBXVQxA0BH64Foqklbks3bxuGcqMFPywhbHiT3UXNEpRD7FWxbDKaSizjaSqku3oJh7Kw97xf4YQna7mmfoxn4N0BwAmOkqMYvS4Vc1o76jDAYkHBjJbJKW0GqxUw-3GOlX7Gt1GVvJJS4F1y5MCdJhXvTXjYmmGFIZ7oPTIkf8oKomlk_fddt1CHB55EaT9hcDvdp5oT-I3htLazz9QMUWjVwlBpfSlQc3i6kFcn64Q4mke=w1500-w1000-no"></p>
+<p>On the way to Bodø, we stopped to see Saltstraumen, one of the strongest tidal currents in the world. Passing through a small straight, the current forms large whirpools at high tides. </p>
+<p><img alt="Saltstraumen seen from the land" src="https://lh3.googleusercontent.com/NzqLQvGNne256n8sFhFCZrM66EuUuGUiFVazFzr9InjNUvjgKWOKxHrV7go2vplsVhckehyfnVz7gKO79NvNXGMn_foZQpf2rMwJ7MYrfrFNcqBdd_4yZRqyZvqO-ojGaKaqMSVNzfC-3KFgokRZStRAx-Y59VY5Jqlv5GifEj8vD4c4eGCB-TVA6nnITSnj1kTQSfMYmCxS7sP3KhPVfX1kuIt3JqmDm7159rYa6HBbslPg3VSH535UK3yWnIJtLyYAbTrzRge5EWnlEgjgYVDFlm0FD6M1_ICxYzDgfCa8jRBYNldrai0cy9wnKnAqSlZhAKMDP4nCQdbXLHO2hWKbbXV-ejR1Kh9L0HcmacDqAuTQ5OnQXxXiXBd-JIaYEnluNXD60cPeShGYSGQUtsT3chIndsiYdvtu_2zrVSycVMgQkxeWDmoFjO3VW408WD5v3TsFdzndSaC2lzye1vyxHPmTDCvRTQM8bArktgfMtDhRCHEN4HUSXzh4g_UbVMpemhFfGDr1glKV8IkX--no8-cz3Gf_44p2-QMq-lZT-W-mkLb3aJ25W57dn5yVX-ST5Th5YoYD7bzrO2NqUkprtS6-OmxHASlkBO_nJiCOKaSOSz6By5CHnjOMoYEGQ4aNzsMM_OBmz-x0bfTOKbW5ed5xlHZvcc36i_-4UUn5tudqabxQwZbOcQUIeqSe7vduxrnKpAb47eODi50odRws0OWn4my2NNxWNOZGohLKmHbZHzV9GCLNmhcPnYerBqHuvEPmbQ2iYmzg=w1500-w1000-no"></p>
+<p><img alt="maelstroms seen from the bridge" src="https://lh3.googleusercontent.com/_03anbEsZMnSeeAPGjvmr_s2eO_GP92eau4r3EErU47--DV1tAoUNlgsGCjfX2rzUoI_JvLabY2jg9JPKO29L2e-MTCvx5XngpUX33KeIthyM_M4prSpt7DuFHrX00bHhPkW6Hs87Sj-vRj60DhAxhNOljtzgfNExg-PZGA5Jw6DOpuoPh6ImTF2iw4mlWCpKiXuwJekNJ-Bv503YmFpWbdc8wBUt6jnYo4qhGLzm6VReqDAF0x3GGR-EzGs_h2SETjWVk0xOUETNztu9gacrStbYfA3mwGO6yW_9iuMV66yTc-PuuZnPYDy2Z7A3yZsuYsi-77afDan4U6JsS9xA_FyOpcWJrZJAs-XpJSH-U1UXcKiZuHuGQHJ9w-s-1kY5pyYn-heK_MPxu5lQOhO8X__BFJ2jCf4idYKl9tsKxT-GeiD8y_LfJKSRyxcNLtoPmaRk3gLwEDbq0eCPVcb-6sizJ-qtZN75D1hPGxhhkVEksNXntbcPRnsUIXKrQswenmgS6KJPIxJYP12sf6CpxmdFVO9KlTKx9qmFFyRChrqiFfUu1krtt5wAA_YI3-f47zrDkyMuFMD7P__Apz9V0N0w6-5CcwRExuLYvuhScYLb9XzIJ63k1nTVXN8oDwMJNpajtFcrraB38Wbribm6kBQDrkZqJwJWAxov-wG8WRQFi3OYzA9foTOSYr3wWFUnpxiC72xfYWW0ApzSw0GImmmh1nnGsKpB_1v4TXBzZBss8w609aU3qoZoB1_odKxZkdNGIOZfM1A0ouZ=w1500-w1000-no"></p>
+<video controls alt="video of the maelstrom from land">
+    <source src="https://video-downloads.googleusercontent.com/AGQNM9KGB6nxvee6-TM6PTZJNJOGib8QZW_6dnsqpmKCUGN6c-f9jph7STWZQo-ho4-2c9gnVwq3KbJJXwEn3swVQYJOVOBKm9AWL75AckJHnGQ0wxiVueXq96F3atdGrX4ik3j43H1q4M7qg08PGs4kS_poXzSgJmJRYS24nfo_vAoTu2-EcqNZdW571aTKu0F3GGG40em14qB4CBxVDHPNGYtQfcfudCB_MtAzGw7n_JqvHluG-RBgtIJe1aUjbKmiaPFshgUcCaKFqNOifSQclIikcktGxQ1LlbHlpTiK8zaJkkwtiD4kSfuYToN9SLVLgQQcQWL5UGAfrtOEdUIAyEHDFA5SE1lwUGaBOINNq3TW82rZexh_ay2FX0EICOmcN9kG3Y_DjHdOIuhQ2JvgqNdhW_rRm3SCJGex-jlC1TI9JQRx--mJ6PdoQHnmk9RA-9D48N22LxGVVE7uTkAHYwJOsauANXsZsM_59jEwnC3pXBsmQ1DD2TokH4AYdeIUxTbRAxFo4vVbzw4ore2Er_5JjMANJGmIKT7WDlmkyKowBkwpParjctxZPdT3tnt_1nr5rMbFzlxTsqORhyxi7c3ZZ4jA7-VGSKOwcMicPUJccGJaVRajBw1Ha0P6roYy9uedwtWjJURMp10JmS6bv9MyuTNQzxVe_Zdt8piTP0a6UlzWIAQtOicwqekN6CQVQ40yyVSNCcAlS9_N9uV8hHrUgYYTD7QjYuBw8vUm2SsNkHLdLBvqMoCkVKP1zcpyrQAHLdheM8PiAaMGN3R4WP4ZB03zIgWyIQWEnQZwykGjk4dDsB9wJXZhUnDkgfpV4eDK1L58nTJILacqzftqeiXa7_HY85mpS4y4wFpKwfPgp5v-kCGa81qbySV42Xd3vYuH4nLjZk_Jq5CLDfVY-rewcNkftmDwLjAVm-xGrA2K-ybEF_32yINJa0oPX3ml6HZEebzLpQ8SFvKZ3S3BsmQ95PvIIpWzyuvKlkxLbSzokxgrQR0_h21aWEOBTBP225Mc24dPBExqU3QzM2VU8mLGlynXaQ?authuser=0" type="video/mp4">
+</video>
+
+<video controls alt="video of the maelstrom from the bridge">
+    <source src="https://video-downloads.googleusercontent.com/AGQNM9L9C__UcZQ3g1fWSXo5zChx8twbwsFFqaj2bRKPxq0rH_TNVOfpATf1wOCxFtKwbCWb7xrxRNTNoILdfPqweEhWGkRaZyjfOOCc871AicsQizZhMF0pT8aV1vxq-okkm5F5GDFjWG6YF2J7b1bjS14x4Tp43FnqctSdpJ98LBAuW6JY3mKNdlaMMcjc-JBeNLJq9qv5X6Zm4qsRFpcOnWvQpaXDet5hWFcS2EXOaSul-hQt37J_yF5LKCe3HBcwWm2d4cGw4eaPn8Utpr-F3bRjKnXJHVN-l2F9mzY8QCDz-7EPr39aumpUYzmzqNNLB7jK0SvRVA8vcutNkJWprWZhfAgjWQwEyXz6nrFB3Mnao8X1k6R85w_w57sJUCJRJO0OCj2HQgXGhB83IU6RzAnQD8LJXNup2KPRyrpouCrX4Jyabz_aBVyaX6k1yZMiVA1rGGwvE9a4lUmRYt5iNZfrStvvgLzyodH7wbdqKf_MjaxAqMp_0UKefNKMfThs0Ia5t9fK9MBFHstUjqXu_7g8g6rSz-HMhODV5hN0QdofT7lvaLLcEc-s4AnBQ9SXWqTTb9FcmsQvw8vQeDmaIEuGXrof3RSrJX68ECgrjUqmNkrX_9nRMgJGp_H7c1OntSaGCOxj0x_3s8F4ebmZ092on-UaMOVjkLqxayk4GIyqfzrWNm0fT9WweXD7tCI_qqPYOlizwtBH3vdhqZboRG81aeqbiHbMiUvUAnoFKs2RhDczWG_SsBCSRHTU-43ccgqJnr561C-jDht0cxSOLOhtzgwYxNiHu5WO0i8M8_M3CNqd4RQ3HUPWI_GL8RJ0snI8iTE02_KXX2HLoDSOSWvvqMZxGF4ipXVFCCRDj_Atuv8NQxxRiyyTak2GH08WegB5FPt_sVVjMcIuTuvAntbbCQORaZpHbdlvdcQWpa4Bvtf3IMs?authuser=0" type="video/mp4">
+</video>
+
+<p><img alt="Antoine demonstrates sleeping in our van" src="https://lh3.googleusercontent.com/I0NtjpAifOyfSzYWN4FceI_wW1qX4LlMRRLvXHpUXijN8p87RwFbHYBXAx-10XS4q32awEYia151dTlAmepiV6L7l3kFXO9TkwhSvwQCbccYfKNSPcec1etaF5T9p6jFz4HLzhwf-nZcoAlfNdXFikSTJz8I4wwI3mOH96_liGtQhH12kr_kJTDRiVqsJpIS9A3XUGLmguQkcohRg2meVDJ4YRvLfQepr_r09RgIgV4XbbdcMhQI8T2BZ6hA0c-yKirPaDDNu0fJhm8jC-239Xf9pFf9fwto3RtN_yKVLNRIDymw7K9ft11Rr1tFp3Iv8xM4OtIAm78S_NWHFOFW0V9QTJmeqqoiaVvkAgwy2j65Ad4PKHPO1dsVUSNaKLtcywLkjQuP19vGEvxxyMZjDKVnutQEam2qkZN-TjDvfIn2XbO2GVmDyb27_pZ1dUMOF7RtJpVWWmvo7_s10NsPcIeKOeSqEf8R7lv4VYjG2zBooz-1EWJOVJvb7Zcn7ZIT3nWd9M7W167Q_S9TvZpQgrhCmvCuurC42WNgyP_yO3Z7OhAdH85BgJOnhKkQVl111s-_5ZPeOaTKFD1CTFdXkiG1UXcFCy7z5R85MTg8tsYag4UdRO-mKPzbxmt3Dr5GseqD2JZQCb9qkwsie-BPq3KJ24x8IGXnTw2droyBTYw9vCaeSTzOYoZEwS4Y84eaqEgElpVQo89tiIDhfruwSER_jw-ynQ3ztA60x1yaDuMv9Mtjm-omYBPVe2I8QsLOfAx_93hn-M446XZU=w1500-w1000-no"></p>
+        
+    </section>
+    <div class="right"><!-- Dark mode toggle switch copied from: 
+https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34l8 
+-->
+
+<div class="theme-switch-wrapper">
+    <label class="theme-switch" for="checkbox">
+        <input type="checkbox" id="checkbox" />
+        <div class="slider round"></div>
+  </label>
+</div>
+  
+  <style>
+    /*Simple css to style it like a toggle switch*/
+.theme-switch-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.theme-switch {
+  display: inline-block;
+  height: 34px;
+  position: relative;
+  width: 60px;
+}
+
+.theme-switch input {
+  display:none;
+}
+
+.slider {
+  background-color: #ccc;
+  bottom: 0;
+  cursor: pointer;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transition: .4s;
+}
+
+.slider:before {
+  background-color: #fff;
+  bottom: 4px;
+  content: "";
+  height: 26px;
+  left: 4px;
+  position: absolute;
+  transition: .4s;
+  width: 26px;
+  background-image: url("static/icons/sun.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+input:checked + .slider:before {
+  transform: translateX(26px);
+  background-image: url("static/icons/moon.svg");
+}
+
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+  </style>
+
+  <script>
+    const toggleSwitch = document.querySelector('.theme-switch input[type="checkbox"]');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+    
+        if (currentTheme === 'dark') {
+            toggleSwitch.checked = true;
+        }
+    }
+
+    function switchTheme(e) {
+        if (e.target.checked) {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+        }
+        else {        document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+        }    
+    }
+
+    toggleSwitch.addEventListener('change', switchTheme, false);
+  </script>
+</div></div>
+  </div>
+
+  <script>
+    for(let image of document.getElementsByTagName("img")){
+     
+      image.loading="lazy";
+      var caption = document.createElement('span');
+      caption.innerHTML = image.alt+" ";
+      caption.classList.add("caption");
+      
+      if(image.parentElement.tagName=='P'){
+        let p = image.parentElement
+        let a = document.createElement('a')
+        a.href = image.src
+        p.removeChild(image)
+        p.appendChild(a)
+        a.appendChild(image)
+        p.appendChild(caption);
+      }
+    
+    }
+
+  </script>
+  
+
+  </body>
+</html>
