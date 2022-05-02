@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+      <title>USA - first states</title>
+      <link rel="stylesheet" href="static/css/style.css">
+      <link rel="icon" href="static/icons/favicon.ico" type="image/x-icon">
+      <meta property='og:title' content='USA - first states'>
+      <meta property='og:image' content=''>
+      <meta property='og:description' content='first weeks in the USA!'>
+      <meta property='og:url' content='https://afauroux.github.io/MagdaAndAntoineAndTheVan/USA%20-%201.html'> 
+      <meta property='og:site_name' content='USA - first states'>
+      <meta property='og:type' content='website'>
+      <meta property='og:updated_time' content='01/05/22'/>
+      <meta name="twitter:title" content="USA - first states">
+      <meta name="twitter:description" content="first weeks in the USA!">
+    </head>
+  <body>
+  <header>
+    <h2>USA - first states</h2>
+  </header>
+  <div class="row">
+    <div class="left">
+    <!--copypasted block for gtranslate -->
+    <div id="google_translate_element"></div>
+        <script type="text/javascript">
+            function googleTranslateElementInit() {
+                new google.translate.TranslateElement({
+                    pageLanguage: 
+                        'en', 
+                        layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+                    }, 'google_translate_element'
+                    );
+            }
+    </script>
+    <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript"></script>
+    <!--end copypaste-->
+    <nav>
+    <a class="menu" id="home"     ><img src="static/icons/home.svg" class="icon"><b>Home</b></a>
+    <a class="menu" id="journal"  ><img src="static/icons/date.svg" class="icon"><b>Journal</b></a>
+    <a class="menu" id="archives" ><img src="static/icons/archives.svg" class="icon"><b>Archives</b></a>
+    <a class="menu" id="other"    ><img src="static/icons/infinity.svg" class="icon"><b>Other</b></a>
+    <a class="menu" id="vanbuild" ><img src="static/icons/tools.svg" class="icon"><b>Van Build</b></a>
+    <a class="menu" id="about"    ><img src="static/icons/user.svg" class="icon"><b><span id="about-txt">About +</span></b></a>
+    </nav>
+    <div id="description" style="display: none;">
+        <img src="static/images/avatar.png" class="site-avatar" alt="Avatar">
+        <h5 class="about_descr">We are a recently engaged Franco-Polish couple travelling the world in a homemade van taking pictures along the way.</h5>
+        <a class="email" href="mailto:greenpilloz2@gmail.com?subject=Mail from the Blog">Email Us</a> 
+    </div>
+    <script>
+
+    //get the home (baseurl) address
+    var home = window.location.href.split('#')[0].toString().replace(/.+\.html/,"index.html");
+    for(var elem of document.getElementsByClassName("menu")){
+        if(elem.id=="home"){
+             elem.href = home;
+        }else if(elem.id=="about"){
+            elem.href="#";
+        }else{
+            elem.href = home+"#"+elem.id;
+        }
+    }
+
+    //get the category and display it is selected (van and fat)
+    const category2 = window.location.hash.replace('#','');
+
+    var elem = document.getElementById(category2);
+    //if(elem==null)elem=document.getElementById("home")
+
+    //creating the van icon
+    let van = document.createElement("img");
+    van.src = "static/icons/favicon.ico"; 
+    van.classList.add("vanicon");
+    van.style.paddingLeft="10px";
+
+    //displaying which category is active
+    if(elem!=null){
+        elem.appendChild(van);
+        elem.style.backgroundColor = "var(--nav-selected)";
+    }
+
+
+    // the about button logic
+    var ele_about = document.getElementById("about");
+    var ele_aboutxt = document.getElementById("about-txt");
+    var ele_descr = document.getElementById("description");
+    ele_about.addEventListener("click", function(event) {
+        event.preventDefault();
+        this.classList.toggle("active");
+        if (ele_descr.style.display === "block") {
+            ele_descr.style.display = "none";
+            ele_aboutxt.textContent="About +";
+        } else {
+            ele_descr.style.display = "block";
+            ele_aboutxt.textContent="About -";
+        }
+        return false;
+        });
+    
+    </script>
+</div>
+    <section class="main card post">
+      
+        <p>&hellip;</p>
+<p>We finally managed to get to the USA! This short post will quickly recap the last three weeks and our crossing of 6 states.</p>
+<p>We had tons of delay due to port delays in Belgium (two weeks), from where our car left Europe, as well as coronavirus - we turned out positive during routine testing before the flight and had to delay the flight for another two weeks. Instead of arriving on 12th of March, as originally planeed, we touched down in New York on 7th of April. As it&rsquo;d been over 6 weeks we hadn&rsquo;t seen our van, we visited the Big Apple hastily after arriving and rushed to the port the next day to pick him up. We still managed to see some of the basics: Broadway, Times Square, a bit of Central Park, Empire State Building, the High Line. </p>
+<p><img alt="" src="https://lh3.googleusercontent.com/dmx3BgFqYnep78H76DVyZr_H34e9_5KWaX3kuIbnei0UcKUYXwSMOngmsUUCt1KHKOwCyQ4zZaXWMgRzKy-vEL5kaEGczgSbxOTzHNQDKjFfLsVaf-8ei7E7Iz1u43SlsoJ13ykCVwek7ILAAZWkahKDm9VscCOlUwLPrqpOJxgfRn7J7xUc0dtN8aYpexKfKzilIwh0HrAuJaLz8uGrumBqCK43ARNCQWngqofh030gHw2kvCGQR_Fb5SQ4yenr2ZkOaxSsfXc_Ithc1FhZBRrulJu2tHK69pHsnIgxYvj487IMLfvZfiLlHSJPZP8Ojemgq6t0eJLEooTTzbQNAi52vSYJ8MPZnx7oFYjKVQdd47DgFRp_8kKusDRyk8XaINkIoJOB_mpJDX8kSy9rxSx5gHdH1sECoEFkb91gPnJaG_p2CgY0QuMB-LRCghXnHGx3qync2_O6x8b0QqY-aeLdufZwQEme1-qrYwoXlNBQL1tw384cqCcGPBplR3A2QBm-WG83PGrbElG9MvMoesuPCYYxS3-jcQNMIee5CruKh1mFecWQQQqKHfsYvY5OFlc4y-jVrb_5MXMAiC8zCHhkZGXrG5vHazZj9Fw9u0H4D9uhTIsoNPHt7fri4IPFGJmy_en4ula-Ebql2QB1gk2eV2e8hsDCv1x_UJmSFDo7Oy6ZKIuc6tSz0N08li3BfQyuxS_TVug_Pr56aBFoA0RTczZa18x9knAo1oYJUqNcCYzsC4AO7exSuXg0c11fOnUjGogL3pbFxc7PVQ8teaZso4GOo5d_KhkhmrOH1WIUUqkNiiLccA8=w1500-h1000-no"></p>
+<p><img alt="" src="https://lh3.googleusercontent.com/rCkFOIq467tsk6q0O7cgyDp5QEq3F3Fp39D7J9_4puFfyghjdw32GiGvaQN_FOnem4T9LddLLWyqt2abskpBKbqesdLPcWHN4-UAb6CNCPGqyrmSlh7LYTPdkzciq4HZ_anhE8YnPspszgerbQ9RwusMFjc9AXNeZA4ZkiIcAbe0lEV51hIFKghUubE3rgoy32hJb3VTW1xCbwliT-fm6HR_dA1SkNcMFLqg9h5TbnPzeeIjsN3KwzdH7-1Z5h-zfnQs5OCufEHg66b0oR7Ky7lGo2je1cxxnffGcMKt2lGCNRZZQf2VCAsMiODdXV15LoTE5XX6jI1R3hrZjbgWwwD6Gep6hMHMVxUu5EZhopXwvgLk0GpPEuA94aAvvCPWeg5l2DAhSrg7hVeriRwlgisPyICRUnKQ4NW7NXWRmrI7YOQ_jz7PJ125v3sgAxvqATZWjENKktpcuSxQB4QFTUUetvnd8WphZgsl9fYR0i6U6XVBl2YbBZwSyh2gJI1cMLbxbjY3CvdBNBrBSWEIcXMLLxKJWu3g-c86B3RzPutKZOXxX8NuHSFnG3vw27Fe33jv13hYziA63qwdAg5nqTdIhp3ax30DM8XjKVZBMdFCsAFsraFVbG_Ai-AUyLobFZZI1BJyGA67tenyv9CM1q7ylABN0rFoAiVtATU3zDphNGNx2-Z4HpkMz5kFSOpPJ8wi7epen-gwmAnMig7sOWaDlRO64lMEWkwvjvGcpSKu2K1uJayHOR0uThqG8fzcnWEjAjzfoFYSTiLyk8q3y4iVUY-3hiKJNT3P7rMVUwF30Y-EgIROnmA=w1500-h1000-no"></p>
+<p><img alt="on the High Line" src="https://lh3.googleusercontent.com/SmBcb4iHNj-VQRmbZbKM2VfBwKxhnzrpQddW7hzPX9wUGpCR-os0UKL7oQ9nu-4Tll9RtSsDyQ-2TRyWLg9AkXYQbq94RaYVKz2R96IVeZ71Hal6R6oVu7hmH4Z1LG9d4UoncVvNqegSt6FoSiyw_NG2_4nkut1ErPlrxPukoebnEwvXMAm9t6nSyKYJvQ-VBNel4D2C9TKWgfvQTfiKI2QFlIyd8FDF7O6P96TNtMHVywTSvE1gKoVekEI7mqe1qarFFTLVjPVdtfjaTwOIHjZdOpNIqBZzxlm4yvglVRoGtXFDWc5jvULlVFvg0gp5mdZrolt0j4uueWbBkh92y7LKteOE-6O6xUBV8Vh4Qm-6g5zA0e9QsVc_KClqT-RLcWOl-jYaVhq-TVrwetcFw69v9hT_PqCW0A5hnOwL6IMGIlW_Y5hTJe-cwKdq4mwxZpDM9rO5717C8m5fDxc4mX-cdgqYX1i1SzKctFzi9y5yccidaYFOJ1Nw6b6IivfGYTBSVss5O7PIv37Nn_eS-6UXzR04v9DGx7EnMWwZEonLhVJFM3Qstxg7Th4M194YQ3mj2Po1gHogydcuQ-xI09Ka2E3MZBjo-b90CIJ3jGFK5DAHHk6Dua7pmI4j3hRcdwsMBlRJhBA5n05jxTqmy4KSiKhJoS-l4hgBIu_MjqqUXA_--l_i0Wf_lC_2XJW-pF4jZz5iD3JgjbgUwzMLJ0gRUjd-fC711e-clcEa9JMiVJoNjltnQkHrtV7DQZeWiNuH_c32F_EtF_eHdOv30Kis2_lNYYBWESTrRW1KIAvTDen_35fDRq4=w1500-h1000-no"></p>
+<p><img alt="weird architecture" src="https://lh3.googleusercontent.com/sSHCo3vV_BFCjdOpJ-Vm_DsphfHfcJeHkMYwnB_6fmUAU0jX5I9MKD8XgKCe2wJx8ReElGeiNcEGAYDZLXzQ9KzdEod14RZj479bvAjlaAH_y-JjRLy5nzy6BaYdzoPQwsr8Kgwy9ImzanHQ2fGJYZZtaDoHaMN4oKjZ3Q1R3y2P0j7CvqB6DxbvM3MMr8Oa5j8R30SK086TeuW2SdrtzkUxj8phnW7OjCANQFVAiWsGJTGC6d1rm0i2FWHC9VVuC8m-FomHXkTtgQNBnLu-hScWK_au5zL6xMG_L-LW51iToWTJPYgcjlFh7A8uT3v0zLzjBzh4y1WytZX1P1qan6bg3knVVTUkz7a1WRgqlz_EbAfU94ygaL3aGU4aSNrJeMT-3XMf64UZ6AuHVMtP7FbpYgF_fXRhexPcEwAzwXlLWtDrr7b-d2UkLKb5Ia_w7dh3KBrrX-hHvdLCDkP3RQTIupWkdoriqmuIyyiTvnH6S1yQCJ_T33Etcog1sAK23D00Km7aFWlnpAA6HjCEpUuklblan1EwXMHTUutzuhdm83jLr-RfNT2kNxLziXDNANqg_air5K7ubWKRot5-bv09Yu2A8lKI8RfnlkIu6UvkOMR_WSzQtaijQ4kbq-BDZSnz5ZScvCE5lI64o6mIKtZLD3A9W-FSPvOfX8UfRjk2_4qw75yWlwKOMDsKGnZYYn1sLlulc7hJ_vieg24g-tjWd3-NxywgkCueG7TA65leU3BWs5UUtTu6tUaGxoFO7IYj5MTrv_Es4y6ibWgtfEw6LyHPEIUYgxTBRNONnr3UBBlefuTZ14g=w1500-h1000-no"></p>
+<p>We found our baby car safe and sound in the port, not a single scratch, nothing missing from inside. </p>
+<p><img alt="good as new!" src="https://lh3.googleusercontent.com/08MsWfAsvtiWzW1gF5OJELE5pwnp7YqyJTMAX90-REGQmCAzZqZb22HoEc71BaEMl3gk8z6JlSstdaH6ic-CEiyoKr2HgdOe81tnjjFZwTR-MizD60a_gTPMX1P0vI2T3j6TTbC71MfGiK4Egil60bnvVNEbC1lT3QAbCloofKPpRAzvdpNJJyzK8BVABn74W0nvAhD_4uy7n6Bqmf2N-Bg2t4xyhHwPageA2FTpD5zkp7y0fSvwAa3MpQLImCPXILfKFmY4xFR4p8u5kckf6FzkAHfyvOLopdBpQSAA8GQNW-HHIsEewgxsEZpPBWK8zFsWyN4Ibqph3k_6s2IklYq8lz_x-9HRzneOso40uuUNn49IhNVgBOUOQIPp0NgEWVieqFPK4-UfSTJEv6qTmlO_bVJmmhB7soVIlqzh7KdvhgL8gkmw-kXoAzmb3aKsFx1ugWiAuz-dsyyH8GwuS-RsiNMfoK3ip0_v_55iGeh8M3GANPTUQjbW5eoaiI34Hucu1eZX-aJ-N-HJ1Hyxn6vOlVl-7jaPhBAQf2n9wDSfPYRgLWoEhznpto-sw7KbmYYPK2EkHos4dS3LeGJrF3KGU4FihKL3F1ZXtZA5TG_i8Qnlu18C_FJ3qg4SvGPspi1avqZUzAiWjgYVV8KWFeraw_zlJG_RjA3HQGJ4VnxtIczKa7KpI36xb5cf8a_HeQv6ZMmzY3cfmW46RpyS17kVH8bHr92Ahj2Jutgnzq3b55_Ji0fMmdr3d4FikWmzZgka2qfZqcGDVvN1hIYguTdBo9ULVqjovPs0OS1C-E02AqhccrQTGqs=w1500-h1000-no"></p>
+<p>Eager to go westward, we didn&rsquo;t stay any longer in New York. We spend a first night camping at a state park northwest from the city (fire below the rain with twigs) and set out to cross Pennsylvania forests fast. In Pittsburgh, we attended a Penguins&rsquo; hokey match against Nashville Predators (Penguins won we saw corby? nash?). We spend some time in Ohio, visiting the capital Columbus and the aviation museum in Dayton, hometown of the Wright brothers. (saw replica of first plane and B-19 that dropped the bomb )</p>
+<p><img alt="" src="https://lh3.googleusercontent.com/hvv-jcgoj8ztihim_lhjpETgcUzpnSqE1SGIVWXOqLMq7JHc7j0PvvRvar_9ovv0FUr129Hy6f1xpy-lieUqauJk9FnzjgVGdBOvk4lYYAKrgdrQnCyKSMQWTfgWvaRLdHrTVKgI3sGU5wmaTccQeCV74Jy3R0SUjpIRVShIrh-vriP13VnaCLJRA8pWNLzjRHt1XZru0u_shuxSjDKmDFtNYNKzZmc8OzHD1oK7hanilbDZtt-dduPwSYfocHuLbIFPEUWK_nRKoZL-SwDS60-2ymAWE81O30e2JHVUIruT9X1YFyEUvorts_zrwMHta2LxG457Jt80RaojxalfkbhXDHsamUQrjspHhT62CVqJHjDoFhem8r6XSf25AMsb9t0D_C5jNPNkjBKdYVRoQQ1GSCqGL1attDhPHyT5aHJpTlE7hd1tgNWO3G_Co63vFOGstUgyXGmRs7-0INGBULm-Meqw51LBEXm1IOU-RyNTgq2ZMykn7kX3BsTMARdcLQMEgFB_wx7UXIFn8Sbt4m_CubZ1lgPZZgIddpUL7Vr0Y3AlqtWoliYHZIVyuyPiyY8TxpioSjTmz_ri3i2_ijpQSOfG7K4UhNzoxa2UHD3bvARq7rlIwzd0JaG5l0yjuP9t6xhM-pGqopAzUvot3rxAgozOhR_swCmCHekipkgaPzMSP42DR_9YLlkepFl4HR6zW0osJpqkQIn4zOKXqI-CGa1ex51g4kNcotty0KnVGjVushMzr0XXtB_b3pvmf6k02z1OULq2Uq2tqVetKO_iSBmZYfu0Qt5X0_AQqih8FMmkeLhI7Z4=w1500-h1000-no"></p>
+<p><img alt="the very plane that dropped the bomb on Nagasaki" src="https://lh3.googleusercontent.com/UMEaDQAHmXHNp_A-NV_yDHb1-syl4PcjaBYX9XVEqo1QLpywu8Usnuses1iBnTGVfmDVUjbMwReOXty0ulgu8QWYrXwf9yPyLzCvNxvG5hMTxc0W-8msaRFQSWW7aNIXV8IvIVX0Q3PPd4-83v-Urn41M1sZSoAxQBDojKIxnFcS6xhYX7Hj6jKEHzrDnyP0KUT7-zZ0LjF1FfrVGyf0x0SFHfFET22mgi8ZD38FjU24WGu6DZ8Yx9Xfnq2S0eT05HB5D4jO45f-TMickiyOGR26xTRkW9H70a13wmGWBO4X99ZWWNGtMd9vFDls5XHahJiPNftbbODfG3HQMU1EspV6Q79wGGBkTRxVL8TfJAO2jCj694pQ2grTZKqJm2EIzUyIM3FIWBhL7ylddlo1YHzhr1hW7mco93ZZL3C1iTncF67MfQ6DtBQMbgTEZugCGNqm3vnW4dU9EoWDLtz_GbhO9DAfSDPWlXOc24WhWQ2v8EMigHEZNSK_dKK82-W7Dyv3EdqzghE18hHhyC0D5HOwLsSMVqpCjpVwEP_NVgy1mZT1RTboLQTmvqmFJqEsHRq2TbHQblCQei0dlXnPkUtp6DC-5K7UGunMdOhQZhEjojK_nuZk7Yn_aL2ODzdJsrKWaNuJ6O4P3L8HCiGWxR5H7ub4SS0SEhmXdl9j6tn6dUWFxTvCdBTu8wftiNroUmt9wUIpCLnA8ljIIIlIKC672YgdbJWwvu9DCQ1pkaMLJHt01Dvj4mHZEh1SJtsKRXqOGFn8IPWdkSnE9MrtJrqhrmH0ZG86oyCPj6jbnhaFJ9sFDaiYpr4=w1500-h1000-no"></p>
+<p><img alt="go Pens!" src="https://lh3.googleusercontent.com/6YJkJdecU0zKD_NCVB6WMPhJ2S5m8h8_kiiKbk7Vnw9drPTR0yPvNJCqkpCj-ENt6r6ok3oGIeWnW30S2-R-B_FXJaIrHbtpN1zu7wyXjVp6CzqbdkHX3Foa_bMvU6F2Lj3j3HHsJsyvpn_ODsaqvYd3Zv1-xsYr9gsTDLpqYVOuaVm-GgbJtqxuZtdn1DQyuRE2EvzRegS5JAcw86ckVtFiN-F067803lj28Nq7M00EWspHQN10AZPmFND22K7EUp5-PccxNsIokHjpdTj35C5Iq7DnuM6CgZLN6ObtK8MtYb6w5MQdNjNQYY8-xMSPFCrWdkzYS8LZq3K2vns942jyzhAngdJLX9rWc7dMSrvplIUO7zMha-b91kGk9yaDy_oVAw6Tf4-2WEkgM25OiBwW-HzMRw2X9NWNC2oKh1lFY7x02nOsrcS4R8Mfn9ag0NcRv3xucZaVTTiHWt0rLZS8gPIQeDUvezvf-vMM4LgjjH7Oc2eiFW0UbXgSabm_8n0gXWw0vbr8GHWxv7ACkqy18qOCShysUerLIKHBBMPfguNsMItbr90ZKd9RqoBt6W1LjrmpReQKUHvsoT1vf_6S4WENCwxH1sizdskJ94uwZ3U3nNdYsSILdvQyT9td9bfqOBQ2C8Vcyy9ROnqPCUapV8tBWa79WbA5runf-KKdBIm1LQqNTBVNlMC9bMIoaAebVcFOxmKW_Dg8PUF22ASR-x9foBS378sBlYHLTv1NZraPFdggykbad1yzvv7e8Vn8J6Cn-6zxk89jcKQH7o9hH0DBvrXFttZmizRU5qjRR-j7sIH3AxM=w1500-h1000-no"></p>
+<p><img alt="fixing the bike at an Ohio campsite" src="https://lh3.googleusercontent.com/_SWg6T9fDL0BJ13m2bOTroVoW6JleGL1HckwUIu--bDgAjhmxGrCtMP_PJJ16WEcxByrJMDySpxN2UPM63LzZN20R3s1cpWt7iQwVkFlYh4hJSlutMBP5xLaNOpZJ1fdL32MXpPEqMDAg3LamY3IHqFd4T84d1VwH7I2lURx-6GQznFLBxzT5qF2WVGN7lPd30uwPVU5VLHiavW0SnwD3M5H90IuPLn1vuydVk55I8nlZIj7pTsk-Dl5EbDGw1rfIrodcFheLXiLuXn_VX6oE6nt-qyzysQtzMNnmwkOAI8ZnOM6tuSUri2YRjZj4meXsytTEcNaYbYwgNg0JM7tl_C_OQxeYfTeNWky2b-ANwnuXCGM-IP9PXAp-KMkrazIz_iuqBHTG6eLg1bDNIe6K10ldsqkskJjHr26U3YeZNR770lKn0I0TDNMoXxkHZJx1hpQGaB8s7fwDkc6Jcq-a24hUNNFbI5S6twEMr-LCEijqOml681QKsMBl5GFN5eyMp2sD7JuSLdmJI3k1nYqtf1Nv5zW7FXg2_s9Bdoplr7cLUOpPPzPdqNbTyAURhCk7eJOEDk-cmNK6mWpbOeyAJkaYra_A3u-Atb_SD-h8nBlfOOY5VNzteLPRqY-GzCwPU8UVoC1GaeEnhaYAaY_2y1BFFdQvdfyFrkrKF188UDYbjWjckEElUD2rT8OXfx-tf2jhXolxb_PBfaNE6n4eS9ZhtcYKbP79v6hzhI-8x0Ppo8EKfP_168n_a5LkIY64W8eLjPg5VmDWZak_FYEfUwmm0nOsCLnrQ9_OTkmu4hBEt2zw-BzEEk=w1500-h1000-no"></p>
+<p>In Indiana, we hang out in Indianapolis and checked out an impressive French fort in Lafayette.</p>
+<p><img alt="the marvel of French defense architecture" src="https://lh3.googleusercontent.com/fdslEqNGz0HB5OctbOrDrayOhuE7dqf0hftIGf7VZGiDRqQDSERnVsE1HBRjTkF0I7EVzmblk2eiIA2FzM9m8Xzt42Mg-2Ht4KiL2YV9Pvpe-k7UGIokZDnkt9AYBwdncNNecaLy5hqrA6a59PiQipZ5_tv1N8OxGwSecynLO2uzEijK00stBthGtDztmKwpwEiOXwdYFhCAak1E2Odzg-4OAj1bU3LxuNItaEjvp-NKpE8DPI-2aXlAvOjaa2hXG5v2-8NRigG2bL76-rmhNKYyVVzgepSRBt3WgoalEhG0TSgdsCnmy8U1sUGyAy2G97e-jkrf6Ey_B9KmA-BbH4XtlQd_Dcp5LXmvPcBRC2QrSU_ulL0A4NBzCPptNU4V81wqCjN0iyZfaMqWNyGVLyOSrMUlV1G_Z8PRwTGsbQS6ec-jlwfxXZX0UCzvrAkgshpoO0xX5lUrNeZmses5XsElju8SpeZXfVgPM4I68Znu0ApLaY_rEw2ij-Mfet9R_UEyorNllpfqENm4mnWSvubUKEfWWfP6M6i6kttGbqr8_y1enjWwLRsJVAKlcQcIfZRMmr_z86aGeYzwRqmVVVStxgSeaAvLy4wJqLX6M_4e4DaggPTB7UnOFtLtqQmytiB3_A_mm8kVJt6fprEuzIy3qpId6SsLRWGnT4xJlNNZ3mDJuTpB821Rtiniv47xT4m1VOUoiGK3Ifzsa8BBbJ-NJbYJ3hE_YrKABShZ--P1CSb4IGYlyYqEWlxsxZV0_j1ZDWi5rX99mtoVfpB3liLNz2Hqe7Y7_nFNYlWqFEGszCs-cZ6NWyE=w1500-h1000-no"></p>
+<p>We reached Chicago quite quickly, where Antoine got on a plane back to Paris to attend the funeral of Oma. I hanged out in the city a bit and spent the rest of the week while he was gone in Indiana Dunes National Park, at the southern shore of lake Michigan, doing little hikes whenever the weather allowed it (so not often :p).</p>
+<p><img alt="" src="https://lh3.googleusercontent.com/pGkaoAjxAUtifdp0RXdroVRjaqgyA537eEiOcpw5p0h6aQLe4UGKCnN5q8tp6GrsatYDFMq6ewJ6_8YNca1I4uSHPdmFwsjnnEFNH2yaUo4xm-0JQOonhc8TNg_VbJt7uVcKGgy1yjvsRlflCje4zCINKiLpA1erTZZ5kCs9qLwaJiNM1Q_cvE85nDgAdC7RsGobaKCltsj8wUpFNIAurLw1C4rqDdkxYOBI9A32hsVPOfsSmw__o_Gbxh3YPiSlsE6NaI3-oBcZi8hhbBKhhwBvZlqPdpR1raKfAPSkYmK6CIPIvE9n9SSSFdm7PXNRvPJXKEvuyV459IyPzv8jajeRlFUiLsYTeS1g5nTWjkWl49p4JKHY7-4nBCO4suiraiZDZHJGi28V5-_iZnsSuCiTx9sGbpdWZDp9tf5ijmza0Zj-16-6kApkvA1lqZsVesuzbMYJZdxlNrpHPTjJ--jKli8ST8CxM3S8p7DGo7DjI2TPCnb03NVuwGJraOcxkeyE1MJRRwH3FHM4VYiORahOBqCOf9VlPlgznEP3AVxXWhQW3SwtcNoXOAQcn0mZrFUg0Ta8PfahB3F7_uKpJ2fr6CqfEHgiTG8SfywDS5bVmnfH5JMjBH42j_BzLc0FD4ojIglT858wBwnrz2KztkwQ3rPQTVFaIOU_e0ENPE-veFwnsN_lCZvKAjfGsOmaM6NWhgtqG9S0uCJfD4QhChhclD8JeEjWFrhOhJyajVRerKqmF32Trmedi2JKakDmVqkDDdMbkB9LM6E1fMxe6XGhYZr65ZSbpoM20EPQ623DbbTUR7JHKAI=w1500-h1000-no"></p>
+<p><img alt="" src="https://lh3.googleusercontent.com/_qeIpupckkNAKk1LR76MWUW-dFmPo9if3TFZhRJZEohSnFbdjLskdvtX3ehIvNDfuZp1AyXOydFuNEVM0Pd1Osv4eTLhUdRi6p0ZZenUOHigSzzuYvo6UB2cmLXocLQewhSYk6xfRU7BdWnjDHxNUDGV8hZBC9vU0xnneu8siNdFXdOatMBza7YhFOFTz-mn0vYicup5T7Gs3naCsRqEVVfI-qcbVD-Z3l1zgDRLTOlCD_qdufUWkx47fTb5q5mJiuXY7PyZS2f0TXSAF6IAz5tRXFcrm6L4mWJW1_F5Td0kX374BS-CIptWPE7rgmQh9YmEYxBzI5KLm4DnxxHKcmA1kfQPaEA0hACVHVnUjGnL1MNaZ5oWh-Oc1SN2lo11YC_V7pOZun479VF8Sz47iRym0RRYxK8sXkGyeQ9s_cS6SFotSwC1uLlFFG1984oixHQ3Psyuzne-fg0qwyIbIjzL9qwht2aj1xhhsa_9ChOIY4ZcRksFCQsfRBlBWlTCfuCVZMGOJSqb9nAqqHEc3xv7TU0sYHUC4q0PcJQ1FxFPgKGcoUKXyXLEhYo9EgCAgMMVYOmpLed5MBwQc5iM28Y8wbvGlw-4cqJIkIGEOf6O8j7-dyExLRljSECI9bFl2UdpKV6DvVJWHsYMeMuPpmOeII7P4sqSNA3DXknttE4ly7yA8T6DcJbeMOu3UOScSQe3-o2_3YD0bzoAO8CtRYKFMElZ0AgQlaOitVjqeLo99aBMu3MEFF9LlPwwxvCRQtBGpMnK4n236RuXiAkyyieMGC8mpjfSDR9HeWKxwkZmWxgzmzPtvZw=w1500-h1000-no"></p>
+<p><img alt="" src="https://lh3.googleusercontent.com/2sTLjigAcalMp-sAI0r1EFd67bzB0sOb2IfQHJgLjZDde564ckH_S0HsCYVp_XaLD3BVEFr6JkFV8RFE82WszDxGcCmPMawCCJO3SBQ2121Uaf-FdSz65SKfRrmQ0xah5K0QFFZX6eFCcHQ1VDrVccUuP3BVOLynWwZvAD8QiRyhh0CdfQS6cvl3cdncMSN4ULNl6UNtMeWEH3exN8oFCdYE6WxS7RAy-4EWbPMxrP7aNPXXu0BmwP-n1WURjkf1bRzCOYqawIMe2yHDApZxcPRHJk5lS-nWTlbmzDMWtZlI3kYOgsog9xsSwcSgpn65CK5onNqlvbBqhy8sopckz_GowUDdEEBbtD8QOBRa6FkVqu-5l-H-dE5U3PGVJYbRY_OP3VbXAmNFr_O8UUKAYH9GOJa3FSrV-IHR8vIGA-JzMTR5xUMilKv0ga0-9H3r7HLEg9km38omjldDmmXPnHxJNXYzhdVdEk2yfy9843pXjeTuWNmTI54SgfwEawXI-cGLbrF7Q3eeSJck7y_H47yjid7xKmsbOdCKcAqaGYLz3kMQH_5VUTgGt1lA22UqActDDJ-NOQt--S5h60wUVlXCWt3kuGow9M8xPSxntqYUCv3iM90vaXsNhxM_5O9DlpRc740Vrbd2SKY82YcHmLSP52Osskzt4fwEiFtpridPeURGIck8nivhW1wOuwhfOL4YiU4e-TVA8ZDWJqimLmewzQokdx3BgrpLjdawzYh9GftcY0hOVoLgLrLFm-PvJtVB7l69aITzoJR1M4T0eG0-wauMOkJwGNq5CvbYkgtRdpiTEb10P4I=w1500-h1000-no"></p>
+<p><img alt="" src="https://lh3.googleusercontent.com/_sk7RldTbDX5P75_YceiR0eXY7Ng5wQfDvEwM4IFUzz7VbD_6tZWLCfipaEUgC9E8GcTzqdzuL8rJdF6HhuBhil6V5Q7ArvfxaP759SeoD51I_5hIE4106l5gautlTO64xs3TebveTDsw8RAhHrnCQh86Ml7jOlcXhD7Idl8RQOvwQbRAwNWS1eHfbSUjMNKgS1AS-PEexnyC4UcB8-eWKY3oO4Z6SLKy-RKzdpK5vNpcDT1BBoFY2pqq3OvJLdUZeUExxqqeXeGt0e34MylD17L-oO8oLr_LRC1Xiq0bFZgCo7ZC93Lmw3sr4kmY2fSOQDitEZxso1a7DYqVa9dKQ3D8bkth7b_bF0sNuDLfG38aSPBt_dvIQayJg-k0jTNoelItJ6PH_-lrN1oQDDJ2mD1aeJLeUQsaKlkLS3zHxiDRbU8E9DnSIPJUY1tAcfmInNhBeyllcL-uH0VtlyUlewrBZcNyLnOd_rRWpbo4Ds8tc__2NtrNplXIKhyU6R_M9vJAaPBQDsaW0IAAi5qfX9X7_rl3x6R4KLO33TOtJ-eW7mdzs5aTR7RkGFYX8KqwvLbVWd0SKwLO3a2cxCnN9djQcj2FScm02jDZwBVhaTQfDLz6dJ55RIAJF6g0hVAPXHBsxT42n81aV4SNC6Pwqg5BBNnTEYu4hzDzlX7qAq3PYQAGwQLPW8iCWKTZodBqCU10LL7N-QdMj6KvNKDjzppHWN5xZ5JoxvH6r0k4_8TYPlEKmM0Nh_mMx5Yq5942pKzGow9Tzl-Phl2p36h4N_n_81F2V7tolCqsVZC7XPs73DnyuYDzSI=w1500-h1000-no"></p>
+<p>After that (long) week, I picked Antoine back at the O&rsquo;Hare airport, where he got interrogated by the airport sheriff for like an hour due to his suspicious border crossing activities (he was scared they would take away his precious cheese he was smuggling). We jumped onto the Route 66, which starts in Chicago as simply highway I-55. We visited a couple of thematic attractions on the way through Illinois.</p>
+<p><img alt="" src="https://lh3.googleusercontent.com/Tz86jNheMLS6HoT6YVpxV5egHtSVPE9fQIIjicvHO9cdIkV-8xE9AuZ9ApzOvZ_p1ql30yibgbf4_E8W8Dn8jjEJS3F4Rk41foe10gZzXYwqwcP8aGA47A_r88V-Lv2MkfOS33zeAg-l8hWA__11ODaZQuEWl0QnxR4-adoh6ebcsNk2f1ux9HyaTHPpL_VBuJKd_EhqRT4D1DwfSsQ9dZyAxrZXFyniEy8Sptp-VGE-N6acJEN628gMR2FOQTFVFM_-IoGJncBHwDvkunqJQAiVp0rFj7prDo4aGpOYw6JVXrk8GVzyxr6aDpzcpOBhz_ikRxfGC0GOgtw8hEYoo9xSFkDOi_FvZMlU3xDu58R0UCtqy8lPH10RU0qLw9q6dCwBG3LDgnhQqotn-PwvLu9KzWA_OyurWv89GyRw733qGgR9T73PQieeztq24mw4W7OYU4cNQOTfPS1DVogUWMo-XC5o8e6h6KAOL_cgdN-g8mn2e2Q0b1pBnHXinp3KyNgXeczTjCJQpBVO3iaAn3UvxyudJbuuhQtFs-Jth53_cp_hsCZjzUcvk38WDfXG9Bs6ILgiSOSgD649yn7mKjObL-WV2WeojlIUU8YPVg7CpiKiJbPzPtNPkfIv3YPHLWe2Iu-tWJ593M6vOAjnZEjTTjpnHR9m_lM1FkFLfmsvAn73LzlXQZVmP3c_zujHxX8EqCmUeTxLeoher8k4Pzw_fgmKU3TSweBm7s96iVnZy9-00bSA9p_q8S5aXbTqKJ4TV1VjPUyQi7vEZWpQvI8T2HLpbIfvVbmBkbr-w1ijukq9n1rd-cE=w1500-h1000-no"></p>
+<p><img alt="" src="https://lh3.googleusercontent.com/ti_LKjiWtBdz9Y_VGUj5mdA2q7AQbV0xaJObDQdUSOm4d7iGqlXLuxDJEKFaEk6nCiAlPf36ZuQKail-lt5DnCT1s8CzQ3TNZkNEus1H5vCeiwq2du_LocuvlLCLVJjWEbtP88YY31YDD91NxlWPOb9wCtrElXOPp6oef8jkx0pTGAcScp0QANlm7KcKhknhz0FpGG8vUtoqFFXliwSwsO_k64DkH5dauv8wQod70GZH2gZvUyukR1LVz2qxrb0xNLybWIhfVFZbYZOFhpmF4SZyD1RzlCPhy5UaE_8jq-jS_zYnKjrDEUfrpO5AGWp8tOscprMmpPDeO2CzewYg6RSMKO_3B9XWvRcQp_jg_OGd2lBp3PgM7DqcEQ4pbcG2fNgbIF_V27iAyD15cA90PcxOxwAHZDQfS1-fUC0p-gNGXRXRx2stE1YtPlO2AELVAnwbjzBOW0pPbrH53tU3gw4-Rbz45-quLwc12yatpli6qSPVNSQ3HlbKHYfPIcefWwL1VCfmjJCjwJqq6PS0ugevEIp7BauFW4tlIbcFsLVjQzQYAF1aBMEvWyJ6i_wExwytgGiHX6842faWxQ3riMzPQwJ5x9kYQcXn0d61sO7e7EDCSkWYf9u5IN2tvygKMfMeqMoRK8GouKJb0pO3rUFf7HC1GWz0ZuJFCBN0I5kcLqV52WUQuCCFtLaBpeu9EduVNGWY_PR6tiM2tlUb96SGdkjJOqvPj3igu7M70fTvndRRbdgBSWFMN_KlLal_HdIGuClhaUUNBGfuueo-3XJgX-e2XErpfdm9oub8XbgtPRIXY_bjGj8=w1500-h1000-no"></p>
+<p><img alt="" src="https://lh3.googleusercontent.com/aoD5CdHKqdDd-LN98_hYY7awuk1FHKnuri9a3Z8AH2jL_TrciqWtpgt4YKCUtu0m3d_2XOJWPDydWcmqjsGzHW_uTVLhWXlV1cjvtBUXxdspapliyuz0L0Dy3gbq2AH5ovAMDXtytaYbjXt8HpHFb6vAHkhyeWnAO_-juUUK09kvGdkuPapWZY7YksoYyOr1hdEvo6F2kMwXktpP2nySP9gMY-S6B2njdhfRzX5RCRkaI4itcJdPOvNExmOLwxLKFO2ux0o9lR8xFwhad1E14iJOWAjnCqN1ZtF1nXdAocEufSMiAJQseoasS1F_9QkDsBdVgHl-u315xlbopA3XbdsECJXWqhdif2EnuufLzGkAdlc9GYbs6qz14FLC1UJAhLfEn4wg7DJKSFG4B9itXHH2Bj7bw_CRKyK2ecV4Gf8TPAg_L98H_W9f9MJE96v-EDBQVAVOa86y_cF6WUf3FSZnF_-8qAFKx6CHzxaI9A5IAKZBSkp7YKcmPDcr86cokR_KPz11H3cjs60itM32fK_hVYOxB6ZUdbgYI8kVrgEqJ4ii2441BBY-gRrx1F0K9BUnEN0WQKosXDfoPq90Inj0eYCPzAgK_4zawKDYkWAZl-iumnlGHsEBZkngI-Utj-v6GaW1LT8RV6mCmyh62fOpV0S7Tb7zShnhWE-D7C2rcFMDZrxNnR8dkIgJZe9nH2gAvNvr8mlxkdhA0_DsYoF0vn1OABD_AMhHzAdU07p5Bg74kjnDSAUBfITEaenEyMfaQW69gAVTO8X_F3ha5UO6NCLW5K8C4EM0BP4VOQ97qHbE_GJ6QD8=w1500-h1000-no"></p>
+<p><img alt="Lincoln's grave in Springfield, Illinois" src="https://lh3.googleusercontent.com/9G769l7SEBZeFREuYY1AqrioVxMjDnIH49IybsjjxR6B4xcjrjCyppPD-nj28QBzyZ37vwUNmlyx23TbEFsKz8yQHWL6_MnbrooDxDT6U97RyUz_tozpLw7rV3DoNxQcYzI-rqNhyLdB-gTYtj-wPc71rurbkMdrMnqlNrwFpoV9iB55_RNjKjyAfc_G7vn3mjJfu5NrOg34X1GZVJIJcqyghe86ObwordLSnWRGcF33TtJ4klQ_b5yqNzWgBym5oLjlYchmgkY20Sx-UZevCWcTFYteTPFNWgQ2-BUMiGNpPBUoN3G2ezzHG3FzQ-9QkV6kdABiBqNkKLuIJU0Hs1n1wTvuH8hFYA8qUeoEZGqql47dUtbnvUFpvBhddTrmUUKo2ZXDaVar0kVwp8Xyy_hGciWytcSjiLjTsXBPm4-VmLa8z7trILq6YDegO4202__4HaDUi9wL_91zdCVImG7su_40YGBKO2LBjDsLXLEWhG5jF2SXxofdLYipv0buXrh8379eh1E65l1o7SFIVi72sWPMoDHavE5HZB3QfXDHOz1bK39ATDBydhmhCQ9Uc0XkyHEJplfoCDRXs2MJVQknlxAjfQbRn7OU5BKEkfEYH8RUvixEyxaiYMODhPTljAacaLmmaTzIKOvJwxFdNAKpRkkK9ISi1Tl5bzonIB__d6hjqVf7rJ6yBUJAhYB3VncZVWuDKynZItGJf9a6FLRnPsNrqYeCw-IZVFHjsCkNpJf54DWWJUdNRxNDVemfO_pxcq-xdFPoIfzMiMxjKKDzl5XmG54Ikvl64YjZ8phHpuGjysHPMmY=w1500-h1000-no"></p>
+<p>On the border between Illinois and Missouri states, we visited St. Louis, perceived as the gate to the West, from where the Lewis and Clark expedition has left after the Louisiana Purchase.</p>
+<p><img alt="the might Missouri" src="https://lh3.googleusercontent.com/L1Eo06SQQUaEt8S8zMYHdlNn9Kw8iUN05C6P0AY3sKVnlEF1_50KI_k-sGb6LL_-qUWHmXTP73BaF-nbWSA3AzLWXVfilj35GrjXFLn4Y8Z-YP-XJixBsbwyYnuV4124jZVinA5TrRdAIFm2f8OSySQxPtt7JjfJHaRS9WxZ_9-Xdef2PLXJ4KEJkBXwcQqJzYph8QakelHtsN1KkbnKzlZT-1jeT2A9PghkWoqoiGafdnSvQjwStpxh3Fld7orv0RsI4F_i5Ipli2LN1GiOKw1VEC8abSGxx0L0tnZopUsywOFjRnP7PanU__9CFi1sG-RCTf68Qdu551EK-f_IGxbioFZvSPdtrlaDlXlqbK36cOGOj2C3IOZSoZabXwTmhyOQczgafSNUDl1LhUv0HKGSwyBG1y8RwzbqOhdst7VcsfPJrxqC58rde6cEzovqsZ376BP79bGO3L-83KMhNfnKrY3dbLcv1PQAFPWH2ewAZNctXhArcQR73YK8nhy4WETP6-cuCCKgwbPPSJyQqmFCqhevTO9aGUPdQcsa85nkhyn_rRPFjeA0IzLrEAs80S11rhvQbpt_0S7iErB1SRT9tjf4aczK6l0ZDDD1pfuh1f5j_DAIWkdE5e4e-lGoImF4Txt_HSAKMFyg5HdV1pHBhW8gb88QTYLvJ0VCgbGx-DSPIICcgqoBLn6u6KKNCsq8sYNvdx6yF86vp_8zYgVX2P1iLk_uxhX9MzNe8_amagTFHeR5cMbLrcBI_pef903HKN4CP82K_FQOCk_mvoTWM4StYJ094T9GSNK7MuThtAtb1Etx2aY=w1500-h1000-no"></p>
+<p><img alt="old bridge over the river, remnant of the Route 66" src="https://lh3.googleusercontent.com/d_Zq1QnqLGw9RaSbm17bI-tf3a0Zuq4oFdYBW8MGto7NSGH2ipXQ_POiTTJq0R4TtMhzakj9KOetv0n88SLlbuDZsgbTh4AAy3ReQ0mUrvhA_jvm3WUF2Zvn3M2rCMcsfwuC52Sh8r6MemoWuTdeUVofYexcMcERcz-d-g1PjTI-1CHyQuFZV78pQaxWw1SFE9QYD7TaROiQxx65kdPksvbWq9HZ1AoWAaWiD76y3lIwnzI4dj7gIwgd4N4heQuZYbXFdk2X34FQ2CuCLYnRYNBPMo2j0xoAnhIHr5gv3gyLNPQUwOdaozDRqrfX6JpMcdEO-Hy8mUYqzjAjjRfeGR_txk5cuDIVZ2HZw77tv_XB9M6abLju5wAbzMNw7YnWxlPD_nz8WzRQ2I15D4dGTHd7rpRFeJpBSbrwQ1vgw4jFigPpQ1Ig4AxjH6aJ8bZlzZhyRGkwcmLGEcc_74UB6mAk0b1nGZDAPsGaIg-9neLdAl6JTxL-s5XUCvGqYC0Zvb5Dd8qOc2pXzhX61G3JfgctTAXtFeL6xKVg32MK_uwtaE9NM6IsdmoVJ140iPu98fnSjopa3EJ54GQkEOcWvMVnEwskxFVVeQjDsv3i64nJKz1x-kaV4Mf5K87hiYF6gvkrWZInyQY4f3yDNh79Sd6htL1QOQkGyO0f1vLG0pG0AO8_-hOpfUBKtIDDs0dsQybwc7nlkt2P8oi_CQ_Ng7gClyE_ftUwcVE-HNDCG6VXcOKkMVtov3uB8yt19D1XjkDxB2p-4G3YXayl--XS-BqYT99slLs_rWZo6isLcgSngogPP37LRlw=w1500-h1000-no"></p>
+<p><img alt="Antoine fails at pretending to grab the arch in St. Louis" src="https://lh3.googleusercontent.com/vf9xjrFZK8q1Hin-2RuAtHXd7AOoi7f3Pg-ICn_ICkCO5P_fIqtCnUMpZHBatnkq1EqUXLhwBo-gAu_CXQkxsDZAUlyIauyt3GfvbU0XjBPjq9ur9ByM3Mykdby_PhGrHrqrYCC89Xn-4jRConoeYWZjwK1LBbv1h84nCZFqLlEwojZ4Ot1pZOxvzXXmeQ5-abOfrcYgpdkq8tzz053_rz9jmQl7uhF_mnll271jNUvewtDW6FV5sqyQEMuBE7yCZH9cvOUSIm3GuOUFMFcMs44-QuXze4sEDVXx-1GzHy9QQvUxgTXl57nroyetbTsuMjn5LibpkZ8kI1GzvamORClem2fxeJlPt1IwgRWQGpx-AIUN75RadnoXSEWsa2staJHWlfYkrBc-NouKCVSSzCM5Ects4QJIUyYSfgoEhxyuvwMDjf_JQcmldnJXklMMnbH-vTSzBZ61fBbpUqJmBgKeU7PfqdjXnifMGaoGbypjJKOONVhSyuEKf_1x9wylZKpr-fH4M1QsjKLI_CXRZzoTqHg9sg8SVZZnwgn3Rfh25RDs3c2oxNucd3k-pfTG3Z26F9tP5npwH9Lr4e29VeXJs68BsymjRbm1M9scHS2M0lFCtBNlupMXilE_mtPLxwV62zILCrCzcIek7hFqq-kNLJrZZ0PQyjPsfgnPbkxVas4MuARFxYOyYTteGqeWaUW2iF67pmD7PlkYzPOQZ2KYnIkENIIHZGBjRwZSgCj_yjy3h-5ezspmiwUZFJ8y6CBanKP33MVZsMCWm6vs4AL8f4SuzJaG5QyWir6UHmVn4J-2qXGOIh4=w1500-h1000-no"></p>
+<p><img alt="proper arch photo" src="https://lh3.googleusercontent.com/MbNne-oOGYCTNcQsrUjXYx3R5urGYmaV4AD5ukvaBdVyH0bEpWjVAtOfLrqpwOZzqv_kbLlj7EtvXzGJCFOHVdtSeYeRbqLzWV5IT8NXsbAoQnpkXfoLzmgJY_YA1ejFC8Sbijry_lUAHJw5F0wH6EsQxTVZT2b5ugY7ffsmw0wiquYTaAaQG8HVebe6hjAXS6nrgK0a62MtCiuKRbrczdIPr5TCWVFG5kuyyjt1NHTqVaBR0mJSS4Q_7ZtZvla3woFKoOOsUwZw5YxjuW-0B03HJdNqm4hmVS63kGMBnyapvRexuK-zX_b_XPMjgt6Rd9S4Kl7MSsY8JT5QROrx-URbeU9dxsVcsMeq8i91LArAcFxK3OYTYrjZTsvDpavcounRxex7cRRXNhzO0xKoxoRBKHq8kKtUiEQBRSPsOIHincxa2KLO8mT8q_MfmFKa0-77PAh-1EyujP6JIXY47Q47S5DlzKifbbcoMl_9_Nf6V95ut0_Gi2n6L4J3IFu013GWrtZqqTsGgd4Ri57QpjVrvbxna2vOzv38lgJ0SJqLPoxXu39veXENahV2xeLqMpm6lN60pHBEBbsBJg2Tp0lIhHEE9_cJEdAnkEJXBAkEeFZZ1wir20hf3AaNUGjsdL1yr1lMOCdHaSchqPHEZAiOLzQXGUYUxpVmaPDJU1IDNfnAgimzcr9JeVWgU81FUrqh93NO66O3Fx_1oYk9L1OV_43C1XNinDDFcAPDYzz7Gpt0kSUvunsx3HYtQ28GcwE1e2rQiX2L9XgDDnBPmwvNl9JpEJIihWSHycKzCKILw73RQDLKuzE=w1500-h1000-no"></p>
+<p><img alt="St Louis" src="https://lh3.googleusercontent.com/EDDHRUqbl8lZ6tZaTubFYe0JGdNFSplXoH7QmZFovP5x-vkvAT3_i1-M765yw8OC7R4md5Mll_meRZVvZSrFR6mLhrodVOQmR-1orVBa2_ghAsgso3EsEYW1Inm3iF9s6T-mz2_aQGKRO3N3k5t9DLpULZvvHPuAc5A30xiblnZrznPwj7E26sHsCZi_VSV8rgm9fgarafxL1pcjmPLMTCV1uydrUtoBrq7KGuRCYdXSVO21uWgdFgJeP8uoRT_Bj7dOQPi1JIxrebnV7RBR953xCKL3g0Hlnu0vU7r8HDO5cP98I84Q8EEatGYn37M274I8yfwvJK91V4pvwOc-ar8c4TbB1e_DW0aTBZ0ned628asbR35XpT_l4CU9nzGF9ysjPeqAKp24oqesky2XgbokVYAgrsih6k5Me4MwNCbMHqCyONXyRt9_dxA-g2hpKSqtERqPfe40NdoES8K2IgGtppxCBDO3GX9o8y8SISlT2R7_Kv-osZvVH4AH3U41v7c5VcoY9fI6KIGo_OnyiInq6vknKzNfLKsRcnOMsSNxZtdYdWVUZaceWiRTPHRuR8iCCMHjhP0otpgsgUifZ5Z47KaYCSMjXG_dsya25fQjLP3ZuBkAMkHITCmngt7reaTIly-UCenPds1eGniNPy8IE3rKRMj1HxCXDP8QIeo-HrMBLuizBijab8sq64aC2iy7tCTH23ep26pMF_c7w6IOBliPOlPjsObrNdJUV6nUFFRPzuLAgE8gL2_TR6W-y2HxGpx2eq_xcq3mjs8AbPgB0PbDDKO-7MVdNkrYM_PdK1RKh66qo_M=w1500-h1000-no"></p>
+<p><img alt="state capitol in Jefferson City, capital of Missouri" src="https://lh3.googleusercontent.com/SIm2WLL5keYx0grqLgBeGzdu0vm3EhiztikMcQVDsHHvSYcaZVma47U-24vuBPGdm-Tnw7iVIvBHdP8KUtnETynaenj3WiCTK0njXeWejd7VKfxA6sanV-6f6E9nDoBUJhCVy4o8ZB9T4GREmMp1VH2tF-0qraz1KRX_PQ48B0UYXnPQY13M_2J2sKwjr9LSw_9eRmaBU51q7dITLc7_QDkRhj9oiVez6ZIYTcx_JEKny-IvCUH-mhgGlOJGzX2R5lSvD48oppDVfeuS18mKrxVN9MFbf2IcxTirHH5uffj-7z-zLujtj1M--kCteVe4c0Wnm8xOmA7HUPukhcNwRVQKSREaBozY1mHlLAP_sShOCdnrEqW_pYFMIrn_dpXUENMYcX2RN9nmMV13x7mkO08d73b_tUvU2YBXAsVMj_vQkNGJ9jSfBnAQS1pqqHg8G2_xowRYntdbjpOPUktz-IgZIFQFvrdL91ofGC1FTAJ2ZVcXMtOcgmV-SmCLhFvNbEeDh0E3ud3YIWtovtzXIL4r9hcwmOIBBA8mUBgM788NBzVwhLDSgvIpvITwNfvZH5B6xpjwzxHYZkB4Q3fWhYY5x2WMh2e8xmERR-ua8jV548Jv0AYXiw2hBhkzQJUqbR__ORSgZbapXSu3aQv1dhQEs0xReictKv7lIQB4flCel7E3_cF1C42ZrrO_ADdRJ-ATKsZasZOdNMVurCEw7YLM_nnMF-cJG0CHV2yjkQjN0Ou2iSKF8_FEqJ_3G7ONxpqZAs4xjbnK5VxZngzoPf1Z6ouPISNOd_OOoWiLzeN4JjGWrBwKEMI=w1500-h1000-no"></p>
+<p>Our next stop was Kansas City, where we visited the legendary Linda Hall library. After that, we went upstate along the Missouri river, shortly passing through Iowa towards Omaha, in Nebraska. There, we visited the great Durham museum, showcasing the Pacific Union railroad (joining Omaha with Sacramento in 1860&rsquo;s) as well as the history of settlement westward from the city. We got caught in Tornado Watch alert next to the town of Grand Island, while visiting a local history museum. Finally, the tornados passed around 50 miles south of where we were, and we only spent two hours hiding on a gas station in a pleasant town of Pleasanton (around 300 souls) from hardcore thunderstorms rolling over the Midwest prairies. Now, we&rsquo;re in the middle of Nebraska - photos coming soon!</p>
+<p><img alt="making orders in the house" src="https://lh3.googleusercontent.com/8UvvOswBcoWsfRtbEA_j9OZIJ_9o7UNEOOBiSHXFL6UX_S_gUxA2vk-eGcQsneAfMv2imaycZB4CXVA5BOCt0h9FBttouUDzVAzBJBdj7guTyBgykxnnu-9w8s3f4kvg9zg-XHlerLHbAATGNXCE5kvx5gQu9phJ2Qf0M3PggInFxS3w-jDzg_2-6r0oAsdgyDQ-b2sBqdt1B1A6M--Oq82dtk20fp2IA_hOEjIKBGKY4LZ4vhgH7SCt7P2Hjdp1hZnQH741s3xe8Qxb_5VYkPUex10uX5Kfytw0YdGXZ_tBUfo-kslXtWVcHPhCH2wYNn0a4TmNk6etQFe8q1Lg8WYxY_4Gje7lMUrUkKiLHKmxDkV0i8AaXG0CKPy4xleKGtWrqwwLTnGJ4wQhy1V78x1RLRST9aaklDeaOpUs8a9L82GzEFfub4WM05I0JQG1H_3j4w_yjo_XWgJoZM03lBKdnm07GHNM9qKpuznPUpqxZPrZcFW0qy6EgTYygKqfPhxat9NYhxo9iKkSpf9b2weQfEhvLyKK98ASN2xSufZIcdGmWbFApzyVumjWEl0hCYQbszKXiRgysEliiOIeFlqAkPZbmKtnY8lBtCCCCzZPDU7dotjXg-0FPBL_AP-rwIHplbWLPoq9A3XOsTHrxJlfw9zhj56r2sMx_99c5rKYg3L2UNh8OHlEeCenSYIJilGJPYDtMxSgUT9oQRdCkljnu0QMoAoVQM2pvvk3MeL2Qzc7H9GdEx6YgnCEk_I3LfdM8YTV7G8IWa5OR6DekDP8G48sCRPUCddawRwEsg5eTajIxzRHcPI=w1500-h1000-no"></p>
+        
+    </section>
+    <div class="right"><!-- Dark mode toggle switch copied from: 
+https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34l8 
+-->
+
+<div class="theme-switch-wrapper">
+    <label class="theme-switch" for="checkbox">
+        <input type="checkbox" id="checkbox" />
+        <div class="slider round"></div>
+  </label>
+</div>
+  
+  <style>
+    /*Simple css to style it like a toggle switch*/
+.theme-switch-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.theme-switch {
+  display: inline-block;
+  height: 34px;
+  position: relative;
+  width: 60px;
+}
+
+.theme-switch input {
+  display:none;
+}
+
+.slider {
+  background-color: #ccc;
+  bottom: 0;
+  cursor: pointer;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transition: .4s;
+}
+
+.slider:before {
+  background-color: #fff;
+  bottom: 4px;
+  content: "";
+  height: 26px;
+  left: 4px;
+  position: absolute;
+  transition: .4s;
+  width: 26px;
+  background-image: url("static/icons/sun.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+input:checked + .slider:before {
+  transform: translateX(26px);
+  background-image: url("static/icons/moon.svg");
+}
+
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+  </style>
+
+  <script>
+    const toggleSwitch = document.querySelector('.theme-switch input[type="checkbox"]');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+    
+        if (currentTheme === 'dark') {
+            toggleSwitch.checked = true;
+        }
+    }
+
+    function switchTheme(e) {
+        if (e.target.checked) {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+        }
+        else {        document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+        }    
+    }
+
+    toggleSwitch.addEventListener('change', switchTheme, false);
+  </script>
+</div></div>
+  </div>
+
+  <script>
+    for(let image of document.getElementsByTagName("img")){
+     
+      image.loading="lazy";
+      var caption = document.createElement('span');
+      caption.innerHTML = image.alt+" ";
+      caption.classList.add("caption");
+      
+      if(image.parentElement.tagName=='P'){
+        let p = image.parentElement
+        let a = document.createElement('a')
+        a.href = image.src
+        p.removeChild(image)
+        p.appendChild(a)
+        a.appendChild(image)
+        p.appendChild(caption);
+      }
+    
+    }
+
+  </script>
+  
+
+  </body>
+</html>
