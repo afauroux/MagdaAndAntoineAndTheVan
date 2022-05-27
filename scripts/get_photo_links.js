@@ -1,17 +1,33 @@
+javascript: (function() {
 
-javascript: (function () {
-    let links = "";
-    imgs = document.querySelectorAll('[data-latest-bg]');
-    for (let a of imgs) {
-        links+="![](" + a.style.backgroundImage.match(/http.*w/)[0] + "1500-h1000-no)\n"
-    };
-    console.log(links);
+  /* retrieve the links */
+  let links = "";
+  imgs = document.querySelectorAll('[data-latest-bg]');
+  let i = 1;
+  for (let a of imgs) {
+    let link = a.style.backgroundImage.match(/http.*w/)[0]
+    if (link.includes("url")) {
+      link = link.replace(/.*url\(\"/, "")
+    }
+    links += "[blog-" + i + "]: " + link + "1500-h1000-no\n"
+    i++;
+  };
+  console.log(links);
 
+  /* Create the copylink closure */
+  function copylinks() {
     navigator.clipboard.writeText(links).then(function() {
-        /* clipboard successfully set */
-        alert("Links copied to clipboard successfully !");
+      alert("Links copied to clipboard successfully !");
     }, function() {
-        /* clipboard write failed */
-        alert("Something weird occured !");
-    });
+      alert("Something weird occured !");
+    })
+  }
+
+  /* hijacking the first button so it becomes the copy button so we can bypass the CSP */
+  var btn  = document.querySelectorAll("button")[0];
+  btn.removeAttribute('jsaction');
+  btn.removeAttribute('jscontroller');
+
+  btn.onclick = copylinks;
+
 })();
