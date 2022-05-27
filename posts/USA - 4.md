@@ -1,6 +1,6 @@
 ---
 title: USA - Badlands National Park
-published: 26/05/2022
+published: 26/05/22
 category: journal
 author: Magda
 description: South Dakota's national park
