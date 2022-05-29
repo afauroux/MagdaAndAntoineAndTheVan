@@ -5,7 +5,7 @@ published: 28/05/2022
 category: journal
 author: Magda
 description: the richness of geological features of central USA
-image: ![][blog-20]
+image: https://lh3.googleusercontent.com/boWvEhNtcn2X_mqntyr4r4gtcTgp5Yvws1IgvAayyzCJ1ezx_wONkdmHDaoNEcxYGeb-MuVp4EAokKHpCUrW7cPMzvH9C4mSPDoczyj4FxYJ8QxQ1NG_-9mU-TfZDa2ynkQnC5PqSWVTIAGM4qtVw9PefWST0bc64Y9ndcKtgNkaYpN5Vb23_sammCmQH_NRZB8bqrmDf7EnbSI7dsQhCtJPToZZHQL9wfRkyh6rKmqheqPXt_zpDWQCtQOCHQigGiJ3AtLr68oeii-zI7tIBXsAAoee7a0cevha2xSSi_IkaCmuU-YhB2tD2nkiDW5RkyqCUv_xIYXc8xW6gJ3ZtA2DP0pZ-KVwEvvk2FnR_eh3h5Er8WRZS_wIrpiAMHGkLFApvinFcHi8Pv_uF3whfnQ6lyq7RpRUIOlspyl8ODfbxP4cJ9L-0zkoBgwRG3KLJeRdAA5deQjfkiotOr9iTeRNdQ32ANQJpkwMd4R5GaGJh9ATqE9h-0ns8hEbJUrfH4zjEVkPiySgQMX9gerSmcnXxu0Vm5MYSQMrikCdsKusQiYhbrsfoxYH0ZpHXJrORjX4jl10_Nx_JWxwuFTqS5hVLL9AKq37t2LkJTBJJ5mOxh5zVRTvKOw1t1UQka9kY44pAgwI_7AdsiDJ9x1DSO3LLcOB0_9IlE_etHSGeC9OnCPD9o1DXW3X3p0JzfcbX6r1L015QTDBPHj9kq7ZkljMZxOhYZgRoVm3T_FxR1ge0iKYjQGGgU32IZiS7w5xp27ikz3F_Pxlz5PSrHolXlWN9e3d7DqD12xo2FNciHLLf1wEcxyiwGo=w1500-h1000-no
 
 The first photo of this Wyoming post is from South Dakota :p This is Bear Butte, a lonely mountain on the northern outskirts of the Black Hills, where we stopped by on our way from Badlands NP to Wyoming. Just like the Black Hills, the mountain is sacred to Natives that used to live in these lands, and to this day, they perform their rites of passage here. We also stopped at the center of the US in Belle Fourche, SD.
 
