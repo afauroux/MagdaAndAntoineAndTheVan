@@ -258,6 +258,8 @@ input:checked + .slider:before {
       caption.innerHTML = image.alt+" ";
       caption.classList.add("caption");
       
+      image.parentNode.insertBefore(caption, image.nextSibling);
+      
       /*if(image.parentElement.tagName=='P'){
         let p = image.parentElement
         let a = document.createElement('a')
