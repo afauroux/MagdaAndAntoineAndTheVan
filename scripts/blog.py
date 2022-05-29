@@ -16,10 +16,12 @@ def _filter_visible_text(text: str) -> str:
     remove_header = re.compile("---.*\.\.\.",re.DOTALL)
     clear_html_tags = re.compile("<.*?>")
     clear_images = re.compile("!\[(.*?)\]\(.*?\)")
+    clear_images2 = re.compile("\[.*?\]:\s?.*")
     clear_jumps = re.compile("\n+")
     text = re.sub(remove_header, "", text)
     text = re.sub(clear_html_tags, "", text)
     text = re.sub(clear_images, "", text)
+    text = re.sub(clear_images2, "", text)
     text = re.sub(clear_jumps, "\n", text)
     return "".join(text.split())
 

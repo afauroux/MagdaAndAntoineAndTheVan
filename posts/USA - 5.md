@@ -10,55 +10,85 @@ image: https://lh3.googleusercontent.com/boWvEhNtcn2X_mqntyr4r4gtcTgp5Yvws1IgvAa
 The first photo of this Wyoming post is from South Dakota :p This is Bear Butte, a lonely mountain on the northern outskirts of the Black Hills, where we stopped by on our way from Badlands NP to Wyoming. Just like the Black Hills, the mountain is sacred to Natives that used to live in these lands, and to this day, they perform their rites of passage here. We also stopped at the center of the US in Belle Fourche, SD.
 
 ![Bear Butte photo][blog-11]
+
 ![at the center of all][blog-1]
 
 Another sacred feature not far from Bear Butte is Devil's Tower, already in Wyoming. This is a column-shaped mountain that dominates the landscape, created millions of years ago as a magma intrusion into the sedimental layers that used to be above it (and were since removed by nearby Belle Fourche river). Natives come to the forest that surrounds the Tower and leave their prayers along with little pieces of colorful tissues.
 
 ![Devil's Tower][blog-10]
+
 ![][blog-13]
+
 ![][blog-12]
 
-From Devil's Tower, we did a small detour into Montana before entering central Wyoming. This is because we wanted to visit a site of an important battle of Indian Wars that is located at the Crow reservation, in southern Montana. The battle of Little Bighorn River in 1876 was the last great battle won by the Natives and is surrounded by stories of visions and prohecies in Lakota and Cheyenne cultures.
+From Devil's Tower, we did a small detour into Montana before entering central Wyoming. This is because we wanted to visit a site of an important battle of Indian Wars that is located at the Crow reservation, in southern Montana. The battle of Little Bighorn River in 1876 was the last great battle won by the Natives and is surrounded by stories of visions and prophecies in Lakota and Cheyenne cultures.
 
 ![][blog-14]
+
 ![][blog-15]
 
 Back in Wyoming, we found ourselves in the Bighorn Basin - a rugged landscape between the Rockies and the Bighorn Mountains that occupies large part of central Wyoming. One of the main attractions here is the canyon of the Bighorn river - third biggest in the United States. We found a descent to the water and did some kayaking on the river.
 
 ![central Wyoming landscape][blog-16]
+
 ![][blog-17]
+
 ![][blog-18]
+
 ![][blog-19]
+
 ![][blog-20]
+
 ![inside the canyon][blog-3]
+
 ![][blog-4]
+
 ![bighorn sheep that gave the name to the river and the mountains in the back][blog-21]
+
 ![ring leftovers of Natives' lodges - the sites of the canyon were occupied for at least hundreds of years][blog-2]
 
 Apart from the canyon, we saw plenty of other fun geological features in central Wyoming: we visited a site of dinosaur traces (although they weren't very visible as it rained and the area was muddy), a colorful hole in the ground, kinda similar to the Badlands, called Devil's Kitchen (they surely like the devil in Wyoming), and two petroglyphs sites: Medicine Lodge and Legend Rock, both occupied by various groups of native tribes for thousands of years.
 
 ![I've got no proper photo of dinosaur traces so here are traces of snails from 100 million years ago instead][blog-22]
+
 ![Antoine searches for traces][blog-23]
+
 ![Devil's Kitchen, I guess that's where he cooks the sinners?][blog-24]
+
 ![][blog-25]
+
 ![][blog-26]
+
 ![Antoine ready to be cooked][blog-27]
+
 ![Medicine Lodge petroglyphs][blog-28]
+
 ![][blog-29]
+
 ![Antoine searches for more petroglyphs][blog-30]
+
 ![central Wyoming landscape][blog-31]
+
 ![Legen Rock petroglyphs][blog-32]
+
 ![][blog-33]
+
 ![][blog-34]
+
 ![if this isn't a proof for aliens' contact with ancient civilizations then I don't know what is][blog-35]
+
 ![Antoine admires the cliff with petroglyphs][blog-36]
+
 ![Antoine almost got eaten at the paleontology museum][blog-6]
 
 We also profited from public hot springs in Thermopolis, and Antoine bought himself some fine Wyoming whisky. In Cody, the town founded by Buffalo Bill located one hour east of Yellowstone, we saw an old wild West town, made of original buildings from the era, and a Buffalo Bill dam, which was the biggest in the world when it was built.
 
 ![in the hot springs][blog-7]
+
 ![old wild West town][blog-8]
+
 ![inside one of the houses][blog-9]
+
 ![the view from the Buffalo Bill dam][blog-37]
 
 Next stop - Yellowstone!
