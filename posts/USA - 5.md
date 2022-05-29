@@ -69,7 +69,7 @@ Apart from the canyon, we saw plenty of other fun geological features in central
 
 ![central Wyoming landscape][blog-31]
 
-![Legen Rock petroglyphs][blog-32]
+![Legend Rock petroglyphs][blog-32]
 
 ![][blog-33]
 
@@ -85,15 +85,15 @@ We also profited from public hot springs in Thermopolis, and Antoine bought hims
 
 ![in the hot springs][blog-7]
 
-![old wild West town][blog-8]
+![old wild West town][blog-9]
 
-![inside one of the houses][blog-9]
+![inside one of the houses][blog-8]
 
 ![the view from the Buffalo Bill dam][blog-37]
 
 Next stop - Yellowstone!
 
-![the gas prices are high - here's the suggested reason][blog-5]
+![... if the gas prices don't keep getting higher - here's the suggested reason][blog-5]
 
 [blog-1]: https://lh3.googleusercontent.com/qsBPgTQHRHxrMdQLq57f0y3eecKlasBBmzKYmtXRdZT8vw7r9V8erNwosXEeiqxC3AfbTKcBSvaUiViFmlA-5jFs2H0yNegoe-75Fg02B8pI0AVBVSey2tOGXZAqDwu9VnEktTMrgVEbkqhQ-3SvXG16yg8Y80TWEDHdsVZ4zqWaauaW0pNuwq41yeMMFhm8TTTwe3YEvOI96qPWeKAk7_HFF3nknFionUz_pJBSvCwoo2NmAl7DFsgFcThX3nf9lzTogymb5jghB9i0Wd0ZogTeQwLEY_EIMIgy72DrEfXWzjpQl2f04VCSzJopuLfEuyWpBDQiyxYTYaP4PZSGDKlo_d8tJm18654SRr0oq7RKPHGbx7rzgvU3bUgyIPS_Zeu-BrLrQIyauYp-8ra46Bn2fUd_B65yuZKKxfvCsQqHbjaTA5ip-sMenLL88ajCozg0qUuQX78_fFVLfmZHa56WdJRndGOw5vboQVC3_dlak1x97NBg5rEcyoxRZ6lhkxNKGs5urQ_A9_wEdzVag_UFeI-ZbOKRMqfZw29ShB8aLtpqUdiZFmON-3IR6qoNMMKuJ2qBJK8ZWJsENoDxo17AF6PfOeqbmn1inzGzXL0lLlMEmYuXCzJG6fwPKedgc4GOvE-dkSdQDEwAM0jSKws6oZkoZx8lkO0PXoz6eMtnKA6V-BSpP62ZT4bXAUjExYb4hbA5KpHEiXvcjKuaNFi3APrgGpZao-IVQtE0ln8RvlUJAQz2XeK6OwRmitVTQbZGxjA5qgMKTlakVd9ZHcr_5vQQaBaEdfPnjpJ0LxRw7pkWgUpA7Tw=w1500-h1000-no
 [blog-2]: https://lh3.googleusercontent.com/WuFbfj2vH9EPLZHguWX5Ojh8gXE91AWpvT0CmYNARxlRQhZKgvjv-FO_LtQhXNjfLvce4IUblE8-iObwUx-KtU6WIq2UohHrrEFuhDvtn42Bab7NeBUe420UvYAT2npufFugj_4z7yIXLf_HFaigGgSNiRwWlRv78ce6qWbLIHq0t9Lv-Z49uvUghL8Qp7GABlRidAcgRPnNvGBL-HwQ8Z6y0zLGh0B_NTQa3B1XZwRvZE1KXt3-u_uPkYGKQhC3wrz60WH_mECjBs67OP0uyszup8KSwowxUn4FEt4CfJcmajJryB4_3peAzzefjYIELJuqKNCD4kIj2ESvPGwtT9Zsyag6raV08GyF5_-ABj-m3RLPoDmd2idiwOP2FR0GKJPgwme72IrX4sLXBbqP-snhYiTxzYFnWFn49Pn2jlfwUvVU04tXuQDUizguoFSgGRjkat33nFhrR8t44r8W-YUMgztaWVcjb0PW4ocFooZUkP9N4SYNrFVPk4kCOi6fL4DJ4Jv-UJazzTUUBh-2Nk5IzRU2Vme7M1v8UU1OiGGtrw7Q7tnX9HbMRGuQ_X8ssgmG8rYxPVwA-vh-Efwwd9n1oAsYcbDzza7OmR41Cc3ZR9CjL8TUvxFNep-YclcFNY9RV80fo547R3oOom-nsg3HQynMB4MUVkhZL6hZoyL0duY5u0fizMVdoSKgNx9WOTCosFXqCoCn-uKWZs2qNKrm3O_4L-DTmdDv-e9_DJm8eG1vUoXK7G5XwDzMF-5VxXq5pI_gOBvUDUvqgZZVV5D4ZhTqrjn1WQ8RXt0iyuQEZbV4XNjz0wo=w1500-h1000-no
