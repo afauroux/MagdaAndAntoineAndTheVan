@@ -1,6 +1,6 @@
 ---
 title: USA - Wyoming (mostly)
-published: 28/05/2022
+published: 28/05/22
 category: journal
 author: Magda
 description: the richness of geological features of central USA
