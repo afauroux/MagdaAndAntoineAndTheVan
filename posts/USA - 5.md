@@ -1,5 +1,5 @@
-***
-## title: USA - Wyoming (mostly)
+---
+title: USA - Wyoming (mostly)
 published: 28/05/2022
 category: journal
 author: Magda
