@@ -59,7 +59,7 @@ Old Faithful is located in the western part of the park, around 40km from the We
 
 ![](https://user-images.githubusercontent.com/20797902/172720447-b31b4153-e336-4f61-b94e-5303b7f4b752.jpg)
    
-![The Morning Glory was once one of the most beautiful hot spring, a deep blue bottomless abyss surrounded by all the colors of the rainbow. Unfortunately, lot of trash felt or was thrown into it (coins for good luck 😢 !), and despite removing kg of it every year the temperature got cooler and the glory tarnished.](https://user-images.githubusercontent.com/20797902/172720458-2f707b0d-19f6-4d59-9ee8-2e7f78a98e5a.jpg)
+![The Morning Glory was once one of the most beautiful hot spring, a deep blue bottomless abyss with all the colors of the rainbow. Unfortunately, lot of trash felt or was thrown into it (coins for good luck!), and despite removing kilos of it every year, the temperature went down, and the glory is gone.](https://user-images.githubusercontent.com/20797902/172720458-2f707b0d-19f6-4d59-9ee8-2e7f78a98e5a.jpg)
 
 ![](https://user-images.githubusercontent.com/20797902/172720485-ccbc5bdb-41bb-4c20-828e-70e1c59a2074.jpg)
 
