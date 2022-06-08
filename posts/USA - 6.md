@@ -1,5 +1,4 @@
-* * *
-
+---
 ## title: USA - Yellowstone pt1
 published: 8/06/2022
 category: journal
@@ -7,6 +6,7 @@ author: Magda
 description: tons of geysers
 image:
 publish: no
+---
 
 I have so many photos from Yellowstone that I have to divide them in like 3 posts, I suppose. This one is mostly about the geysers and hot springs. Yellowstone is the area with largest amounts of these features in the world, so these photos certeinly don't exhaust the subject.
 
