@@ -13,7 +13,7 @@ We entered Yellowstone through the east entrance (out of five entrances), arrivi
 
 ![first signs of underlaying geothermal activity next to the lake](https://user-images.githubusercontent.com/20797902/172718821-7e5ede89-5a1c-4cd0-b99f-10a70da1358e.jpg)
 
-The park is enormous (bigger than some of the eastern states), and distances between various points of interest are quite big. So it's mostly a big forest with some geothermal features scattered around. We managed to come at a right moment - at the end of May, the season isn't exactly started yet, so there wasn't as many people as, say, in July, but the temperatures are already nice and the snow clears from the trails. After being welcomed by the frozen Yellowstone lake, we first stopped at West Thumb - a not-so-big area with hot springs and small geysers on the lakeshore. 
+The park is enormous (bigger than some of the eastern states), and distances between various points of interest are quite big. It's mostly a big forest with some geothermal features, waterfalls, plains filled with bisons and other goodies scattered around. We managed to come at a right moment - at the end of May, the season isn't exactly started yet, so there wasn't as many people as, say, in July, but the temperatures are already nice and the snow clears from the trails. After being welcomed by the frozen Yellowstone lake, we first stopped at West Thumb - a not-so-big area with hot springs and small geysers on the lakeshore. 
 
 ![](https://user-images.githubusercontent.com/20797902/172718932-6a9d5df6-27ed-4ab6-bbcb-8b05014f923a.jpg)
 
@@ -37,8 +37,6 @@ Old Faithful is located in the western part of the park, around 40km from the We
 
 ![](https://user-images.githubusercontent.com/20797902/172719548-af24ee6b-7321-44a0-8c35-4e92fd61d695.jpg)
 
-![](https://user-images.githubusercontent.com/20797902/172719712-2beda5c1-5c83-495e-92e5-22a05779d3d6.jpg)
-
 ![](https://user-images.githubusercontent.com/20797902/172719811-a63bed00-d483-44d1-a762-53097afb75d7.jpg)
 
 ![](https://user-images.githubusercontent.com/20797902/172719929-a59191d5-4e0b-4ff8-8af2-14068a7fec16.jpg)
@@ -61,7 +59,9 @@ Old Faithful is located in the western part of the park, around 40km from the We
 
 ![](https://user-images.githubusercontent.com/20797902/172720447-b31b4153-e336-4f61-b94e-5303b7f4b752.jpg)
 
-![](https://user-images.githubusercontent.com/20797902/172720458-2f707b0d-19f6-4d59-9ee8-2e7f78a98e5a.jpg)
+The morning glory was once one of the most beautiful hot spring, a deep blue bottomless abyss surrounded by all the colors of the rainbow. Unfortunately, lot of trash felt or was thrown into it (coins for good luck 😢 !), and despite removing kg of it every year the temperature got cooler and the glory tarnished.   
+
+![The Morning Glory](https://user-images.githubusercontent.com/20797902/172720458-2f707b0d-19f6-4d59-9ee8-2e7f78a98e5a.jpg)
 
 ![](https://user-images.githubusercontent.com/20797902/172720485-ccbc5bdb-41bb-4c20-828e-70e1c59a2074.jpg)
 
@@ -75,8 +75,7 @@ Old Faithful is located in the western part of the park, around 40km from the We
 
 ![](https://user-images.githubusercontent.com/20797902/172720621-f0c1d53e-9df1-41ce-9c6d-6c89f1657542.jpg)
 
-
-To see the Grand Prismatic Spring, the most interesting feature of the park (in my humble opinion), we had to drive 20 more kilometers through the dense forest. The parking of the Middle Geyser Basin fills up quickly even outside of the season - we had to wait in a queue to park. As opposed to the Upper Geyser Basin, there are just a couple of hot springs here, but they are all very big and colorful and overall great. A path from a bit farther away leads above the Eye and provides great views over the basin.
+To see the Grand Prismatic Spring, the most interesting feature of the park, we had to drive 20 more kilometers through the dense forest. The parking of the Middle Geyser Basin fills up quickly even outside of the season - we had to wait in a queue to park. As opposed to the Upper Geyser Basin, there are just a couple of hot springs here, but they are all very big and colorful and overall great. A path from a bit farther away leads above the Eye and provides great views over the basin.
 
 ![](https://user-images.githubusercontent.com/20797902/172720982-9e93668f-1ec3-4808-a6fe-c8e11f28802f.jpg)
 
@@ -97,7 +96,6 @@ Driving further through the park, we encountered many smaller springs, geysers a
 ![](https://user-images.githubusercontent.com/20797902/172721383-f18587a2-c903-41ca-8b4c-49e4265fdddf.jpg)
 
 ![](https://user-images.githubusercontent.com/20797902/172721464-648035cb-9ac4-43ef-bcc6-c6bb368e19e4.jpg)
-
 
 ![at the campsite inside the park; the big metal boxes are bear boxes, where you can hide your food so that bears don't come and eat it (useful especially for people with tents).](https://user-images.githubusercontent.com/20797902/172721479-ce09fba9-413d-4fc0-844f-0b01f4746b8e.jpg)
 
