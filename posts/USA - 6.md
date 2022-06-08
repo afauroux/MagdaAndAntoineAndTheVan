@@ -1,6 +1,6 @@
 ---
-## title: USA - Yellowstone pt1
-published: 8/06/2022
+title: USA - Yellowstone pt1
+published: 08/06/22
 category: journal
 author: Magda
 description: tons of geysers
