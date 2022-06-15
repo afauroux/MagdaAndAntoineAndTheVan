@@ -9,15 +9,13 @@ image: https://user-images.githubusercontent.com/20797902/173695338-aeb62a39-3be
 
 Apart from Grand Prismatic and Old Faithful, western parts of Yellowstone have two more major hot springs areas: Norris Basin and Mammoth Hot Springs. One could think that geysers and hot springs would get boring after seeing so many of them, but they are actually all quite unique: bubbling lakes, mudpots, tons of colors and shapes. Norris contains the biggest geyser in the world, but as it errupts very irregularly, we did not have the occasion to see it. 
 
-![Antoine goes where he's not supposed to](https://user-images.githubusercontent.com/20797902/173697258-32db3494-bbbd-4d70-8923-b2ff52463f5e.jpg)
+![Antoine goes down to take a really close look at the river](https://user-images.githubusercontent.com/20797902/173697258-32db3494-bbbd-4d70-8923-b2ff52463f5e.jpg)
 
 ![bisons of western Yellowstone](https://user-images.githubusercontent.com/20797902/173697276-2b5bc377-7aac-4e54-97a5-ef46c819d408.jpg)
 
 ![Paint Pots](https://user-images.githubusercontent.com/20797902/173518010-e6048764-858d-4b47-8a8a-5833e4075057.jpg)
 
 ![Norris Basin](https://user-images.githubusercontent.com/20797902/173518035-41bc7a84-c98e-4221-b17c-d428f8e4abf9.jpg)
-
-![](https://user-images.githubusercontent.com/20797902/173518042-7d0d4f67-1628-4b4b-a11c-4fe5cf43d0ad.jpg)
 
 ![](https://user-images.githubusercontent.com/20797902/173518049-4200b5fb-ec64-4717-ae7e-86cf6a4691b9.jpg)
 
@@ -55,7 +53,7 @@ The Mammoth area, located in the north of Yellowstone, is rich in dissolved lime
 
 ![Golden Gate Canyon from above](https://user-images.githubusercontent.com/20797902/173694735-ad06bbb8-5178-4781-935a-fe33d03bc956.jpg)
 
-We also spent some time around Gardiner, just outside of the northern park entrance, as the mountains above the town offer some great opportunities for free camping. 
+We spent some time around Gardiner, just outside of the northern park entrance, as the mountains above the town offer some great opportunities for free camping. 
 
 We were also lucky to see every species of big mammals that Yellowstone is known for. The eastern parts of the park are particularly popular for wildlife watching, with the Lamar Valley crowded with bisons, antelopes and, occasionally, wolves and bears. This is especially true in the evening, when the setting sun provides great light. We saw a dead bison being eaten by a pack of wolves (although it was really far, so we've got no proper photo). We also saw mooses and grizzlies in other park areas. The black bears were particularly outgoing - often, it was hard to move around with the car as everybody was stopping in random places on the road to get out and take photos of them. 
 
