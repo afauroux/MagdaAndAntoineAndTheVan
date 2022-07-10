@@ -77,7 +77,7 @@ We didn't stay very long in Grand Teton NP and soon left northwest, passing once
 
 ![ghost town of Gardner - mining town in the Montana hills from the gold rush epoch](https://user-images.githubusercontent.com/20797902/178133340-eb3f44ea-1952-4fd6-a10a-5cce03814915.jpg)
 
-![Antoine in the bar](https://user-images.githubusercontent.com/20797902/178133333-af45d5c5-9f63-4724-9fee-a154f937bf5e.jpg)
+![Antoine at the bar, waiting for his sarsaparilla 🍺](https://user-images.githubusercontent.com/20797902/178133333-af45d5c5-9f63-4724-9fee-a154f937bf5e.jpg)
 
 ![Magda in school](https://user-images.githubusercontent.com/20797902/178133337-a3282d8a-3b82-4849-800d-4aa3eb6e6422.jpg)
 
