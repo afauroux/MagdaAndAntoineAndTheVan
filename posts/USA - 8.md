@@ -77,7 +77,7 @@ We didn't stay very long in Grand Teton NP and soon left northwest, passing once
 
 ![Magda in school](https://user-images.githubusercontent.com/20797902/178133337-a3282d8a-3b82-4849-800d-4aa3eb6e6422.jpg)
 
-We crossed Idaho in its narrowest part (so-called panhandle) and the only attraction there was the Pride Parade in Coeur d'Alene surrounded by gunned and masked complotists 🔫! We even witnessed an arrest of a bigger group of extremists who came there crowded in a truck to cause trouble. West Washington didn't have such entertainement, but it still surpised us with its arid landscapes, which are similar to Oregon - cold but arid plains filled with sagebush and tumbling tumbleweed.
+We crossed Idaho in its narrowest part (so-called panhandle) and the only attraction there was the Pride Parade in Coeur d'Alene surrounded by gunned and masked complotists 🔫! We even witnessed an arrest of a bigger group of extremists who came there crowded in a truck to cause trouble. West Washington didn't have such entertainement, but it still surpised us with its landscapes - cold but arid plains filled with sagebush and tumbling tumbleweed.
 
 ![west Washington](https://user-images.githubusercontent.com/20797902/178133661-c104b9c3-f7f4-4668-a083-6c8c05956dd1.jpg)
 
