@@ -57,7 +57,7 @@ We managed to find some great free camping spots with nice views just outside of
 
 ![us at the Jackson Lake](https://user-images.githubusercontent.com/20797902/178128026-0b4f1f04-b3c0-4102-8910-fbebafbd6386.jpg)
 
-We didn't stay very long in Grand Teton NP as there isn't so much to do there. We soon left northwest, passing once again through Yellowstone and exiting into Montana. We finally took a direction to Seattle, to visit my friend Gosia. We still had a thousand kilometers to go, so on the way we stopped in several fun places, e.g. XIX/XX century mining town in Butte, Museum of the Rockies in Bozeman (which has an amazing paleontological exposition), or the ghost town of Garden. 
+We didn't stay very long in Grand Teton NP and soon left northwest, passing once again through Yellowstone and exiting into Montana. We finally took a direction to Seattle, to visit my friend Gosia. We still had a thousand kilometers to go, so on the way we stopped in several fun places, e.g. XIX/XX century mining town in Butte, Museum of the Rockies in Bozeman (which has an amazing paleontological exposition), or the ghost town of Gardner. 
 
 ![mining town](https://user-images.githubusercontent.com/20797902/178133008-3e3c2fd9-3d8d-42c3-ad6f-e64fe0e4d5d3.jpg)
 
@@ -65,7 +65,7 @@ We didn't stay very long in Grand Teton NP as there isn't so much to do there. W
 
 ![](https://user-images.githubusercontent.com/20797902/178133012-0ff7561b-7423-4de8-bded-d738a7ea95c9.jpg)
 
-![Antoine brings finger guns to America](https://user-images.githubusercontent.com/20797902/178133013-2e56bb6c-1167-4d64-a77c-b14bff6d6a2c.jpg)
+![hipster bank robber](https://user-images.githubusercontent.com/20797902/178133013-2e56bb6c-1167-4d64-a77c-b14bff6d6a2c.jpg)
 
 ![growing stages of Triceratops](https://user-images.githubusercontent.com/20797902/178133295-a277250a-f09f-4927-9de8-50e376afd167.jpg)
 
@@ -77,15 +77,13 @@ We didn't stay very long in Grand Teton NP as there isn't so much to do there. W
 
 ![Magda in school](https://user-images.githubusercontent.com/20797902/178133337-a3282d8a-3b82-4849-800d-4aa3eb6e6422.jpg)
 
-We crossed Idaho in its narrowest part (so-called panhandle) and the only attraction there was the Pride Parade in Coeur d'Alene surrounded by gunned and masked complotists. We even witnessed an arrest of a bigger group of extremists who came there crowded in a truck to cause trouble. West Washington didn't have such entertainement, but it still surpised us with its arid landscapes.
+We crossed Idaho in its narrowest part (so-called panhandle) and the only attraction there was the Pride Parade in Coeur d'Alene surrounded by gunned and masked complotists 🔫! We even witnessed an arrest of a bigger group of extremists who came there crowded in a truck to cause trouble. West Washington didn't have such entertainement, but it still surpised us with its arid landscapes, which are similar to Oregon - cold but arid plains filled with sagebush and tumbling tumbleweed.
 
 ![west Washington](https://user-images.githubusercontent.com/20797902/178133661-c104b9c3-f7f4-4668-a083-6c8c05956dd1.jpg)
 
 ![](https://user-images.githubusercontent.com/20797902/178133662-ad86f955-ee59-45a5-8522-c20309c180f5.jpg)
 
 ![we were visited by a friendly snake!](https://user-images.githubusercontent.com/20797902/178133659-6f50a43f-e02b-4c45-9f32-874725be18e7.jpg)
-
-![this was our event of the week (apart from the pure America witnessed in Coeur d'Alene)](https://user-images.githubusercontent.com/20797902/178133660-85215b06-40e7-4c5f-ba0d-14c3797112be.jpg)
 
 Last stop before Seattle was this charming little town of Leavenworth, where somebody had a great idea of attracting tourists by pretending to be a Bavarian town. 
 
