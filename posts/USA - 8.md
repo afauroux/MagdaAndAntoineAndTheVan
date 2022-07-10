@@ -35,6 +35,10 @@ We did some hikes, although most of the better trails were still covered in snow
 
 ![](https://user-images.githubusercontent.com/20797902/178127938-cfe394c7-0711-460c-be01-20f92626df52.jpg)
 
+![kayaking](https://user-images.githubusercontent.com/20797902/178134966-9749c315-54bf-4e40-bbca-bb8226429f42.jpg)
+
+![](https://user-images.githubusercontent.com/20797902/178134963-200c21db-f8d2-4cac-971b-172fa6c09650.jpg)
+
 ![mama grizzly with a little one](https://user-images.githubusercontent.com/20797902/178127939-90c23298-2a6e-4603-8068-4d32296e156d.jpg)
 
 ![three little maneaters follow mama into the wild](https://user-images.githubusercontent.com/20797902/178127942-59225d08-f545-495f-a185-9e5c2ffdfd7a.jpg)
