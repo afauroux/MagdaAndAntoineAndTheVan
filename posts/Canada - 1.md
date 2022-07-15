@@ -79,7 +79,7 @@ There are many picturesque spots to stop along the way, e.g. Peyto Lake or Mistw
 
 ![Peyto Lake](https://user-images.githubusercontent.com/20797902/179123253-82df791c-cf80-492c-8b2d-fc72ffa6c5e0.jpg)
 
-![its aquamarine color stems from the fact that it's fed by glacial waters](https://user-images.githubusercontent.com/20797902/179123256-a4916e41-81b0-438b-ac18-a6b1af792132.jpg)
+![its aquamarine color stems from the rock flour carried by glacial waters](https://user-images.githubusercontent.com/20797902/179123256-a4916e41-81b0-438b-ac18-a6b1af792132.jpg)
 
 ![](https://user-images.githubusercontent.com/20797902/179123279-a7f1a06a-016a-45f2-b41e-32f7c1351846.jpg)
 
