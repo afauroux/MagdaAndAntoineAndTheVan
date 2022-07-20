@@ -4,8 +4,7 @@ published: 20/07/22
 category: journal
 author: Magda
 description: Icefield Parkway and Jasper NP
-image: 
-publish: no
+image: https://user-images.githubusercontent.com/20797902/179876100-73af448a-feac-46f0-8aee-04fec2db351f.jpg
 ---
 
 When crossing from Banff to Jasper NP, visitors are welcomed by Columbia Icefield, the biggest ice mass in the Rockies. Icefield Parkway continues along its eastern edge, providing views on three of its many outlet glaciers. The first we saw was Saskatchewan Glacier, which constitutes the source of North Saskatchewan River (which in turn gives the name to the central Canadian province of Saskatchewan). We climbed in knee-deep snow to a mountain pass from which we had a great view over the glacier. 
