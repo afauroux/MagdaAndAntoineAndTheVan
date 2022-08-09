@@ -45,7 +45,7 @@ When Mike the mechanic got the seal and finished the repairs, we hit the main ro
 
 ![Cathedral Grove - some trees here are 800 years old](https://user-images.githubusercontent.com/20797902/183555593-b6469397-d05c-4d02-ab7e-e348673a6674.jpg)
 
-![Antoine and a giant Douglas fir, measuring 9m in circumference ](https://user-images.githubusercontent.com/20797902/183555658-20b2c8a9-db3c-44af-9bd8-86493ab8c5d0.jpg)
+![Antoine and a giant Douglas fir, measuring 9m in circumference and 75m in height](https://user-images.githubusercontent.com/20797902/183555658-20b2c8a9-db3c-44af-9bd8-86493ab8c5d0.jpg)
 
 ![](https://user-images.githubusercontent.com/20797902/183555704-1dc44e14-613c-43db-a376-d19e79e403f9.jpg)
 
