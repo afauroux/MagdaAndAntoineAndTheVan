@@ -85,7 +85,7 @@ When Mike the mechanic got the seal and finished the repairs, we hit the main ro
 
 ![community house in the native reservation in Comox](https://user-images.githubusercontent.com/20797902/183559090-b4f16166-a1bf-4220-a4bd-d44bd5a2d32f.jpg)
 
-After getting back to the eastern side of the island, we made our way to Port Hardy, at the northern tip of Vancouver Island, where we caught a ferry travelling through the so-called Inside Passage to Prince Rupert, in northern B.C.. The Inside Passage meanders between scenic wooded islands of Canada’s rugged west coast, where mountains assure that the handful of people who live here can only be reached by water.
+After getting back to the eastern side of the island, we made our way to Port Hardy, at the northern tip of Vancouver Island, where we caught a ferry travelling through the so-called Inside Passage to Prince Rupert, in northern B.C.. The Inside Passage meanders between scenic wooded islands of Canada’s rugged west coast, where mountains assure that the handful of people who live here can only be reached by water. On the way, we saw many whales and porpoises.
 
 ![totem pole at the end of the road in Port Hardy, with the mountains in the mainland in the background](https://user-images.githubusercontent.com/20797902/183559211-314a90de-e51a-48c3-a982-9e57f80b10b8.jpg)
 
