@@ -34,11 +34,25 @@ We spent almost 3 weeks in Vancouver waiting for the parts to arrive from Poland
 ![photo-23](https://user-images.githubusercontent.com/20797902/183556041-d2c04f47-518d-4696-9ee1-85eeb6aaff0a.jpg)
 ![photo-24](https://user-images.githubusercontent.com/20797902/183556122-e616caf1-e144-4fa0-ac00-c1cd6b98c2ed.jpg)
 ![photo-25](https://user-images.githubusercontent.com/20797902/183556251-389ac5df-531f-4adc-b14b-12ed3775b888.jpg)
-
+![photo-26](https://user-images.githubusercontent.com/20797902/183558481-7ac73391-813f-42d0-b6f6-2c8d486e5cf4.jpg)
+![photo-27](https://user-images.githubusercontent.com/20797902/183558583-55ef1ae2-e3f8-4daf-8491-f5c3b10f6486.jpg)
+![photo-28](https://user-images.githubusercontent.com/20797902/183558614-f9c0a31d-42fb-4637-83c0-2ccda2780e4f.jpg)
+![photo-29](https://user-images.githubusercontent.com/20797902/183558699-12cb9701-83ad-4072-9f57-20b63b7c50f0.jpg)
+![photo-30](https://user-images.githubusercontent.com/20797902/183558749-3535399f-0592-44e7-ad20-fd62c0f2395e.jpg)
+![photo-31](https://user-images.githubusercontent.com/20797902/183558808-58b996b3-da02-41a9-924a-9a0282a96689.jpg)
+![photo-32](https://user-images.githubusercontent.com/20797902/183558903-4fe74457-7c42-4b6a-bd40-63b503086b19.jpg)
+![photo-33](https://user-images.githubusercontent.com/20797902/183558978-94964969-e4ff-4958-a923-ccdf3726e102.jpg)
+![photo-34](https://user-images.githubusercontent.com/20797902/183559032-0b7feee6-e571-4206-960f-4066ba21e00f.jpg)
+![photo-35](https://user-images.githubusercontent.com/20797902/183559090-b4f16166-a1bf-4220-a4bd-d44bd5a2d32f.jpg)
+![photo-36](https://user-images.githubusercontent.com/20797902/183559211-314a90de-e51a-48c3-a982-9e57f80b10b8.jpg)
+![photo-37](https://user-images.githubusercontent.com/20797902/183559492-626606bb-b6d9-47f7-a1bc-c166a0f954c0.jpg)
+![photo-38](https://user-images.githubusercontent.com/20797902/183559521-ce3f775e-2cc9-492e-a4f7-7faee88c7bc1.jpg)
+![photo-39](https://user-images.githubusercontent.com/20797902/183559574-622259a7-35d4-4789-88ab-e417087769ec.jpg)
+![photo-40](https://user-images.githubusercontent.com/20797902/183559598-8ce844e8-0a9e-4295-8cca-9c3170d9cc6a.jpg)
 
 But we only managed to visit Victoria, B.C.’s capital and island’s biggest city, before we had an oil light pop up on our dashboard. Turned out the mechanic back in Vancouver didn’t properly seal the chamber of the timing chain that he changed, and now our car was leaking oil… Fortunately this time, it was easy to find a garage eager to help us (they were recommended to us at an oil change station in Victoria). It still took us 5 days to have it done as a specific seal was needed (this time, we managed to find it locally, so it wasn’t necessary to have it shipped from Europe). In this time, we stayed at Spoke as the heatwave reached Canadian western provinces.
 
-… (videos from the phone, gopro)
+…
 
 When Mike the mechanic got the seal and finished the repairs, we hit the main road in the island. It follows the eastern coast and is dotted with cute little towns and totem poles. We also crossed the inland mountains through a rather windy road and visited the west coast, where the main town is Tofino. Antoine spent some time surfing, but I’ve got no pictures of this as for the whole time we spent there, a mist clunched? above the water and I couldn’t even see him from the beach.
 
