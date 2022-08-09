@@ -7,7 +7,7 @@ description: but mostly the island
 image: https://user-images.githubusercontent.com/20797902/183555149-324e9622-ecd8-4ca5-972b-c9e9f633ef90.jpg
 ---
 
-We spent almost 3 weeks in Vancouver waiting for the parts to arrive from Poland, as well as for the availability of the mechanic whom we found for the job. Antoine worked on his programming project with UNamur and we explored the city a bit more (we stayed at a campsite close to the center). When the car was finally done (or so we thought…), we jumped on the first ferry to Vancouver Island - a 500 km-long stretch of mountains and rainforest on the British Columbia southern coast. 
+We spent almost 3 weeks in Vancouver waiting for the parts to arrive from Poland, as well as for the availability of the mechanic whom we found for the job. Antoine worked on his programming project with UNamur and we explored the city a bit more (we stayed at a campsite close to the center).
 
 ![totems in Stanley Park, Vancouver](https://user-images.githubusercontent.com/20797902/183554836-8b5ac777-598a-444f-b665-e85fe4a0dafb.jpg)
 
@@ -16,6 +16,8 @@ We spent almost 3 weeks in Vancouver waiting for the parts to arrive from Poland
 ![Vancouver skyline from the Lion Gate Bridge, on the way to the campsite, on a rainy day](https://user-images.githubusercontent.com/20797902/183554984-53270a69-3b5b-4cd6-ac93-ae9ae2bdac90.jpg)
 
 ![Lion Gate Bridge on a sunny day](https://user-images.githubusercontent.com/20797902/183555052-cc866c85-691a-4515-95d3-31aafa93be05.jpg)
+
+When the car was finally done (or so we thought…), we jumped on the first ferry to Vancouver Island - a 500 km-long stretch of mountains and rainforest on the British Columbia southern coast. 
 
 ![Mount Rainier in Washington State as seen from the ferry between Vancouver and Vancouver Island](https://user-images.githubusercontent.com/20797902/183555115-5fd0d0f7-b3e3-4d5c-8975-1e047036f0e1.jpg)
 
@@ -37,7 +39,7 @@ But we only managed to visit Victoria, B.C.’s capital and island’s biggest c
 
 ![Strait of Juan de Fuca - a part of Pacific Ocean that separates Vancouver Island from the Olympic Peninsula in Washington state](https://user-images.githubusercontent.com/20797902/183555419-75612f52-4942-40bc-9d23-65fb8f97a2c7.jpg)
 
-![this is what the Pacific spits out on its coasts - weird tubes](https://user-images.githubusercontent.com/20797902/183555458-e4671b0a-ff41-40f4-882f-e1e706d8811e.jpg)
+![this is what the Pacific spits out on its coasts - huge kelp (algae) ](https://user-images.githubusercontent.com/20797902/183555458-e4671b0a-ff41-40f4-882f-e1e706d8811e.jpg)
 
 When Mike the mechanic got the seal and finished the repairs, we hit the main road in the island. It follows the eastern coast and is dotted with cute little towns and totem poles. We also crossed the inland mountains through a rather windy road and visited the west coast, where the main town, Tofino, is a mekka of Canadian surfers. And so Antoine spent some time surfing, but I’ve got no pictures of this as for the whole time we spent there, a mist lingered above the water and I couldn’t even see him from the beach…
 
@@ -51,7 +53,7 @@ When Mike the mechanic got the seal and finished the repairs, we hit the main ro
 
 ![west coast](https://user-images.githubusercontent.com/20797902/183555748-7ec67632-93c7-46c8-9078-76d32308de3a.jpg)
 
-![weird fog hoovers over the rainforest](https://user-images.githubusercontent.com/20797902/183555827-56d4aed3-f7e0-44ca-8560-0c233196a2c6.jpg)
+![costal fog hoovers over the rainforest](https://user-images.githubusercontent.com/20797902/183555827-56d4aed3-f7e0-44ca-8560-0c233196a2c6.jpg)
 
 ![](https://user-images.githubusercontent.com/20797902/183555900-76a15c94-e4a0-4108-85a7-23119e2d7891.jpg)
 
