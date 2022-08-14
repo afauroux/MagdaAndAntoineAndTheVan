@@ -12,6 +12,20 @@ We only spent half a day in Prince Rupert, a sleepy-looking town at the end of C
 
 ![maphaida](https://user-images.githubusercontent.com/20797902/184524578-4fd68bc7-aa48-4fb2-accc-b46ee750e8ed.png)
 photo from Antoine's phone from the ferry
+![photo-16](https://user-images.githubusercontent.com/20797902/184546528-2ad08e46-2951-46fd-9810-a844168a6c44.jpg)
+![photo-17](https://user-images.githubusercontent.com/20797902/184546640-e7c63fad-661d-4e01-a17b-8b6bcce9f0b3.jpg)
+![photo-18](https://user-images.githubusercontent.com/20797902/184546649-209d71ae-3766-488f-8e4f-4903936d9b84.jpg)
+![photo-19](https://user-images.githubusercontent.com/20797902/184546677-052f4298-24b9-4bc3-9195-b45de34d0fae.jpg)
+![photo-20](https://user-images.githubusercontent.com/20797902/184546700-16fd2b2d-9d32-4846-bb2f-d35dcffc70d0.jpg)
+![photo-21](https://user-images.githubusercontent.com/20797902/184546732-73ccfd88-c640-49b7-81e2-24df4d147acf.jpg)
+![photo-22](https://user-images.githubusercontent.com/20797902/184546753-17a17533-7ce2-4cda-85e0-083346a5b585.jpg)
+![photo-23](https://user-images.githubusercontent.com/20797902/184546762-fd1a58b8-efc6-4cbf-a0df-72c0835cc9f3.jpg)
+![photo-24](https://user-images.githubusercontent.com/20797902/184546770-2ae5dc0d-e28f-4349-bbb1-0d60f96853c7.jpg)
+![photo-25](https://user-images.githubusercontent.com/20797902/184546783-7535f7fc-0a8d-4d75-8238-fd2ceaa8c730.jpg)
+![photo-26](https://user-images.githubusercontent.com/20797902/184546789-1e31a861-ce82-44f6-9e2b-287fa2c58537.jpg)
+![photo-27](https://user-images.githubusercontent.com/20797902/184546790-5dcb46e6-e42b-475f-9d98-1eab358ff27f.jpg)
+![photo-28](https://user-images.githubusercontent.com/20797902/184546798-68b29448-a2e9-4d40-a932-919155572049.jpg)
+![photo-29](https://user-images.githubusercontent.com/20797902/184546813-45569a41-6812-4268-9534-5a06a84df369.jpg)
 
 
 Haida Gwaii means „the land of Haida“ in local native language; the islands have been home to Haida people for thousands of years (they were connected to the mainland around 14 000 years ago). Today, the local population of less than 5000 people lives in several small villages mostly scattered along the eastern and northern coast of the bigger Graham Island. 
