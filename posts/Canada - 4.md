@@ -5,12 +5,11 @@ category: journal
 author: Magda
 description: at the edge of Canada
 image: https://user-images.githubusercontent.com/20797902/184524830-6f76e24e-18f6-46e7-9940-08ec61506dbe.jpg
-publish: no
 ---
 
 We only spent half a day in Prince Rupert, a sleepy-looking town at the end of Canada’s Highway 16, that is supposedly a major port hub linking the country with Asia (Shanghai - Prince Rupert in 11 days, as they boast in local visitor centre). Apparently, the scandinavian countries played an important role in developing the port - their flags (including Finland) fly in local park, and the town does have a similar feeling as northern Norway. We managed to fit on a ferry that sails to Haida Gwaii - an archipelago of islands ca. 100km off the coast.
 
-![a map of Haida Gwaii](https://user-images.githubusercontent.com/20797902/184524578-4fd68bc7-aa48-4fb2-accc-b46ee750e8ed.png)
+![a map of Haida Gwaii with its location in Canada](https://user-images.githubusercontent.com/20797902/184524578-4fd68bc7-aa48-4fb2-accc-b46ee750e8ed.png)
 
 ![sleeping on the ferry](https://lh3.googleusercontent.com/lfyJgQr6xoExKgEqKZFVeE7CZOLJCf-KAMdrSGwSYdj1mOKX03ijvnXjzVA7YwQ-wS72o9lwSdmq4XPLOWw6YUZG9ZuMnklsAouA4c9QZTDAWxc9OhpqsyAe7aspSZCRNSQb_TGr9rNRCf5m0ZXgsn-9TFW5g9d1ek29hgdyuXdnlu1POnw5C0LEtCiQbJiWbtVEJGS0UEHReXatqjtSFRHpIT-dzgZMkHU5Y3wj7Q0UrscwcO4WBrXXaiNyrgpDMjUsoiYS9qvlLMcb2MYdjkh9alTEI1VOvvQBY2ZYLQdMBwcto0odZkHJslJTTFI-P86nnEIzG1fSs3U0YdD_xvTkchAe2_AtUG_Lv44UoEIVrUskR-fxbJl4ytKUO5hXHHK_LgFGG6prKOx3AwhOgZVbQV6coct8Mr3IJ7QFBYldFEmMmuhj4ZoeH4qCENmWa4dmVHIEtadzrp1jTLcFRqL_S4ywMHRqzCVaZZpuRqb1oDeCDdX8uvTsJIo_Xsn5BVDD4s9JZyMSXd41z3YMwOZcmhEmwjJNQkMTnLwqQp_KwNrtFTq1r3x_8OaM5w_0Vk6y_GJ6IpzKW_b8zl0jF88raXLgxcuqhsG7GwHEIFcavJR9dKG1j-s59Z-YL4AM9CO2tJXpea9VLAFOfENgrEL8IFW9ZmuTKm1mFL6WEVJj2SQXfxK9hkY6NBJ94IeuRn4gj_PeZE5NI5Ujqcmm5vNCuel9AIPsFtExmL1_zpDXpsE4QWhuM0XN3TrGLHUFiO2LHzBQpps9M3mN7p0qBEsmkGbI4gqbhu4Yj8ZX_kBEA31ebTVE=w1500-h1000-no)
 
