@@ -76,9 +76,7 @@ There we saw rivers filled with salmons like the Parisian Periph' on a busy morn
 
 ![Grizzly at a table](https://user-images.githubusercontent.com/20797902/187582830-79710adc-08d1-4028-a31c-d0cd58254275.jpg)
 
-<video controls alt="video of the bear">
-    <source src="https://video-downloads.googleusercontent.com/AJ1zp9MGY9tea6Q21v9p5Np89hD62MBAePzog4krqGrgqVQPCMx9BFxcxowPRhHdjtiy5h1xULrVpfmB1yI7my8aVvJTqtbDDTuZlXM7oDzMnv5BiCo5obUEnZ6Ze8UweWLQVIOfrjCxQgkxAANec8ddOBxfcD4fDJBlyU8JAbLUgN1Xpmd6FfjxPaoQWh5ok_dUDMwX7v6s9p5ClpqUcXwUiJmY_59sjUVbkmaf4PBYDpKoFmjSrYY1mwiSNa0PBLZjr5sHj8YWrSFPwQpEk7Iy0M3cMkRy0wddSzWHOGu3yxKblaW0NRC3UH5K5FgOROJ8yOIIrpUbDXgE9_T8jRYK-01-KuhRwavqUae5S9of-Rq6iG8BRYBSjL96Dqoplvys7FwSmHcuxmTtLCp2BwRP4jtTwJsZUxAkMLUZZkXu0CyJ2iPZeO-Fu73_vrafgu7ZSX74dRdsVPxYjt-536mohyK9USna56M7DM04fOc55xJ_luO56_6qPsTU0yRTAEQ_H9AaJt8tdViXZa5Oq5sjH6Q850soghlA0Gs51GgWQrfuAryxRuWeAB5A8Ibdo88nbNbU-1-0wCIau7t7SgYjYmuQiABYwiYLRrff5meFq2i-DPHK0xwkaeuL7X8h0HFbVkEtdCsaunsrQ8vGNNzNIdkI-72Zsqpe-4ydXqgif1h8eyKufh2xkqyxO5CxpvIShzO7f3blOSlx-KT9jNlTb-S1YCZjP6zfBO5dvf5PFHIQv3cFiUGJfKdX62UijEenJMkyuEkxh2QwRLiE8kqnnCr8fZc3ubDZbQiTlSNHxUslH0aBh-J7f9vCh1uG17ee8tiBy_DEyoXpvVzZgCQFHNpA48tPKpWiol7QgsV7ASZE7fRcoaRoy5IS-STKpUBZlHGKLXlIcCgm2ss6EMxpw4G7kXXLc1u2DGnncti5pMIV_e0cthQKRnxsywwTF_uc5UMK3xNus7t-ToEudiKMaKysgs3ShbEskzvZT4wV2bnC6uV264A?authuser=0" type="video/mp4">
-</video>
+[Video of the Grizzly catching a salmon](https://photos.app.goo.gl/aBwFuyPqDkFwFB7b7)
 
 Then we pushed our heavy vehicle up to the Salmon Glacier through bumpy dirt roads, and spend a night with a view.
 
