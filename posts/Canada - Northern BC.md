@@ -130,4 +130,5 @@ Resuming northward, we left BC passing by a succession of nice camping spots alo
 
 ![burnt forest - remnants of the huge wildfire of 2018](https://user-images.githubusercontent.com/20797902/187583011-9f3985ed-c527-422f-8216-244c81e633fb.jpg)
 
-add welcome to Yukon photo
+![welcome to Yukon! we spent 2 months in British Columbia and it was gorgous (apart from the stuck time in Vancouver maybe which was so-so](https://user-images.githubusercontent.com/20797902/187756262-c1439a62-0fc4-4b0d-bde2-467ed1fd15ec.jpg)
+
