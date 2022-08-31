@@ -10,17 +10,17 @@ image: https://user-images.githubusercontent.com/20797902/187582791-ee85a7c6-3ae
 
 We couldn't resolve to leave this beautiful and vast Canadian province known as British Colombia, without first trying to lose ourselves up the many river valleys, following the tracks of salmons 🐟 and natives 🎣.
 
-We left the coast eastward on Highway 16 from Prince Rupert to Prince George, which is known here as the _Highway of Tears_. The road is infamous for a high rate of kidnapping and murders of women - since 1970, over 80 women disappeared. Most of them were Indigenous, and they are still very much at risk even today (hence the panels that forbid hitchhiking here).
+We left the coast eastward on Highway 16 from Prince Rupert to Prince George, which is known here as the Highway of Tears. The road is infamous for a high rate of kidnapping and murders of women - since 1970, over 80 women disappeared. Most of them were Indigenous, and they are still very much at risk even today (hence the panels that forbid hitchhiking here).
 
-First detour from Hwy 16 was to the Nass valley, **host** of the Nishga'a people (since people around here see themselves as belonging to the land and not as owning it). There we discussed with Calvin McNeil, a local artist whose father was Scotish and mother Nishga'a, but was raised by his grandparents. He was on a commission to carve a new totem pole depicting a shaman (with it's bear-claws hat) and other symbols we didn't fully understand (or were not supposed to). This was a copy of an older pole, which was itself a copy of an even older one. Often those poles were mortuary ones and had decorated bentwood box in the middle that holds the remains of a great man. As the totem would slowly dissolve back to mother nature, the essence of the man and its memory would also gently fade.
+First detour from Hwy 16 was to the Nass valley, host of the Nishga'a people (since people around here see themselves as belonging to the land and not as owning it). There we discussed with Calvin McNeil, a local artist whose father was Scotish and mother Nishga'a, but was raised by his grandparents. He was on a commission to carve a new totem pole depicting a shaman (with it's bear-claws hat) and other symbols we didn't fully understand (or were not supposed to). This was a copy of an older pole, which was itself a copy of an even older one. Often those poles were mortuary ones and had decorated bentwood box in the middle that holds the remains of a great man. As the totem would slowly dissolve back to mother nature, the essence of the man and its memory would also gently fade.
 
 ![reconstruction of a Nisga'a housefront at Nisga'a museum in Laxgalts'ap](https://user-images.githubusercontent.com/20797902/187582682-700af207-e21c-48bd-b011-415d2eca134d.jpg)
 
 ![ceremonial headdress](https://user-images.githubusercontent.com/20797902/187582686-4dc890d9-06aa-4f25-9390-064a48342dc7.jpg)
 
-![also](https://user-images.githubusercontent.com/20797902/187582691-b7e88013-f029-49bb-86dd-4b2eeebdc9a1.jpg)
+![another ceremonial headdress](https://user-images.githubusercontent.com/20797902/187582691-b7e88013-f029-49bb-86dd-4b2eeebdc9a1.jpg)
 
-![back of a throne of the Frog clan chief](https://user-images.githubusercontent.com/20797902/187582697-b2a50d0a-12d8-46f4-bdec-f749e51ad0cc.jpg)
+![back of a throne of the Frog 🐸 clan chief](https://user-images.githubusercontent.com/20797902/187582697-b2a50d0a-12d8-46f4-bdec-f749e51ad0cc.jpg)
 
 Interesting other things we saw include:
 
@@ -31,7 +31,6 @@ Interesting other things we saw include:
 ![totem poles in front of Nisga'a government house](https://user-images.githubusercontent.com/20797902/187582717-57c23988-0b29-4163-a4e7-f2790eb28a3b.jpg)
 
 ![end of the road - marina in Gingolx](https://user-images.githubusercontent.com/20797902/187582676-825ba834-2f02-4a37-97cb-a0b3d48721c8.jpg)
-
 
 > Quick side note: Many other native people from elsewhere in America were forced to sign treaties to give up their land, but it turns out the British Crown didn't care to do that in the Northwest Pacific, which means this land is still "officially" the property of no one, or at least that it could be seen this way...
 
@@ -53,7 +52,7 @@ A quick rest in a forest on a river island at Terrace, then we headed to another
 
 ![](https://user-images.githubusercontent.com/20797902/187582772-093a4aef-89ad-45d4-bb28-2940f884de1a.jpg)
 
-![Kitwanga poles - same of them date back to late XIX century](https://user-images.githubusercontent.com/20797902/187582747-da07a011-7762-4963-bfac-92c1feddd213.jpg)
+![Kitwanga poles - some of them date back to late XIX century](https://user-images.githubusercontent.com/20797902/187582747-da07a011-7762-4963-bfac-92c1feddd213.jpg)
 
 ![not this one](https://user-images.githubusercontent.com/20797902/187582752-b9b49fc3-3b0d-4509-9815-626ecc71ce0f.jpg)
 
@@ -67,10 +66,9 @@ A quick rest in a forest on a river island at Terrace, then we headed to another
 
 ![town of Gitanyow](https://user-images.githubusercontent.com/20797902/187582792-e1a9a2c6-1110-4fd9-a922-e7866405b03b.jpg)
 
+From there, one can join the Alaskan Highway via the long Steward-Cassiar Highway which stretches for 700 km with scarce services. This road is parallel to the border with the Alaskan panhandle along the north-west coast, and surely we couldn't resist crossing the border at Hyder to claim a bit earlier, the milestone of having reached Alaska with our own vehicle all the way from Poland 🌎🤙🇵🇱.
 
-From there, one can join the Alaskan Highway via the long Steward-Cassiar Highway which stretches for 700 km with scarce services. This road is parallel to the border with the Alaskan panhandle :pan_emoji?: along the north-west coast, and surely we couldn't resist crossing the border at Hyder to claim a bit earlier, the milestone of having reached Alaska with our own vehicle all the way from Poland 🌐🤙🇵🇱.
-
-There we saw rivers filled with salmons like the Parisian Periph' on a busy morning, and grizzlies too full to fight 🐻🍽️🚥🐟.
+There we saw rivers filled with salmons like the Parisian Periph' on a busy morning, and grizzlies too full to fight 🐻🚥🍽️🐟🐟🐟.
 
 ![visit Alaska - check!](https://user-images.githubusercontent.com/20797902/187582798-1df7adaa-0160-4884-bb4b-e4866407531f.jpg)
 
@@ -78,13 +76,13 @@ There we saw rivers filled with salmons like the Parisian Periph' on a busy morn
 
 ![Grizzly at a table](https://user-images.githubusercontent.com/20797902/187582830-79710adc-08d1-4028-a31c-d0cd58254275.jpg)
 
-<video controls alt="video of the maelstrom from land">
-    <source src="https://video-downloads.googleusercontent.com/AJ1zp9PxYVnRgOhBe6jlEZVBaeGKDvEBj_iXmvayvPi6dbVyR60r3M1Dab9F0kN2oZ_AqkrFU9XOlYvjH2SnlsrOgSdaRyHJef1QBrfIgD408ZTF6u7HWe31Rq3jekgNDoIHHD_GkAfnaJ0V9UWGczeDZ0dOzyVaSPjSaqUW8_fJ5WWwmdAXmvPWmC7-9wvFA0egK3dlq8Y3IDJpPoa8LqZdCgsyzS7MLK3abT1ss8eOpD9ahGOXOi7oRGPcFs4G-EOA9hqw4IsC5IC9tKIeVWB4ipxEri8Gc5W5jbJ0BSWJYdq5K5GRjYcVjbtHCJrJKTY23K6b2Dj0-T8CYtdh0ADU72Odzxx8oJyH66XwlG5uKQK9Y0K2mi-EHVpL7-ugByhmM49z1hWaJff_p7_ICbFqI6-jqJPbF1tvYFYZoDXK_a6q_2tgQ10PHfYFJsd0vUDiJCuaM95plOjSxF4ctAZJzvcgwgCrjKQTBv8Ye1Jhaiy3VpuLYW4e2rHSfL8X-V3pFuKC23sesFXvS2GCDVLI6-3x6rzh95ncZnOAVUAi1B9rN4SDucoPd529m4sqHDhdzDJ7kTqMMKui5zlODUNWDLJzhvvtkpfPsI4oynO4Jd8-r1clvF1RA9mklZ9Z6cpCF9aQBcdqhfCDznpP54zkSlvtVcl3oIm7csIWTdXio-Mpc2KBh5XW3jTvI6Hc6exgddXmXAgMAoLjAJPrR96La59Oaphs3bJUWMGxGffhYjWSTxQqhxo9uvvU6j1Oqkiom6kbokAJguqsbCKTKMML5RdO3axq3NEcXmTO583rgmYTnoazSPu76sptFu31OSYWEKROSpqFQhzwz2UEqlLDF6l2O6SicdSTHVrSFSk28FZf9Poh_qZnzmGxfWR1Ro05-QWM56XY5oeOI3ZtHTf5ogvs2mYJxfsQGeJqRqHwS89t4RV6fob2h6E931rNgIvnCh5-kf_trpRqhlJL2V_lyo4AibjA9uH5_4sHNfS6hvsKSe5qcv8" type="video/mp4">
+<video controls alt="video of the bear">
+    <source src="https://video-downloads.googleusercontent.com/AJ1zp9MGY9tea6Q21v9p5Np89hD62MBAePzog4krqGrgqVQPCMx9BFxcxowPRhHdjtiy5h1xULrVpfmB1yI7my8aVvJTqtbDDTuZlXM7oDzMnv5BiCo5obUEnZ6Ze8UweWLQVIOfrjCxQgkxAANec8ddOBxfcD4fDJBlyU8JAbLUgN1Xpmd6FfjxPaoQWh5ok_dUDMwX7v6s9p5ClpqUcXwUiJmY_59sjUVbkmaf4PBYDpKoFmjSrYY1mwiSNa0PBLZjr5sHj8YWrSFPwQpEk7Iy0M3cMkRy0wddSzWHOGu3yxKblaW0NRC3UH5K5FgOROJ8yOIIrpUbDXgE9_T8jRYK-01-KuhRwavqUae5S9of-Rq6iG8BRYBSjL96Dqoplvys7FwSmHcuxmTtLCp2BwRP4jtTwJsZUxAkMLUZZkXu0CyJ2iPZeO-Fu73_vrafgu7ZSX74dRdsVPxYjt-536mohyK9USna56M7DM04fOc55xJ_luO56_6qPsTU0yRTAEQ_H9AaJt8tdViXZa5Oq5sjH6Q850soghlA0Gs51GgWQrfuAryxRuWeAB5A8Ibdo88nbNbU-1-0wCIau7t7SgYjYmuQiABYwiYLRrff5meFq2i-DPHK0xwkaeuL7X8h0HFbVkEtdCsaunsrQ8vGNNzNIdkI-72Zsqpe-4ydXqgif1h8eyKufh2xkqyxO5CxpvIShzO7f3blOSlx-KT9jNlTb-S1YCZjP6zfBO5dvf5PFHIQv3cFiUGJfKdX62UijEenJMkyuEkxh2QwRLiE8kqnnCr8fZc3ubDZbQiTlSNHxUslH0aBh-J7f9vCh1uG17ee8tiBy_DEyoXpvVzZgCQFHNpA48tPKpWiol7QgsV7ASZE7fRcoaRoy5IS-STKpUBZlHGKLXlIcCgm2ss6EMxpw4G7kXXLc1u2DGnncti5pMIV_e0cthQKRnxsywwTF_uc5UMK3xNus7t-ToEudiKMaKysgs3ShbEskzvZT4wV2bnC6uV264A?authuser=0" type="video/mp4">
 </video>
 
 Then we pushed our heavy vehicle up to the Salmon Glacier through bumpy dirt roads, and spend a night with a view.
 
-> We cannot complain about the roads quality too much, because most of minor roads here are created and maintained only to support the activities of logging 🪵 and mining 💰 companies, which tap on the amazing ressources that fill this land.
+> We cannot complain about the roads quality too much, because most of minor roads here are created and maintained only to support the activities of logging 🌲 and mining 💰 companies, which tap on the amazing ressources that fill this land.
 
 ![us and the glacier](https://user-images.githubusercontent.com/20797902/187582923-14a6bc86-2d18-4d38-b7e9-2af67590ce52.jpg)
 
@@ -96,7 +94,7 @@ Then we pushed our heavy vehicle up to the Salmon Glacier through bumpy dirt roa
 
 ![Antoine hiding in a net from thousands of bloodthirsty mosquitos](https://user-images.githubusercontent.com/20797902/187582872-c5230aa6-09db-4cc0-b993-beec8e23561f.jpg)
 
-![our Brazilian pals taking a proper photo (they came all the way from Brazil with their campervan)](https://user-images.githubusercontent.com/20797902/187582848-13300e07-f1d2-430c-a0f7-41bf2bdbc8f3.jpg)
+![our Brazilian pals taking a proper photo (they came all the way from Brazil with their camper van)](https://user-images.githubusercontent.com/20797902/187582848-13300e07-f1d2-430c-a0f7-41bf2bdbc8f3.jpg)
 
 ![at the front of the glacier](https://user-images.githubusercontent.com/20797902/187582885-8539bfea-e327-4971-9f7e-933acb74a4d3.jpg)
 
