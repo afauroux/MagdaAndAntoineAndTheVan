@@ -4,20 +4,22 @@ published: 29/10/22
 category: journal
 author: Magda
 description: through taiga and tundra to the Arctic Circle and beyond
-image: https://user-images.githubusercontent.com/20797902/198857232-031d9c8d-28ca-4395-81f0-55954b417577.jpg
+image: ![](https://user-images.githubusercontent.com/20797902/198857408-953da224-9b2b-441c-8643-24daa8d5885f.jpg)
+
 ---
 
-When we entered into the Yukon, we were immersed in tens of kilometers of boreal forest. The province is bigger than California, with a population of ca. 40 000 people. The Stewart-Cassier Hwy of northern British Columbia joins directly with the Alaska Hwy - the 2240-km long road built in 1942 to provide land access to strategic alaskan ports after Pearl Harbor. There aren't many settlements between the junction and the Yukon capital - Whitehorse, where 3/4 of Yukonians live. It's a pleasant small town and a compulsory stop for travellers continueing to either Alaska or towards Dawson City and the North.
+When we entered into the Yukon, we were immersed in tens of kilometers of boreal forest. The territory is bigger than California, with a population of ca. 40 000 people. The Stewart-Cassier Hwy of northern British Columbia joins directly with the Alaska Hwy - the 2240-km long road built in 1942 to provide land access to strategic alaskan ports after Pearl Harbor. There aren't many settlements between the junction and the Yukon capital - Whitehorse, where 3/4 of Yukonians live. It's a vibrant town and a compulsory stop for travellers continuing to either Alaska or towards Dawson City and the North.
 
 ![Alaska Highway in the Yukon](https://user-images.githubusercontent.com/20797902/198857232-031d9c8d-28ca-4395-81f0-55954b417577.jpg)
 
 ![Yukon River](https://user-images.githubusercontent.com/20797902/198857234-4669bd99-d1c6-4283-a75a-5b3dd7b0800d.jpg)
 
-As we counted into the second group, we replenished our stocks of food and gas here. We also miraculously managed to find a properly sized spare tire, although without a rim - our tires and rims are obviously non-standard in Canada... We left the town with a somewhat complicated emergency plan of changing tires between rims whenever possible.
+As we came here to drive the Dempster Highway, we replenished our stocks of food and gas here. We also miraculously managed to find a properly sized spare tire (because all campers who had travelled the Dempster told us we should absolutely have two spares), although without a rim - our tires and rims are obviously non-standard in Canada... We left the town with a somewhat complicated emergency plan of changing tires between rims whenever possible, if need be.
 
-We came here to drive the Dempster Highway (primarily). The 740 km gravel road traverses mountains, taiga and tundra, as well as the  Mackenzie River, to reach Inuvik, a town in Mackenzie delta in Northwest Territories. From Inuvik, the Arctic Ocean is a stone throw away. It's the only road in Canada that crosses the Arctic Circle and allows you to drive a car to the Arctic Ocean (and one of two in North America, but the other one, the Dalton Highway in Alaska, doesn't exactly reach the ocean as the shore is occupied by oil extraction facility, Prudhoe Bay). The Dempster Highway has been on top of my bucket list for a couple of years, since I learned about its existance. From Whitehorse, we still needed to drive 500km through endless forest and hills, with the Yukon river serpenting along the road, before we finally saw the sign pointing towards the Arctic Ocean. 
+The Dempster Highway is a 740 km gravel road that traverses mountains, taiga and tundra, as well as the  Mackenzie River, to reach Inuvik, a town in Mackenzie delta in Northwest Territories. From Inuvik, the Arctic Ocean is a stone throw away. It's the only road in Canada that crosses the Arctic Circle and allows you to drive a car to the Arctic Ocean (and one of two in North America, but the other one, the Dalton Highway in Alaska, doesn't exactly reach the ocean as the shore is occupied by oil extraction facility, Prudhoe Bay). The Dempster Highway has been on top of my bucket list for a couple of years, since I learned about its existance. From Whitehorse, we still needed to drive 500km through endless forest and hills, with the Yukon river serpenting along the road, before we finally saw the sign pointing towards the Arctic Ocean. 
 
 ![a sign to the Arctic Ocean at the junction :)](https://user-images.githubusercontent.com/20797902/198857236-a1457281-866a-499b-a935-c400aead67b8.jpg)
+
 ![beginning of the road](https://user-images.githubusercontent.com/20797902/198857237-f5b29bd7-6c1b-45d6-bfcc-62368b5b517e.jpg)
 
 The first stop on the Dempster Highway is quite early - it's Tombstone Territorial Park, known for its vast altitutude tundra and rugged peaks, where we did a couple of hikes.
@@ -34,7 +36,7 @@ The first stop on the Dempster Highway is quite early - it's Tombstone Territori
 
 ![](https://lh3.googleusercontent.com/BGNeMNhwTnyjrku0k8ewffGg4gPHIyqH-lICxmighcXVp1IHp5wiGhQ5EmimLcZz1NNFGsAAhiPGpmPjuH-skJ23Y5wWf43qM2YZN9BrURDkOKnW88GgDRDapDyow90lsntWYEv9ohV9QRfWKZt6Wo38V8KAGpnd3BqBdMJOy7-s5rU124AU2u9VA8YhcP6ndNFcFKJdMfh2c4yZPs-3w_7p3KTZXDEoqj1u3D2SSTb-STT8dMsTdWhBLto1GDX72gjdRkHMhMptZyiM2hcP77bHt69hEgU6yk7DuodNHrMI2Nqe_60d3cB8U8wz0eyjo4xuPf38xHgpX8mzcg_E8mVS6UzMsUN_UMmxX94vVY80P9GaOCxmB9pAc3iHjxr382L6VFQQ-VIPXQRl8EuXt1-VqyHSe5EHeFNR37RlgsGLWCNLF4z-kNI6Lgf9lCBJJwwGleMeoNSLI2HuRawg4sA-9QEPk7kM3XOPTu9dZym3T2x4N1P-UhTt_twg8xlbcJmsasZzStyxoNcUqi3UY_-1Cv0x2lmfQgr-3RvRb8vlZN1jNnVawHFA3JkS3DU2C5MXlApK_trThl7aXug4JMAr_Hqhmt7x0woqA6rzgJmaP7XLcp6wJYPR7mcPADXr6Epd8k-a1xw_GRIEX2iCnSc3Hn8FQ23gpvimEpG-Vh6GckIf45ie1HceCQDssGRqpoqNjv8LkITbHXYI1tWHCu3tNsCZWIT-g9wCtIyLhOjlL0EyNDI0MmOo54bEC2rXuFGcbPsNhYXwHpdO8ZMVCnEHi3743CLr8zOERAZOaM3wwTGW6ZytY2cDsTblKvoAQiycnnCoIVuRqz9aDca3NpVuCIp3vg0u77-13xRz7iBnB0mVfom6uSfF0F1lqSYkk-l2ZD2Mr5T3e2lMFYgT09a1iVUsyxJyckAh6NCD0u6L_WCTjXIzbtFhC6UeoN_v9Aa7JD9Sjm0cUE-u0gP-AkMDdQ2KzR72spSO0lS-zQ=w1500-h1000-no)
 
-After Tombstone TP, the crowds thin and the road opens, and there are beautifu views after every turn. We crossed the Arctic Circle (second crossing with our van after Norway last year) and left the Yukon behind to drive into Northwest Territories. 
+Behind Tombstone TP, the crowds thin and the road opens, and there are amazing views after every turn. Some sections of the road are in a very good condition and allow the speeds of ~80 km/h, but sometimes we spent hours navigating around the potholes and moving at 30-40 km/h. We crossed the Arctic Circle (second crossing with our van after Norway last year; only Siberia remains ;) and left the Yukon behind to drive into the Northwest Territories. 
 
 ![](https://user-images.githubusercontent.com/20797902/198857280-a6a91ff1-c970-42f7-ae49-1105abdd8b6b.jpg)
 
@@ -58,21 +60,19 @@ After Tombstone TP, the crowds thin and the road opens, and there are beautifu v
 
 ![](https://user-images.githubusercontent.com/20797902/198857295-bfe01420-bcfb-496a-9ec6-0238974b0413.jpg)
 
-
-A ferry took us across the Peal River (in the winter you can just drive on ice here) to the first town for a long time - Fort McPherson. The town was founded as a trade outpost by the Hudson Bay Company; today, it's a small gwich'in community. We drove on a nail and got our first flat tyre, but Antoine managed to patch it (we discovered by this occasion that our wheel wrench is shit; fortnunately the Swiss guy parked nearby had just the right stuff in his van). 
+A ferry took us across the Peal River (in the winter you can just drive on ice here) to the first town for a long time - Fort McPherson. The town was founded as a trade outpost by the Hudson Bay Company; today, it's a small gwich'in community. We drove on a nail and got our first flat tyre, but Antoine managed to patch it (we discovered by this occasion that our wheel wrench is shit; fortnunately, the Swiss guy parked nearby had just the right stuff in his van). 
 
 ![Peal River valley](https://user-images.githubusercontent.com/20797902/198857297-807aabbe-8630-4914-bc13-23bffc68f76b.jpg)
 
 ![many people warned us about sharp stones that would destroy our tires on the Dempster, and yet the only puncture we got was on a nail in the middle of a town -.-](https://user-images.githubusercontent.com/20797902/198857299-4889c883-6ddd-4071-a745-a0802a32a331.jpg)
 
-![10$ tyre fix set did the job](https://user-images.githubusercontent.com/20797902/198857303-1bbe5f34-e318-4163-be87-1d500207dec5.jpg)
-
+![10$ tire fix set did the job](https://user-images.githubusercontent.com/20797902/198857303-1bbe5f34-e318-4163-be87-1d500207dec5.jpg)
 
 Not far behind Fort McPherson flows the mighty Mackenzie River, largest river emptying into the Arctic Ocean, with a drainage basin second only to Mississippi in North America. After the ferry it's 120 more kilometers on a very straight road trough a boreal forest of short spruces, before Inuvik. It's the largest city above the Arctic Circle in Canada with a population of ~5,000, of mixed First Nation (gwich'in), Innuit and white demographics. 
 
 ![on the Mackenzie River](https://user-images.githubusercontent.com/20797902/198857306-4156b250-44d5-447b-85d3-90bbe337f87c.jpg)
 
-![Dempster-59](https://user-images.githubusercontent.com/20797902/198857406-ab605959-65de-4ca6-af5b-ab0d302cdb99.jpg)
+![](https://user-images.githubusercontent.com/20797902/198857406-ab605959-65de-4ca6-af5b-ab0d302cdb99.jpg)
 
 ![Canadian and NWT flags on the ferry](https://user-images.githubusercontent.com/20797902/198857407-6fdc3f1c-808d-4ed2-8a79-185d9bfb4b0f.jpg)
 
@@ -114,7 +114,7 @@ Inuvik is where Dempster Highway ends, but it's not the end of the road. The sho
 
 ![local residents often leave their winter vehicles along the road to be used in the next season](https://user-images.githubusercontent.com/20797902/198857379-addcc986-ae04-4654-8057-5da05ee030fe.jpg)
 
-The hamlet of Tuktoyaktuk sits at the shore of the Beaufort Sea and is a mix of old oil distraction facilities, messy houses, and fast-going quads. The very end of the road - where the tourists accumulate - is occupied by an overprized basic campsite with great views towards the North Pole (2,300 more km). Antoine took the obligatory swim in the ocean (I went knee-deep) and got himself sick afterwards :p We spent three days walking around the town, had an occasion to talk to the locals (some of them approached us trying to sell us some native art). We also went on a kayak trip on Beaufort Sea laguna to a pingo - a landscape feature characteristic for tundra, created by water pockets freezing below the ground and pushing the land up. 
+The hamlet of Tuktoyaktuk sits at the shore of the Beaufort Sea and is a mix of old oil distraction facilities, messy houses, and fast-going quads. The very end of the road - where the tourists accumulate - is occupied by an overprized basic campsite with great views towards the North Pole (2,300 more km). Antoine took the obligatory swim in the Arctic Ocean (I went knee-deep) and got himself sick afterwards :p We spent three days walking around the town, had an occasion to talk to the locals (some of them approached us trying to sell us some native art) and to do a kayak trip on Beaufort Sea laguna to a pingo - a landscape feature characteristic for tundra, created by underground water pockets freezing and pushing the land up. 
 
 ![we made it! we came to the Canadian shores of the Arctic Ocean with our own vehicle all the way from Poland!](https://user-images.githubusercontent.com/20797902/198857320-5e4a5f01-731c-462b-a420-de711e8fbf54.jpg)
 
