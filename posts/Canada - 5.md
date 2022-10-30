@@ -4,7 +4,7 @@ published: 29/10/22
 category: journal
 author: Magda
 description: through taiga and tundra to the Arctic Circle and beyond
-image: ![](https://user-images.githubusercontent.com/20797902/198857408-953da224-9b2b-441c-8643-24daa8d5885f.jpg)
+image: https://user-images.githubusercontent.com/20797902/198857408-953da224-9b2b-441c-8643-24daa8d5885f.jpg
 ---
 
 When we entered into the Yukon, we were immersed in tens of kilometers of boreal forest. The territory is bigger than California, with a population of ca. 40 000 people. The Stewart-Cassier Hwy of northern British Columbia joins directly with the Alaska Hwy - the 2240-km long road built in 1942 to provide land access to strategic alaskan ports after Pearl Harbor. There aren't many settlements between the junction and the Yukon capital - Whitehorse, where 3/4 of Yukonians live. It's a vibrant town and a compulsory stop for travellers continuing to either Alaska or towards Dawson City and the North.
