@@ -1,6 +1,6 @@
 ---
 title: Canada - the Dempster Highway
-published: 29/10/2022
+published: 29/10/22
 category: journal
 author: Magda
 description: through taiga and tundra to the Arctic Circle and beyond
