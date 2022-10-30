@@ -1,12 +1,11 @@
-* * *
-
-## title: Canada - the Dempster Highway
+---
+title: Canada - the Dempster Highway
 published: 29/10/2022
 category: journal
 author: Magda
-description: thru taiga and tundra to the Arctic Circle and beyond
-image:
-publish: no
+description: through taiga and tundra to the Arctic Circle and beyond
+image: https://user-images.githubusercontent.com/20797902/198857232-031d9c8d-28ca-4395-81f0-55954b417577.jpg
+---
 
 When we entered into the Yukon, we were immersed in tens of kilometers of boreal forest. The province is bigger than California, with a population of ca. 40 000 people. The Stewart-Cassier Hwy of northern British Columbia joins directly with the Alaska Hwy - the 2240-km long road built in 1942 to provide land access to strategic alaskan ports after Pearl Harbor. There aren't many settlements between the junction and the Yukon capital - Whitehorse, where 3/4 of Yukonians live. It's a pleasant small town and a compulsory stop for travellers continueing to either Alaska or towards Dawson City and the North.
 ![Alaska Highway in the Yukon](https://user-images.githubusercontent.com/20797902/198857232-031d9c8d-28ca-4395-81f0-55954b417577.jpg)
