@@ -19,89 +19,144 @@ We came here to drive the Dempster Highway (primarily). The 740 km gravel road t
 
 ![a sign to the Arctic Ocean at the junction :)](https://user-images.githubusercontent.com/20797902/198857236-a1457281-866a-499b-a935-c400aead67b8.jpg)
 ![beginning of the road](https://user-images.githubusercontent.com/20797902/198857237-f5b29bd7-6c1b-45d6-bfcc-62368b5b517e.jpg)
-![Tombstone Territorial Park](https://user-images.githubusercontent.com/20797902/198857243-d5abf3fd-aaf0-42f1-93d8-dbbb40b99170.jpg)
-![j.w.](https://user-images.githubusercontent.com/20797902/198857267-e4858e93-a48a-4c40-bd0a-5896a52bad83.jpg)
-![j.w.](https://user-images.githubusercontent.com/20797902/198857272-aea199e2-7562-4d89-9ba7-4b6c86e99b87.jpg)
 
 The first stop on the Dempster Highway is quite early - it's Tombstone Territorial Park, known for its vast altitutude tundra and rugged peaks, where we did a couple of hikes.
 
-![Dempster-8](https://user-images.githubusercontent.com/20797902/198857276-fc49b0c9-bbb5-4697-b477-a9652cc25f2c.jpg)
+![Tombstone Territorial Park](https://user-images.githubusercontent.com/20797902/198857243-d5abf3fd-aaf0-42f1-93d8-dbbb40b99170.jpg)
 
-![Dempster-9](https://user-images.githubusercontent.com/20797902/198857278-5d280b78-dc69-438a-9443-30b02356ea32.jpg)
+![](https://user-images.githubusercontent.com/20797902/198857267-e4858e93-a48a-4c40-bd0a-5896a52bad83.jpg)
 
-![Dempster-10](https://user-images.githubusercontent.com/20797902/198857280-a6a91ff1-c970-42f7-ae49-1105abdd8b6b.jpg)
+![](https://user-images.githubusercontent.com/20797902/198857272-aea199e2-7562-4d89-9ba7-4b6c86e99b87.jpg)
+
+![](https://user-images.githubusercontent.com/20797902/198857276-fc49b0c9-bbb5-4697-b477-a9652cc25f2c.jpg)
+
+![](https://user-images.githubusercontent.com/20797902/198857278-5d280b78-dc69-438a-9443-30b02356ea32.jpg)
+
 
 After Tombstone TP, the crowds thin and the road opens, and there are beautifu views after every turn. We crossed the Arctic Circle (second crossing with our van after Norway last year) and left the Yukon behind to drive into Northwest Territories. 
 
-![Dempster-11](https://user-images.githubusercontent.com/20797902/198857282-cdd6ffa1-1f63-4853-a0db-f7c275f73ca3.jpg)
-![Dempster-12](https://user-images.githubusercontent.com/20797902/198857284-52407cd4-d921-4bd0-b687-dd72f6eb1366.jpg)
-![Dempster-13](https://user-images.githubusercontent.com/20797902/198857285-1fcad29e-ef8b-4901-8ea0-7c81ef6e3a36.jpg)
-![Dempster-14](https://user-images.githubusercontent.com/20797902/198857286-40272108-8ceb-467d-973f-950f1049421a.jpg)
-![Dempster-15](https://user-images.githubusercontent.com/20797902/198857288-9a684f10-7071-4324-884e-8a2dbfe55d28.jpg)
-![Dempster-16](https://user-images.githubusercontent.com/20797902/198857290-ff7e1356-4b23-4ea9-82a8-f1a2a7d53a52.jpg)
-![Dempster-17](https://user-images.githubusercontent.com/20797902/198857291-5542d88e-0b35-492f-9589-bf6f7254061d.jpg)
-![Dempster-18](https://user-images.githubusercontent.com/20797902/198857294-d928a3eb-fab7-4176-8fff-64e56e315aba.jpg)
-![Dempster-19](https://user-images.githubusercontent.com/20797902/198857295-bfe01420-bcfb-496a-9ec6-0238974b0413.jpg)
+![](https://user-images.githubusercontent.com/20797902/198857280-a6a91ff1-c970-42f7-ae49-1105abdd8b6b.jpg)
+
+![](https://user-images.githubusercontent.com/20797902/198857282-cdd6ffa1-1f63-4853-a0db-f7c275f73ca3.jpg)
+
+![](https://user-images.githubusercontent.com/20797902/198857284-52407cd4-d921-4bd0-b687-dd72f6eb1366.jpg)
+
+![](https://user-images.githubusercontent.com/20797902/198857285-1fcad29e-ef8b-4901-8ea0-7c81ef6e3a36.jpg)
+
+![](https://user-images.githubusercontent.com/20797902/198857286-40272108-8ceb-467d-973f-950f1049421a.jpg)
+
+![parts of the highway serve as emergency landing strips for small aircrafts that travel to remote villages in Canadian North](https://user-images.githubusercontent.com/20797902/198857288-9a684f10-7071-4324-884e-8a2dbfe55d28.jpg)
+
+![](https://user-images.githubusercontent.com/20797902/198857290-ff7e1356-4b23-4ea9-82a8-f1a2a7d53a52.jpg)
+
+![Arctic Circle again! different continent, same vessel :)](https://user-images.githubusercontent.com/20797902/198865914-0a08f90f-9c54-421a-bb31-f86644bf4e94.jpg)
+
+![we also crossed into the Northwest Territories](https://user-images.githubusercontent.com/20797902/198857291-5542d88e-0b35-492f-9589-bf6f7254061d.jpg)
+
+![](https://user-images.githubusercontent.com/20797902/198857294-d928a3eb-fab7-4176-8fff-64e56e315aba.jpg)
+
+![](https://user-images.githubusercontent.com/20797902/198857295-bfe01420-bcfb-496a-9ec6-0238974b0413.jpg)
 
 
 A ferry took us across the Peal River (in the winter you can just drive on ice here) to the first town for a long time - Fort McPherson. The town was founded as a trade outpost by the Hudson Bay Company; today, it's a small gwich'in community. We drove on a nail and got our first flat tyre, but Antoine managed to patch it (we discovered by this occasion that our wheel wrench is shit; fortnunately the Swiss guy parked nearby had just the right stuff in his van). 
 
-![Dempster-20](https://user-images.githubusercontent.com/20797902/198857297-807aabbe-8630-4914-bc13-23bffc68f76b.jpg)
-![Dempster-21](https://user-images.githubusercontent.com/20797902/198857299-4889c883-6ddd-4071-a745-a0802a32a331.jpg)
-![Dempster-22](https://user-images.githubusercontent.com/20797902/198857303-1bbe5f34-e318-4163-be87-1d500207dec5.jpg)
+![Peal River valley](https://user-images.githubusercontent.com/20797902/198857297-807aabbe-8630-4914-bc13-23bffc68f76b.jpg)
+
+![many people warned us about sharp stones that would destroy our tires on the Dempster, and yet the only puncture we got was on a nail in the middle of a town -.-](https://user-images.githubusercontent.com/20797902/198857299-4889c883-6ddd-4071-a745-a0802a32a331.jpg)
+
+![10$ tyre fix set did the job](https://user-images.githubusercontent.com/20797902/198857303-1bbe5f34-e318-4163-be87-1d500207dec5.jpg)
 
 
-Not far behind Fort McPherson flows the mighty Mackenzie River, largest river emptying into the Arctic Ocean, with a drainage basin second only to Mississippi in North America. After the ferry it's 120 more kilometers on a very straight road trough a boreal forest of short spruces, before Inuvik. It's the largest city above the Arctic Circle in Canada with a population of ~5,000, of mixed First Nation (gwich'in), Innuit and white demographics.
-![Dempster-23](https://user-images.githubusercontent.com/20797902/198857306-4156b250-44d5-447b-85d3-90bbe337f87c.jpg)
+Not far behind Fort McPherson flows the mighty Mackenzie River, largest river emptying into the Arctic Ocean, with a drainage basin second only to Mississippi in North America. After the ferry it's 120 more kilometers on a very straight road trough a boreal forest of short spruces, before Inuvik. It's the largest city above the Arctic Circle in Canada with a population of ~5,000, of mixed First Nation (gwich'in), Innuit and white demographics. 
 
- ![Dempster-49](https://user-images.githubusercontent.com/20797902/198857385-9b819793-658b-4ea6-bc76-c53eaf50e0c1.jpg)
-![Dempster-50](https://user-images.githubusercontent.com/20797902/198857387-49456612-47be-4e2b-b206-9e2a180c71fd.jpg)
-![Dempster-51](https://user-images.githubusercontent.com/20797902/198857389-f7e0e6cf-26b3-43b3-9a24-1bd938527e28.jpg)
-![Dempster-52](https://user-images.githubusercontent.com/20797902/198857390-420f1456-e144-4b3b-a079-fec8a20add0a.jpg)
-![Dempster-53](https://user-images.githubusercontent.com/20797902/198857392-7bbc0e28-a1ea-4268-90e6-a3b853e908b1.jpg)
-![Dempster-54](https://user-images.githubusercontent.com/20797902/198857395-14c21c26-8cd2-46f8-9a0f-2eff1c9b7090.jpg)
-![Dempster-55](https://user-images.githubusercontent.com/20797902/198857399-1e73ee2f-2758-49eb-a74f-366f5c33510b.jpg)
-![Dempster-56](https://user-images.githubusercontent.com/20797902/198857402-0a016636-a658-4510-995f-abc9a4104f17.jpg)
-![Dempster-57](https://user-images.githubusercontent.com/20797902/198857404-b74d8fbd-26ce-4090-a566-34044b63f90a.jpg)
-![Dempster-58](https://user-images.githubusercontent.com/20797902/198857405-0fdf4e17-2600-4572-b3d9-3e9a20ff6f75.jpg)
+![on the Mackenzie River](https://user-images.githubusercontent.com/20797902/198857306-4156b250-44d5-447b-85d3-90bbe337f87c.jpg)
+
 ![Dempster-59](https://user-images.githubusercontent.com/20797902/198857406-ab605959-65de-4ca6-af5b-ab0d302cdb99.jpg)
-![Dempster-60](https://user-images.githubusercontent.com/20797902/198857407-6fdc3f1c-808d-4ed2-8a79-185d9bfb4b0f.jpg)
 
+![Canadian and NWT flags on the ferry](https://user-images.githubusercontent.com/20797902/198857407-6fdc3f1c-808d-4ed2-8a79-185d9bfb4b0f.jpg)
 
+![](https://user-images.githubusercontent.com/20797902/198857395-14c21c26-8cd2-46f8-9a0f-2eff1c9b7090.jpg)
 
+![](https://user-images.githubusercontent.com/20797902/198857399-1e73ee2f-2758-49eb-a74f-366f5c33510b.jpg)
 
+![](https://user-images.githubusercontent.com/20797902/198857402-0a016636-a658-4510-995f-abc9a4104f17.jpg)
+
+![](https://user-images.githubusercontent.com/20797902/198857404-b74d8fbd-26ce-4090-a566-34044b63f90a.jpg)
+
+![taiga close to Inuvik](https://user-images.githubusercontent.com/20797902/198857382-ab554e4e-1ebd-43a6-b41e-0ddaa7d7a1ff.jpg)
+
+![igloo church in Inuvik](https://user-images.githubusercontent.com/20797902/198857385-9b819793-658b-4ea6-bc76-c53eaf50e0c1.jpg)
+
+![we were lucky to see vivid auroras above Inuvik](https://user-images.githubusercontent.com/20797902/198857387-49456612-47be-4e2b-b206-9e2a180c71fd.jpg)
+
+![](https://user-images.githubusercontent.com/20797902/198857390-420f1456-e144-4b3b-a079-fec8a20add0a.jpg)
+
+![](https://user-images.githubusercontent.com/20797902/198857392-7bbc0e28-a1ea-4268-90e6-a3b853e908b1.jpg)
 
 Inuvik is where Dempster Highway ends, but it's not the end of the road. The shores of the Arctic Ocean are reachable by means of a gravel road that leads to Tuktoyaktuk - a small Innuit hamlet. As the treeline runs just above Inuvik, the trip to Tuktoyaktuk is through pure tundra. The space is enormous and the sight gets lost at the faraway horizon. The area is rich in various kinds of berries, which the locals recommended us to pick.
 
-![Dempster-24](https://user-images.githubusercontent.com/20797902/198857309-0fc4ba3c-8018-4066-b039-dc807cd94905.jpg)
-![Dempster-25](https://user-images.githubusercontent.com/20797902/198857313-7545bc05-b746-4597-a655-b5785d83ad47.jpg)
-![Dempster-26](https://user-images.githubusercontent.com/20797902/198857318-b0af405d-3180-482b-9cf3-77b7d383a60f.jpg)
-![Dempster-42](https://user-images.githubusercontent.com/20797902/198857366-976e6eaf-12de-48af-a008-4941e6f68c88.jpg)
-![Dempster-43](https://user-images.githubusercontent.com/20797902/198857367-8d697416-480d-42b2-bcca-5a8f22c1a86c.jpg)
-![Dempster-44](https://user-images.githubusercontent.com/20797902/198857370-81ad3a22-9996-4b42-a955-ed29a80d3a62.jpg)
-![Dempster-45](https://user-images.githubusercontent.com/20797902/198857375-0317ac9f-f68a-47f2-b9fd-76746016e48a.jpg)
-![Dempster-46](https://user-images.githubusercontent.com/20797902/198857377-7a6e352c-9cee-4dd6-8a33-0852a1429adf.jpg)
-![Dempster-47](https://user-images.githubusercontent.com/20797902/198857379-addcc986-ae04-4654-8057-5da05ee030fe.jpg)
-![Dempster-48](https://user-images.githubusercontent.com/20797902/198857382-ab554e4e-1ebd-43a6-b41e-0ddaa7d7a1ff.jpg)
+![sun over the Canadian tundra](https://user-images.githubusercontent.com/20797902/198857309-0fc4ba3c-8018-4066-b039-dc807cd94905.jpg)
 
+![](https://user-images.githubusercontent.com/20797902/198857313-7545bc05-b746-4597-a655-b5785d83ad47.jpg)
 
-The hamlet of Tuktoyaktuk sits at the shore of the Arctic Ocean and is a mix of old oil distraction facilities, messy houses, and fast-going quads. The very end of the road - where the tourists accumulate - is occupied by an overprized basic campsite with great views towards the North Pole (2,300 more km). Antoine took the obligatory swim in the ocean (I went knee-deep) and got himself sick afterwards :p We spent three days walking around the town, had an occasion to talk to the locals (some of them approached us trying to sell us some native art). We also went on a kayak trip to a pingo - a landscape feature characteristic for tundra, created by water pockets freezing below the ground and pushing the land up. 
+![](https://user-images.githubusercontent.com/20797902/198857318-b0af405d-3180-482b-9cf3-77b7d383a60f.jpg)
 
-![Dempster-27](https://user-images.githubusercontent.com/20797902/198857320-5e4a5f01-731c-462b-a420-de711e8fbf54.jpg)
-![Dempster-28](https://user-images.githubusercontent.com/20797902/198857329-fe8e53c1-2bac-448c-8b42-2203424c5c86.jpg)
-![Dempster-29](https://user-images.githubusercontent.com/20797902/198857332-890ba066-6b11-492d-a49a-83ce4d4b2ccf.jpg)
-![Dempster-30](https://user-images.githubusercontent.com/20797902/198857334-ebcfaa79-3c37-4df6-bb63-6ef3c9349a63.jpg)
-![Dempster-31](https://user-images.githubusercontent.com/20797902/198857335-3a86f082-8c87-4717-97e9-08708640caf6.jpg)
-![Dempster-32](https://user-images.githubusercontent.com/20797902/198857339-6381a733-d343-4153-a263-d0f271899654.jpg)
-![Dempster-33](https://user-images.githubusercontent.com/20797902/198857344-52c3688d-5484-49f7-9b97-6116673453d5.jpg)
-![Dempster-34](https://user-images.githubusercontent.com/20797902/198857346-fa2b6bb0-f61d-454b-825b-4c01ae49a7da.jpg)
-![Dempster-35](https://user-images.githubusercontent.com/20797902/198857350-3839fcd4-9137-4d0f-bb2c-86e1a1f1db4e.jpg)
-![Dempster-36](https://user-images.githubusercontent.com/20797902/198857351-5bded6ef-5f2e-437f-b425-3b8a60febf9c.jpg)
-![Dempster-37](https://user-images.githubusercontent.com/20797902/198857352-312cb9fd-6caf-4c30-8262-a31fad177072.jpg)
-![Dempster-38](https://user-images.githubusercontent.com/20797902/198857356-323a1ef0-2ba0-4720-b932-be053db23c00.jpg)
-![Dempster-39](https://user-images.githubusercontent.com/20797902/198857359-aaffe601-9f33-4412-a24d-7ec10cd10b83.jpg)
-![Dempster-40](https://user-images.githubusercontent.com/20797902/198857361-9ff8b5bb-2114-4e6d-90c1-0092dffcc7ad.jpg)
-![Dempster-41](https://user-images.githubusercontent.com/20797902/198857363-26365962-0e5a-4819-aafc-3cd306c90577.jpg)
+![](https://user-images.githubusercontent.com/20797902/198857367-8d697416-480d-42b2-bcca-5a8f22c1a86c.jpg)
+
+![](https://user-images.githubusercontent.com/20797902/198857370-81ad3a22-9996-4b42-a955-ed29a80d3a62.jpg)
+
+![](https://user-images.githubusercontent.com/20797902/198857375-0317ac9f-f68a-47f2-b9fd-76746016e48a.jpg)
+
+![](https://user-images.githubusercontent.com/20797902/198857366-976e6eaf-12de-48af-a008-4941e6f68c88.jpg)
+
+![](https://user-images.githubusercontent.com/20797902/198857377-7a6e352c-9cee-4dd6-8a33-0852a1429adf.jpg)
+
+![local residents often leave their winter vehicles along the road to be used in the next season](https://user-images.githubusercontent.com/20797902/198857379-addcc986-ae04-4654-8057-5da05ee030fe.jpg)
+
+The hamlet of Tuktoyaktuk sits at the shore of the Beaufort Sea and is a mix of old oil distraction facilities, messy houses, and fast-going quads. The very end of the road - where the tourists accumulate - is occupied by an overprized basic campsite with great views towards the North Pole (2,300 more km). Antoine took the obligatory swim in the ocean (I went knee-deep) and got himself sick afterwards :p We spent three days walking around the town, had an occasion to talk to the locals (some of them approached us trying to sell us some native art). We also went on a kayak trip to a pingo - a landscape feature characteristic for tundra, created by water pockets freezing below the ground and pushing the land up. 
+
+![we made it! we came to the Canadian shores of the Arctic Ocean with our own vehicle all the way from Poland!](https://user-images.githubusercontent.com/20797902/198857320-5e4a5f01-731c-462b-a420-de711e8fbf54.jpg)
+
+![end of the road area in Tuk](https://user-images.githubusercontent.com/20797902/198857329-fe8e53c1-2bac-448c-8b42-2203424c5c86.jpg)
+
+![stickers of various groups of tourists who also made it](https://user-images.githubusercontent.com/20797902/198857332-890ba066-6b11-492d-a49a-83ce4d4b2ccf.jpg)
+
+![Antoine swimming in the Arctic Ocean at 10pm](https://user-images.githubusercontent.com/20797902/198857334-ebcfaa79-3c37-4df6-bb63-6ef3c9349a63.jpg)
+
+![Tuk by night](https://user-images.githubusercontent.com/20797902/198857335-3a86f082-8c87-4717-97e9-08708640caf6.jpg)
+
+![in Tuktoyaktuk](https://user-images.githubusercontent.com/20797902/198857346-fa2b6bb0-f61d-454b-825b-4c01ae49a7da.jpg)
+
+![a statue celebrating important Tuk residents](https://user-images.githubusercontent.com/20797902/198857339-6381a733-d343-4153-a263-d0f271899654.jpg)
+
+![local Innuit writing](https://user-images.githubusercontent.com/20797902/198857344-52c3688d-5484-49f7-9b97-6116673453d5.jpg)
+
+![](https://user-images.githubusercontent.com/20797902/198857350-3839fcd4-9137-4d0f-bb2c-86e1a1f1db4e.jpg)
+
+![view of the hamlet from above](https://user-images.githubusercontent.com/20797902/198857351-5bded6ef-5f2e-437f-b425-3b8a60febf9c.jpg)
+
+![camping spot in the center of Tuk](https://user-images.githubusercontent.com/20797902/198857352-312cb9fd-6caf-4c30-8262-a31fad177072.jpg)
+
+![](https://user-images.githubusercontent.com/20797902/198857356-323a1ef0-2ba0-4720-b932-be053db23c00.jpg)
+
+![](https://user-images.githubusercontent.com/20797902/198857359-aaffe601-9f33-4412-a24d-7ec10cd10b83.jpg)
+
+![old oil refinery facilities; nowadays, the residents are successful in resisting the approaches of oil companies and have full power above their lands (which is not a usual situation for native peoples of Canada)](https://user-images.githubusercontent.com/20797902/198857361-9ff8b5bb-2114-4e6d-90c1-0092dffcc7ad.jpg)
+
+![driftwood in the lagoon near the hamlet](https://user-images.githubusercontent.com/20797902/198857363-26365962-0e5a-4819-aafc-3cd306c90577.jpg)
+
+![1](https://lh3.googleusercontent.com/Enyc7J8AmH2h3mv-Fw1EJS17-Vb_GuqOgB320AgchkNuNEvnHmzwkFsfYZwydzY_FVjy-wLP4vTJJZA0UGYV7dGjVop9wV5L8UBnrxS-msvvXeqB1Qx7xXlvjJoNeSZsVDlyn7DxT2Ps56h9Nq014NsP1cypYayd9nRyDmP3G5BX5F1i6Ey-4356DaDoOujy6375yj1Ab5gTppcRwyOeJ63paafybC8qHvmyYbp1ZGxkgL5OJ18RO94el18KK69P-mSio29__aESQCNa6m4fSnVWoEmT-soYP72T-7iZxG4d-RstvqnPjfG9c53cmQiWCP6RL1_7Pp76ZiqQpt_IajQrgr0tQvsSpMyH-0swg5JFnC09qFm4JtIihoSR6nXgTl0JZdsQJuwN8-7DL1hSoLHBerZpxmve2-jY9o0EfTh1AbaZbYfOahlaJuNZmatNlRcdPJz86IWXVXZ1a1V1OrBZAmyfdZRVlZOFJ2Up_urwNU1hJxhSWkzNqnEXTjbsUwn-rRl3u4dHLJHJ4Asm1IBdUx4zPV27ceM2xLvII34Yn-i6przXt2Ku2BQsELP74KqHr2Hx_i_6_pFL0Ar456_HAGhDbAVN_H8iX5nR-P31FeYShJKooYg3x9U5uGh5KQclUdIFadkkiHoZ8tdluHxcj5FwUdBc2hSNcqsfxVIOf_e0ka876AkFvZvntZmepMSZkAyjvgsdRdZQqBP1hvmjVSI5J2ln12oNWIjIway9fVfUiQgpaDPwtzPX_h4NB1OITPsHJsoA7CjJxMso2Zh3uxdQj21Q-w-fJYb8CWXwv_6AOajSDflCq0PTFrmNjq32DEnaHUd_oySZ4nCbBfd1KMW6hif3XLVd_iLJT3vpjyjC-jEXlLcg-ccylMQlF2rp9m61oKkm7ynYuOr25Ju4BzeOYR_K-oun-UH6KFHRXHl_8HvFhrQoYDe0j0-NRJtcttw1J5LLgGIKFotQxY7Ib2rY9rw8hBwpcb_EEA=w1500-h1000-no)
+
+![2](https://lh3.googleusercontent.com/zDEW_NAzkV7rDxPtbduwNmhRi-VYEkDBlVy3PXbMpcWN-j3ehyunwJGbPNAt75Y_ly1mtsilMv-VYbWD3XBXwQklZCWIwUeczft8nNpjGsn8yiyVRuOmMMpveZKvOOhLIYUelSVMqi2PGNw90TPuwxYVBuL2mu9T0CGx79qetZca5RUKc3D1RRTSmYSLBH7HYYEfzkQZ4VelDklxDs0UypXDaP3u7HP3c5uqLupXbSuH0PCxiPEqBcklMkSIafwKlZKE_hTQGwwyj_EV0gZF70106xcZ-e62jr44_LUOhINRD3MxrS_9sJStjscsdoPhG0lVmBghxoHv1EsD4PdaYYFJhofOYuyDykHFRvT74G6PxiUogK3kBwTtad_z97xIT1K0poNkpYUf7s0zj9ii5CzKsxj0n61J4ivT5gF5zbSmVJIHMInMYpbN5Sgo2gdgYRXRF0RtxXeHnb2H0azRnADkj85jtco7a9P-OmgjPODPHEFLmjw2Meq3cF4LDfDRIe5u1Pv2eUxdy39clpL4NsYip2vlCjeJy6NPyEhPYByXw8V_m7uasknPb0IqBN85k_2PKdDdwF9qVV5Feif9BN8fJPZYFKEmWyFQj01zXgkUXIj5_1UKRXdDaEuuw6YlAOUAlEfYrfyzl7m12kuK8SvPCmxoQjqzjcSL1jo5LNhb-crrZyqnC0r2dGNSx0KDiwy5GTXbw4dZMWv6afB2nxrLh27lS6f7v8lJ_aEldvdGBm6einpuECnmW4NXd7rURU25dejmeradoJ-UaCMMztr97JyxCYRK5tVgHXfPzqPDyw9xXlWucwuBWxv8P37QdMKd8VR9d7InTdzqauLuumxOFf6xmlpyHINViidTA8iwJYqcEc_tZ4_3UrLzXSWo2uhccevYTkfxQbB_nrFj1vFp2sXSaurGbWVtfXgQ3Nml9Qz3M0miXcpg7nX32sgfPDGEaHKc2xeFXRmGMyx3qfwqdGvNWbvduPzPBn85yg=w1500-h1000-no)
+
+![3](https://lh3.googleusercontent.com/CIdxW-A719XgpusEggwQxGXQOUPRRUa0YfeU80gbV_HgqpQEadyde-jbkA6MmixQkEzB9FE2aPXfwg9sTe5QdewWXY0tRO9lM7bKA0atLTG96SJzkKuiQamr1IqSZD4cG0XR2TcXWFNFFd5ftTXV_v4UCeX_4aIVhP7hTIdn0rZDNtgCMwHv5hyDN7ccR7q0KkPkPz7LI3RcHwpzZwm6JS50BY0JX60RIEYaP7q6OjqDzNmDbsxNht39n3mhzlrcORHQyTYvlhsoC6ImC8fU4AFumZ7Mm1CU38lSS0Ci6Y92p9SX2ymXG4NNDPm2HkOm5bVuscBzRZeqOU9sqmER07U-DiN4nJv9EaaQwW0nU1UiOLff-h_g-EzW5ZbcFLC8YEgHuwazjmLsig5D9Gsvk81sFMTzL4MIKjrY6yiJYlm8GlqZpotKLGK2kypuRgSYl-Dnjprf8zYyEqYn_3pEYLdaeeEwFyvHLA0nYyyyUTrpxXCnbYiyfgOkAby47fjawxLyb9QXOBW0PzobWEWw7pozFYYmPSrYtKyIaL7rf1RSwxkMmtUfRy9WW_xccplhcHid8VWUonmhec4CL6yjeY1qM8luOMunv5j0Z1HU_yePFQgLRJMeXVhKiG5BIdBcog-oek9ZMHrPVaXfcQx7AdWh5t1bm7fDV8-n1Bth9Fcn9ICK3ksswa5EZ9NcS7txogv5p68pZ-le6RGQNuEwuuLuH8r5xUylnuihuRPonUegpmAuyyKSofDlol7qlI_AELRec806F23kGOXVx476klZa9U9IJuVQE8Kbl1Cy_k9Nrk-KvJs7ace_NDmIar4YQcjeXBPQYdJpd3KKqsnF-_lD7EDUUQ5H8ulGFzvkrb27aOn59AN5ROTnm7I0BwMe8aXuKhhpWsvan8SgFdPZX2YGDf3PKETvzzN8F2mjvvwDewZGD8VCFRBJ0Mb29ZH1d2RGu-rUyaydUQbYWyL6yu7DEc7X8-gDw9RSEnCuXw=w1500-h1000-no)
+
+![4](https://lh3.googleusercontent.com/dMh4FJfH0m3oEpBDFdhGS337YBpq8_Kk37215Tgs5EHWjpHgU1oXO_pr9WS6GRnvHAtn5RSoKgCEp6VEZcDbzWEMJKxuRCARUKx3RWweQu1exUfD_e9ZrJihctFWz1pYLwW7u1ucnNHJEL95N0ebkfXIVQr8l7pDL44MTtqtRFFdOEoihQg3rflRjAe1s5HjbNyhTVyn1GKOILtpodJXGPSV-b83wImLM_9MAekk1ZFcgfHoLlf1tx2IcrTdVuRn9RXtndt6PainFLNZ3Nb2YNGePSUW8CngVqEDVx4ukaQwqvqk_0CcYGkBEFhrPVO8MsKWYCBPa6jIJGTf-hOoCFJRhIvNLumvEiA1qJkUKgENVWqCWSzStw5gEtdYnkZRZA9dmvXtnNkj6GKfKNf6fiKgDkyQnC2h6Akz7kb7EubLovZMtvvXH4w4d8a5Sj-1HAZbwwzNvkvTaqVz4_ZwuGX2oY0pS_oXKcTmDa7auIoiEMFc7-AMrsMzRmITb1BlGXDSimxj2ym9HZGDDuVv8osljAsEfRlW08e8KdsiPIrL0hAp2qw9Yg1m6xGIOdRjhR85pijF4tVukP78PaWCSBxVoKsk_dPelJ_lrJty1Wgvl-Ig0ywDjU7D2aHpTfqHjRr8X55jfCtpWQe5gAM93WudtkI5GHvI5paHVCeDqchlF55N1dR3YxSFTJ4j5kTdcZoYG2Uq3TkC3LaTW4wyLm1ajMqYpXupI9lj-XCwwHQD92nmRo_QyhuvK-domfo6NEoayfkBM3DCoHQA9Ej9RvjlsOu0A-ENd5PH3EnZqTcsH9SopIlm1RI3AhvczfBc2nyZgpAADndB_iqonuzM92KzOaPKBjTgAVF3MgjD1F8mkH_IplPDgk4w9QLKUTTyMA4vl-yt3I0I0CaTwViL7fD0q1Cp8Y7WIq29u_AdBi-Dx1oDVy9v4svjsHgn8gyBCrSM5F7kmyqh1DBnv3Lp9Z2mkULlVwVT-1mOBRK7jg=w1500-h1000-no)
+
+![5](https://lh3.googleusercontent.com/wM4-w4WcamwCAQviLiPmjlZmDXFIoRoYGUZebOnRrPXwv3Pb0bSCGWkMb2j3gNBpbng_mhLdRK1Gg3BHixamKFKVxWowpv57VLGUlMsemdkWqzA4FNbue6a2hcU22PMnannPGzHB8cNc5TUysvroq5u9G0pcAm3fE_NvaGRDyfx1JoBF1b7mryfcJn_cXLztREsp5FdV22OWMdEeBBCafCiuIy6T9WSnSUw5nx-s2dqaHRyOwXaKPO0xVdUDLtIfvRm5I1ZlVAKtovhHSkr7c7TLdPZ1w04h-cqY_8NxwE2853RKS1R9FtohtMb0qxonEaYvGnhFItxdl-1oOhPjhQSEOgBlT3VRoF4MCh1NMJBgnQKtBIH7GIBlcKi0wY1sIQ4WQvjbEHvMlriP03pMeOUk_8Hymg0A3Mes8FMEYU-1ls2S-qGpWe04ZO0dEzaWqJmGVHkQjbExiNHp6WSqBTJIldHfLfJ8Y0O22tj1M0rsyW5TOCExBXFgq-8FPnIWy8PpuJ9uaDIoX70xN0NVJu8CgqhX2EDUajhcZAhlnY6YWkXAZwRN4J8V2vpujbF523EzaCZ9r8kgQcinQl2VdIUBJpbAARPpiN6e2O1FfNj8IBUmdCag8bWXJYKdSSxPQDltFEQjP5rLu4XTMIaXRIKra0iS8PWbNj4_asp7_zyIIj9hjzhSZb2Gzi1vQtRASzqTQ--vxgwx8JUQl8Qhmo6RVvDePZUyYlNF38ITPGD2UdkYi37SNnEqepxUdMgW_0QbW317GFXlSNwa_PzD4nBiOQn2AvDSJFLoQ30NB4O7xD-KtVZJYcyKNJByI6JVR38d5M__yUxc3RMJ93NWKHmksryqtH94AdsSRikW-ewaKwFO_L8UJsVTjfgT1-aD24JNq14RHUGrdPnykhSGGfMucD6beHfZsl410x3BBaGiEKxS27g5gi7Av0fAnGewxbHr-SKPLOU0ivXuvnhChn4b0Wk-_6gk_UW-B1_hUQ=w1500-h1000-no)
+
+![6](https://lh3.googleusercontent.com/BGNeMNhwTnyjrku0k8ewffGg4gPHIyqH-lICxmighcXVp1IHp5wiGhQ5EmimLcZz1NNFGsAAhiPGpmPjuH-skJ23Y5wWf43qM2YZN9BrURDkOKnW88GgDRDapDyow90lsntWYEv9ohV9QRfWKZt6Wo38V8KAGpnd3BqBdMJOy7-s5rU124AU2u9VA8YhcP6ndNFcFKJdMfh2c4yZPs-3w_7p3KTZXDEoqj1u3D2SSTb-STT8dMsTdWhBLto1GDX72gjdRkHMhMptZyiM2hcP77bHt69hEgU6yk7DuodNHrMI2Nqe_60d3cB8U8wz0eyjo4xuPf38xHgpX8mzcg_E8mVS6UzMsUN_UMmxX94vVY80P9GaOCxmB9pAc3iHjxr382L6VFQQ-VIPXQRl8EuXt1-VqyHSe5EHeFNR37RlgsGLWCNLF4z-kNI6Lgf9lCBJJwwGleMeoNSLI2HuRawg4sA-9QEPk7kM3XOPTu9dZym3T2x4N1P-UhTt_twg8xlbcJmsasZzStyxoNcUqi3UY_-1Cv0x2lmfQgr-3RvRb8vlZN1jNnVawHFA3JkS3DU2C5MXlApK_trThl7aXug4JMAr_Hqhmt7x0woqA6rzgJmaP7XLcp6wJYPR7mcPADXr6Epd8k-a1xw_GRIEX2iCnSc3Hn8FQ23gpvimEpG-Vh6GckIf45ie1HceCQDssGRqpoqNjv8LkITbHXYI1tWHCu3tNsCZWIT-g9wCtIyLhOjlL0EyNDI0MmOo54bEC2rXuFGcbPsNhYXwHpdO8ZMVCnEHi3743CLr8zOERAZOaM3wwTGW6ZytY2cDsTblKvoAQiycnnCoIVuRqz9aDca3NpVuCIp3vg0u77-13xRz7iBnB0mVfom6uSfF0F1lqSYkk-l2ZD2Mr5T3e2lMFYgT09a1iVUsyxJyckAh6NCD0u6L_WCTjXIzbtFhC6UeoN_v9Aa7JD9Sjm0cUE-u0gP-AkMDdQ2KzR72spSO0lS-zQ=w1500-h1000-no)
+
 
 From Tuk, we could only go south, the same way as we came. After 2 weeks and ~1760 km of gravel road, we were back on the asphalt in the Yukon, and directed ourselves westwards, to Alaska.
 
