@@ -5,7 +5,6 @@ category: journal
 author: Magda
 description: through taiga and tundra to the Arctic Circle and beyond
 image: ![](https://user-images.githubusercontent.com/20797902/198857408-953da224-9b2b-441c-8643-24daa8d5885f.jpg)
-
 ---
 
 When we entered into the Yukon, we were immersed in tens of kilometers of boreal forest. The territory is bigger than California, with a population of ca. 40 000 people. The Stewart-Cassier Hwy of northern British Columbia joins directly with the Alaska Hwy - the 2240-km long road built in 1942 to provide land access to strategic alaskan ports after Pearl Harbor. There aren't many settlements between the junction and the Yukon capital - Whitehorse, where 3/4 of Yukonians live. It's a vibrant town and a compulsory stop for travellers continuing to either Alaska or towards Dawson City and the North.
@@ -14,9 +13,7 @@ When we entered into the Yukon, we were immersed in tens of kilometers of boreal
 
 ![Yukon River](https://user-images.githubusercontent.com/20797902/198857234-4669bd99-d1c6-4283-a75a-5b3dd7b0800d.jpg)
 
-As we came here to drive the Dempster Highway, we replenished our stocks of food and gas here. We also miraculously managed to find a properly sized spare tire (because all campers who had travelled the Dempster told us we should absolutely have two spares), although without a rim - our tires and rims are obviously non-standard in Canada... We left the town with a somewhat complicated emergency plan of changing tires between rims whenever possible, if need be.
-
-The Dempster Highway is a 740 km gravel road that traverses mountains, taiga and tundra, as well as the  Mackenzie River, to reach Inuvik, a town in Mackenzie delta in Northwest Territories. From Inuvik, the Arctic Ocean is a stone throw away. It's the only road in Canada that crosses the Arctic Circle and allows you to drive a car to the Arctic Ocean (and one of two in North America, but the other one, the Dalton Highway in Alaska, doesn't exactly reach the ocean as the shore is occupied by oil extraction facility, Prudhoe Bay). The Dempster Highway has been on top of my bucket list for a couple of years, since I learned about its existance. From Whitehorse, we still needed to drive 500km through endless forest and hills, with the Yukon river serpenting along the road, before we finally saw the sign pointing towards the Arctic Ocean. 
+We came here to drive the Dempster Highway. It's a 740 km gravel road that traverses mountains, taiga and tundra, as well as the  Mackenzie River, to reach Inuvik, a town in Mackenzie delta in Northwest Territories. From Inuvik, the Arctic Ocean is a stone throw away. It's the only road in Canada that crosses the Arctic Circle and allows you to drive a car to the Arctic Ocean (and one of two in North America, but the other one, the Dalton Highway in Alaska, doesn't exactly reach the ocean as the shore is occupied by oil extraction facility, Prudhoe Bay). The Dempster Highway has been on top of my bucket list for a couple of years, since I learned about its existance. From Whitehorse, we still needed to drive 500km through endless forest and hills, with the Yukon river serpenting along the road, before we finally saw the sign pointing towards the Arctic Ocean. 
 
 ![a sign to the Arctic Ocean at the junction :)](https://user-images.githubusercontent.com/20797902/198857236-a1457281-866a-499b-a935-c400aead67b8.jpg)
 
@@ -26,7 +23,7 @@ The first stop on the Dempster Highway is quite early - it's Tombstone Territori
 
 ![Tombstone Territorial Park](https://user-images.githubusercontent.com/20797902/198857243-d5abf3fd-aaf0-42f1-93d8-dbbb40b99170.jpg)
 
-![](https://user-images.githubusercontent.com/20797902/198857267-e4858e93-a48a-4c40-bd0a-5896a52bad83.jpg)
+![dirty car after 70km](https://user-images.githubusercontent.com/20797902/198857267-e4858e93-a48a-4c40-bd0a-5896a52bad83.jpg)
 
 ![](https://user-images.githubusercontent.com/20797902/198857439-e7bfd140-9aec-4e3d-ad16-51d81a906b64.jpg)
 
@@ -42,7 +39,7 @@ Behind Tombstone TP, the crowds thin and the road opens, and there are amazing v
 
 ![](https://user-images.githubusercontent.com/20797902/198857282-cdd6ffa1-1f63-4853-a0db-f7c275f73ca3.jpg)
 
-![](https://user-images.githubusercontent.com/20797902/198857284-52407cd4-d921-4bd0-b687-dd72f6eb1366.jpg)
+![some big sections of the forest are burnt](https://user-images.githubusercontent.com/20797902/198857284-52407cd4-d921-4bd0-b687-dd72f6eb1366.jpg)
 
 ![](https://user-images.githubusercontent.com/20797902/198857285-1fcad29e-ef8b-4901-8ea0-7c81ef6e3a36.jpg)
 
@@ -114,7 +111,7 @@ Inuvik is where Dempster Highway ends, but it's not the end of the road. The sho
 
 ![local residents often leave their winter vehicles along the road to be used in the next season](https://user-images.githubusercontent.com/20797902/198857379-addcc986-ae04-4654-8057-5da05ee030fe.jpg)
 
-The hamlet of Tuktoyaktuk sits at the shore of the Beaufort Sea and is a mix of old oil distraction facilities, messy houses, and fast-going quads. The very end of the road - where the tourists accumulate - is occupied by an overprized basic campsite with great views towards the North Pole (2,300 more km). Antoine took the obligatory swim in the Arctic Ocean (I went knee-deep) and got himself sick afterwards :p We spent three days walking around the town, had an occasion to talk to the locals (some of them approached us trying to sell us some native art) and to do a kayak trip on Beaufort Sea laguna to a pingo - a landscape feature characteristic for tundra, created by underground water pockets freezing and pushing the land up. 
+The hamlet of Tuktoyaktuk sits at the shore of the Beaufort Sea and is a mix of old oil extraction facilities, messy houses, and fast-going quads. The very end of the road - where the tourists accumulate - is occupied by an overprized basic campsite with great views towards the North Pole (2,300 more km). Antoine took the obligatory swim in the Arctic Ocean (I went knee-deep) and got himself sick afterwards :p We spent three days walking around the town, had an occasion to talk to the locals and to do a kayak trip on Beaufort Sea laguna to a pingo - a landscape feature characteristic for tundra, created by underground water pockets freezing and pushing the land up. 
 
 ![we made it! we came to the Canadian shores of the Arctic Ocean with our own vehicle all the way from Poland!](https://user-images.githubusercontent.com/20797902/198857320-5e4a5f01-731c-462b-a420-de711e8fbf54.jpg)
 
