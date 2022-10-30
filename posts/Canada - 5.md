@@ -9,9 +9,9 @@ image:
 publish: no
 
 When we entered into the Yukon, we were immersed in tens of kilometers of boreal forest. The province is bigger than California, with a population of ca. 40 000 people. The Stewart-Cassier Hwy of northern British Columbia joins directly with the Alaska Hwy - the 2240-km long road built in 1942 to provide land access to strategic alaskan ports after Pearl Harbor. There aren't many settlements between the junction and the Yukon capital - Whitehorse, where 3/4 of Yukonians live. It's a pleasant small town and a compulsory stop for travellers continueing to either Alaska or towards Dawson City and the North.
-![Dempster-1](https://user-images.githubusercontent.com/20797902/198857232-031d9c8d-28ca-4395-81f0-55954b417577.jpg)
-![Dempster-2](https://user-images.githubusercontent.com/20797902/198857234-4669bd99-d1c6-4283-a75a-5b3dd7b0800d.jpg)
-![Dempster-3](https://user-images.githubusercontent.com/20797902/198857236-a1457281-866a-499b-a935-c400aead67b8.jpg)
+![Alaska Highway in the Yukon](https://user-images.githubusercontent.com/20797902/198857232-031d9c8d-28ca-4395-81f0-55954b417577.jpg)
+![Yukon River](https://user-images.githubusercontent.com/20797902/198857234-4669bd99-d1c6-4283-a75a-5b3dd7b0800d.jpg)
+![](https://user-images.githubusercontent.com/20797902/198857236-a1457281-866a-499b-a935-c400aead67b8.jpg)
 ![Dempster-4](https://user-images.githubusercontent.com/20797902/198857237-f5b29bd7-6c1b-45d6-bfcc-62368b5b517e.jpg)
 ![Dempster-5](https://user-images.githubusercontent.com/20797902/198857243-d5abf3fd-aaf0-42f1-93d8-dbbb40b99170.jpg)
 ![Dempster-6](https://user-images.githubusercontent.com/20797902/198857267-e4858e93-a48a-4c40-bd0a-5896a52bad83.jpg)
