@@ -4,7 +4,7 @@ published: 27/03/23
 category: journal
 author: Antoine
 description: Patagonia
-image: ![DSC01524](https://user-images.githubusercontent.com/20797902/227959200-3b1e5d6e-84a6-4e48-b422-742607af16f0.jpg)
+image: (https://user-images.githubusercontent.com/20797902/227959200-3b1e5d6e-84a6-4e48-b422-742607af16f0.jpg)
 ---
 
 Long time no post! After 8 months of traveling in North America we decided to change the setting a bit and spend the remaining of our pre-wedding voyage in South America.
