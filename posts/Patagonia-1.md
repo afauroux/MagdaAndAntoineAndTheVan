@@ -45,7 +45,7 @@ We went on together across Tierra del Fuego all the way to Ushuaia, the end of t
 
 ![forest in southern Tierra del Fuego](https://user-images.githubusercontent.com/20797902/227959016-8c282699-58b6-4f1d-9cfc-02a46701782a.jpg)
 
-The small hamlet have since then turned to a crowded touristic place where we failed to feel the remoteness of this _uttermost part of the earth_ (name of the book written by Lucas Bridges, who was born and lived among the natives here; the book also describes the life of his father, Thomas Bridges, who was one of the first to manage to permanently settle thanks to his efforts to learn the language of the Yaghans - one of the 4 main tribes).
+The small hamlet have since then turned to a crowded touristic place where we failed to feel the remoteness of this uttermost part of the earth (name of the book written by Lucas Bridges, who was born and lived among the natives here; the book also describes the life of his father, Thomas Bridges, who was one of the first to manage to permanently settle thanks to his efforts to learn the language of the Yaghans - one of the 4 main tribes).
 
 ![dad and Aga walking on the beach, Beagle Channel](https://user-images.githubusercontent.com/20797902/227959030-d0cc635f-6cb5-4f0b-9dca-6e316dd8384e.jpg)
 
