@@ -35,6 +35,37 @@ After rushing a bit southward to meet with Magda’s father we are now slowly tr
  
 Right now, we are driving the famous Carretera Austral in Chilean Patagonia. We will post photos soon! 
 
+phone photos
+![camping on the steppe](https://user-images.githubusercontent.com/20797902/228320357-ec7d61ab-aa21-43e3-b279-61fa58e0d917.jpg)
+![selfie with the FitzRoy](https://user-images.githubusercontent.com/20797902/228320365-608f432e-e0fd-4ba4-92bd-39ed87ee5c97.jpg)
+![cooking by the river](https://user-images.githubusercontent.com/20797902/228320366-8c944063-9271-464e-b2ab-6f57b075bbee.jpg)
+![Perito Moreno 1](https://user-images.githubusercontent.com/20797902/228320372-02619049-593d-4e5c-88aa-b0066c727166.jpg)
+![Pichilemu beach, Chileans chilling](https://user-images.githubusercontent.com/20797902/228319167-a8663209-e583-49b2-bf5f-bc57568ff3e9.jpg)
+![tarantula crossed our road again](https://user-images.githubusercontent.com/20797902/228319184-ece8ef12-7f61-4278-b35c-2e6d3050d33d.jpg)
+![Antoine and the dragon in Gaiman](https://user-images.githubusercontent.com/20797902/228319194-a6b95fc2-3905-4d40-a4bf-d93c589fa20b.jpg)
+![petrified trees in the desert, like in Arizona!](https://user-images.githubusercontent.com/20797902/228319196-8a287367-b5cc-4b16-a198-42d98e806670.jpg)
+![replica of Victoria, one of Magellan's ships in San Julian, where they wintered in 1520](https://user-images.githubusercontent.com/20797902/228319203-aa48c19f-f588-4d2c-ac47-552efcc41a2b.jpg)
+![only fires left on Tierra del Fuego](https://user-images.githubusercontent.com/20797902/228319208-d66115cf-a2ab-49b1-bcb8-de23a3b96098.jpg)
+![Malvinas son Argentinas!](https://user-images.githubusercontent.com/20797902/228319212-371d2f3d-793e-4454-8b56-2919633975dc.jpg)
+![setting up a camp](https://user-images.githubusercontent.com/20797902/228319217-c5c1d652-22d3-4f70-aa4a-c5e0c6cc532e.jpg)
+![](https://user-images.githubusercontent.com/20797902/228319224-325ad463-77f3-4187-a785-773c272dceb7.jpg)
+![on the way up the pass](https://user-images.githubusercontent.com/20797902/228319231-c9c5bb07-0191-46d6-8e45-834389bf8c5e.jpg)
+![](https://user-images.githubusercontent.com/20797902/228320163-594ea955-c23f-48b6-9593-cef0824be58f.jpg)
+![20230306_150021](https://user-images.githubusercontent.com/20797902/228320185-a01bebf6-80c0-4337-9261-de1c1820f4b6.jpg)
+![20230306_163536](https://user-images.githubusercontent.com/20797902/228320192-75e51363-1b52-438a-a3f7-da44fa2278fd.jpg)
+![20230308_113432](https://user-images.githubusercontent.com/20797902/228320199-cc30f090-3a28-471e-93e6-a367d1e90f55.jpg)
+![typical landscape of Argentinian Patagonia](https://user-images.githubusercontent.com/20797902/228320212-e7614000-aaf7-4765-9753-c6f48a4df153.jpg)
+![Perito Moreno 2](https://user-images.githubusercontent.com/20797902/228320221-2d529189-30e1-4d12-bb2f-f16f44c4dcf5.jpg)
+![Perito Moreno 3](https://user-images.githubusercontent.com/20797902/228320227-82d6f436-95f8-4379-b40c-0309090161a4.jpg)
+![Perito Moreno 4?](https://user-images.githubusercontent.com/20797902/228320231-8ee672bd-013a-4483-b9b5-df926aa13336.jpg)
+![20230314_200224](https://user-images.githubusercontent.com/20797902/228320244-2a95bea1-247c-46db-b176-8ac095d7bd71.jpg)
+![20230319_165452](https://user-images.githubusercontent.com/20797902/228320251-2dec18f6-40f5-4c0e-bf3d-d7b93e294459.jpg)
+![20230322_100924](https://user-images.githubusercontent.com/20797902/228320255-ba78835b-7580-42a3-b7df-49f55061b58e.jpg)
+![down the pass with Glaciar Grey in the back](https://user-images.githubusercontent.com/20797902/228322904-ec7f49e1-2d2f-41fb-95dc-eea43634ee8a.jpg)
+
+
+Camera photos
+
 ![forest in southern Tierra del Fuego](https://user-images.githubusercontent.com/20797902/227959016-8c282699-58b6-4f1d-9cfc-02a46701782a.jpg)
 ![dad and Aga walking on the beach, Beagle Channel](https://user-images.githubusercontent.com/20797902/227959030-d0cc635f-6cb5-4f0b-9dca-6e316dd8384e.jpg)
 ![royal pinguins](https://user-images.githubusercontent.com/20797902/227959034-72e27d5a-9244-4824-aa7e-1e0e5a461dac.jpg)
