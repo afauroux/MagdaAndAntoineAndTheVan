@@ -11,17 +11,17 @@ Long time no post! After 8 months of traveling in North America we decided to ch
 
 The new plan involved buying a camper (or any car with a bed inside), travelling 3 months through South America, and most importantly after our trip to Yukon and Alaska, visiting the other end of the American continent: Patagonia.
 
-We landed in Santiago de Chile at the end of January and in one week, bought a car from a Czech-Dutch couple who travelled with it a similar route to what we were planning. It’s a Nissan X-Trail from 2009 with a simple bed inside, a cooker, and enough storage place for food, backpacks and the rest of our stuff. We left the city immediately after stocking up on all necessities and headed south.
+We landed in Santiago de Chile at the end of January and in one week, bought a car from a Czech-Dutch couple who travelled with it a similar route to what we were planning. It’s a Nissan X-Trail from 2009 with a simple bed inside, a cooker, and enough storage place for food, backpacks and the rest of our stuff. We left the city immediately (it was 38°C !) after stocking up on all necessities and headed south.
 
 ![our new motor casa in southern Argentina](https://user-images.githubusercontent.com/20797902/227959218-db9bc711-a74f-4820-887e-37e1c61f652d.jpg)
 
-After following the Pacific for some time, we crossed central Chile, where the wildfires were devouring huge areas of forests. Two of the national parks we had planned to visit were closed due to this, and the air was thick and red. We visited Pichilemu, a famous surfing spot, and crossed into Argentina. This was our first border crossing with this newly bought car and it was quite busy and messy. It took us 4h to wait in line in front of the various offices in order to collect all required forms and stamps, but the setting was grandiose: Old volcanoes and forests of Araucanias (a living fossil tree that predates the apparition of pines, diplodocuses were eating those!)   
+After following the Pacific for some time, we crossed central Chile, where the wildfires were devouring huge areas of forests. Two of the national parks we had planned to visit were closed due to this, and the air was thick and the sun was red. We visited Pichilemu, a famous surfing spot, and crossed into Argentina. This was our first border crossing with this newly bought car and it was quite busy and messy. It took us 4h to wait in line in front of the various offices in order to collect all required forms and stamps, but the setting was grandiose: Old volcanoes and forests of Araucanias (a living fossil tree that predates the apparition of pines, diplodocuses were eating those!)   
 
 ![Pichilemu beach, Chileans chilling](https://user-images.githubusercontent.com/20797902/228319167-a8663209-e583-49b2-bf5f-bc57568ff3e9.jpg)
 
 ![wild horses](https://user-images.githubusercontent.com/20797902/228357435-4fa8d524-2800-483f-ad5d-e0d5cd3326a7.JPG)
 
-![Villarica volcano](https://user-images.githubusercontent.com/20797902/228356029-7ae2d09a-8693-4a4e-94f1-7385025a28e7.JPG)
+![Villarica volcano, at the border](https://user-images.githubusercontent.com/20797902/228356029-7ae2d09a-8693-4a4e-94f1-7385025a28e7.JPG)
 
 ![Antoine admires an araucania tree](https://user-images.githubusercontent.com/20797902/228357377-02c42125-4f76-464f-8ca8-29848272b814.JPG)
 
@@ -37,21 +37,19 @@ We decided to go straight to the Atlantic coast to visit Gaiman, a small town th
 
 ![replica of Victoria, one of Magellan's ships in San Julian, where they wintered in 1520](https://user-images.githubusercontent.com/20797902/228319203-aa48c19f-f588-4d2c-ac47-552efcc41a2b.jpg)
 
-Magda’s father has always dreamt of seeing Patagonia, hence for the second time we met with him and Agnieszka for a two weeks van trip. We followed the Atlantic coast all the way to Punta Arenas where their plane landed, and made a visit to the local museum that looked more like a „cabinet de curiosite“ of the early 20th century, with stuffed animals, bug collections, whale foetus in jars, pictures from the missionary settlers, as well as ship wreck pieces, local native tribes artefacts, and various other things.
+Magda’s father has always dreamt of seeing Patagonia, hence for the second time we met with him and Agnieszka for a two weeks van trip. We followed the Atlantic coast all the way to Punta Arenas where their plane landed, and made a visit to the local museum that looked more like a "cabinet de curiosité", with stuffed animals, bug collections, whale foetus in jars, pictures from the missionary settlers, as well as ship wreck pieces, local native tribes artefacts, and various other things.
 
-We went on together across Tierra del Fuego all the way to Ushuaia, the end of the road. The town started as a British mission established in second half of XIX century by the relentless efforts of courageous pioneers, that sadly resulted directly or indirectly in the vanishing of all the local indigenous tribes (diseases, alcohol, internal conflicts due to land loss, and assimilation). The small hamlet have since then turned to a crowded touristic place where we failed to feel the remoteness of this uttermost part of the earth (name of the book written by Lucas Bridges, who was born and lived among the natives here; the book also describes the life of his father, Thomas Bridges, who was one of the first to manage to permanently settle thanks to his efforts to learn the language of the Yaghans - one of the 4 main tribes). We then took a boat across the Beagle Chanel (named after the HMS Beagle that carried onboard young Darwin while he was forming his famous theory), and saw some tiny penguins from very (too?) close.
+![royal pinguins next to the "Inutil bay" (you can feel the pain of the poor sailors that had to sail their ways around these ragged islands in the name they gave to caps and bays)](https://user-images.githubusercontent.com/20797902/227959034-72e27d5a-9244-4824-aa7e-1e0e5a461dac.jpg)
 
-After this, we rolled to the Harberton estancia, built by Thomas Bridges and his sons after he decided to leave the mission in 1886. This settlement was still nicely preserved, and between the old house, the decorative whale bones, the nice vegetable & fruits garden, the boats made by the eldest son, the rolling hills, the cemetery, the sheep shaving halls, and the grand-niece working at the reception we felt like we were back in 1890s. 
+We went on together across Tierra del Fuego all the way to Ushuaia, the end of the road. The town started as a British mission established in second half of XIX century by the relentless efforts of courageous pioneers, that sadly resulted directly or indirectly in the vanishing of all the local indigenous tribes (diseases, alcohol, internal conflicts due to land loss, manhunt, and assimilation). 
 
-![only fires left on Tierra del Fuego](https://user-images.githubusercontent.com/20797902/228319208-d66115cf-a2ab-49b1-bcb8-de23a3b96098.jpg)
-
-![Malvinas son Argentinas!](https://user-images.githubusercontent.com/20797902/228319212-371d2f3d-793e-4454-8b56-2919633975dc.jpg)
+The small hamlet have since then turned to a crowded touristic place where we failed to feel the remoteness of this _uttermost part of the earth_ (name of the book written by Lucas Bridges, who was born and lived among the natives here; the book also describes the life of his father, Thomas Bridges, who was one of the first to manage to permanently settle thanks to his efforts to learn the language of the Yaghans - one of the 4 main tribes).
 
 ![forest in southern Tierra del Fuego](https://user-images.githubusercontent.com/20797902/227959016-8c282699-58b6-4f1d-9cfc-02a46701782a.jpg)
 
 ![dad and Aga walking on the beach, Beagle Channel](https://user-images.githubusercontent.com/20797902/227959030-d0cc635f-6cb5-4f0b-9dca-6e316dd8384e.jpg)
 
-![royal pinguins](https://user-images.githubusercontent.com/20797902/227959034-72e27d5a-9244-4824-aa7e-1e0e5a461dac.jpg)
+We then took a boat across the Beagle Chanel (named after the HMS Beagle that carried onboard young Darwin while he was forming his famous theory), and saw some tiny penguins from very (too?) close.
 
 ![Ushuaia seen from the Beagle Channel](https://user-images.githubusercontent.com/20797902/227959036-ab96ea2e-d393-445d-8493-3bcce942b021.jpg)
 
@@ -64,6 +62,8 @@ After this, we rolled to the Harberton estancia, built by Thomas Bridges and his
 ![those are magellanic penguins](https://user-images.githubusercontent.com/20797902/227959056-d11ed1c1-6f1f-481f-879f-47f0f2d7676a.jpg)
 
 ![hike to a glacier in the mountains surrounding Ushuaia](https://user-images.githubusercontent.com/20797902/227959061-0f2a0dc1-4760-4a7d-a00f-0b736f718ede.jpg)
+
+After this, we rolled to the Harberton estancia, built by Thomas Bridges and his sons after he decided to leave the mission in 1886. This settlement was still nicely preserved, and between the old house, the decorative whale bones, the nice vegetable & fruits garden, the boats made by the eldest son, the rolling hills, the cemetery, the sheep shaving halls, and the grand-niece working at the reception we felt like we were back in 1890s. 
 
 ![estancia Harberton looks very much like it did 130 years ago](https://user-images.githubusercontent.com/20797902/227959066-85d8e191-d2fb-4420-8df5-7fbf59bde170.jpg)
 
@@ -87,7 +87,7 @@ Our next stop was the last for Bogdan and Agnieszka, and one of the most famous 
 
 ![guanacos on the trail](https://user-images.githubusercontent.com/20797902/227959104-93f85ee0-986c-48b4-ab1a-93f092ad02df.jpg)
 
-![Cuevos del Paine](https://user-images.githubusercontent.com/20797902/227959113-e73452e7-3368-46bf-9e41-448dfb721e44.jpg)
+![Cuernos del Paine](https://user-images.githubusercontent.com/20797902/227959113-e73452e7-3368-46bf-9e41-448dfb721e44.jpg)
 
 ![a moment of sunshine on the O trek](https://user-images.githubusercontent.com/20797902/227959118-ffe9b821-9293-4800-a2aa-f72c85097d9a.jpg)
 
@@ -119,17 +119,15 @@ Our next stop was the last for Bogdan and Agnieszka, and one of the most famous 
 
 ![](https://user-images.githubusercontent.com/20797902/227959147-c3b912a3-cc6c-4531-9ff4-e2aba8f4b235.jpg)
 
-![feet-deep in the lake](https://user-images.githubusercontent.com/20797902/227959157-e68713e7-a48b-43b4-8de8-f17d75fab088.jpg)
-
-![hiking in the flipflops](https://user-images.githubusercontent.com/20797902/227959167-fcfdb05b-3329-462a-b0dd-30b9f19c4925.jpg)
+![hiking in flipflops (Antoine did 10km in flip-flop that day because he fell in a stream earlier, but thanks to this he could walk in lakes easily)](https://user-images.githubusercontent.com/20797902/227959167-fcfdb05b-3329-462a-b0dd-30b9f19c4925.jpg)
 
 ![](https://user-images.githubusercontent.com/20797902/227959172-63d2ace1-5ce4-4dc3-a75a-66aa3c1330bd.jpg)
 
-![rest on a beach](https://user-images.githubusercontent.com/20797902/227959176-5e0585ba-be2d-4a2a-97f9-40f3f08970c6.jpg)
+![rest on the beach](https://user-images.githubusercontent.com/20797902/227959176-5e0585ba-be2d-4a2a-97f9-40f3f08970c6.jpg)
 
 ![Las Torres, which give the name to the park](https://user-images.githubusercontent.com/20797902/227959181-561b0c4d-d982-47e4-ab66-9849077489e3.jpg)
 
-![](https://user-images.githubusercontent.com/20797902/227959184-6d19b620-970f-4102-b3d8-542072ded812.jpg)
+![Slav squating](https://user-images.githubusercontent.com/20797902/227959184-6d19b620-970f-4102-b3d8-542072ded812.jpg)
 
 ![tent life](https://user-images.githubusercontent.com/20797902/227959186-20141369-d5b8-405f-b7bf-38c1c3434db9.jpg)
 
@@ -145,7 +143,7 @@ The Andean side of Patagonia contains the largest continental ice-field (apart f
 
 ![cooking setup](https://user-images.githubusercontent.com/20797902/228320244-2a95bea1-247c-46db-b176-8ac095d7bd71.jpg)
 
-![Laguna Torre; Cerro Torre hidden in the clouds, lamentablemente](https://user-images.githubusercontent.com/20797902/227959190-9aa126d6-1d3a-47e6-ade0-0fcc417d7c75.jpg)
+![Laguna Torre; Cerro Torre hidden in the clouds, lamentablemente (unfortunatly)](https://user-images.githubusercontent.com/20797902/227959190-9aa126d6-1d3a-47e6-ade0-0fcc417d7c75.jpg)
 
 ![](https://user-images.githubusercontent.com/20797902/227959194-693f2a52-18d8-42e5-b6b1-ffbb3090bbb5.jpg)
 
