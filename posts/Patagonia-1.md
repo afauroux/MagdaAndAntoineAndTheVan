@@ -147,11 +147,11 @@ The Andean side of Patagonia contains the largest continental ice-field (apart f
 
 ![Cerro FitzRoy](https://user-images.githubusercontent.com/20797902/227959200-3b1e5d6e-84a6-4e48-b422-742607af16f0.jpg)
 
-![with FitzRoy](https://user-images.githubusercontent.com/20797902/228320251-2dec18f6-40f5-4c0e-bf3d-d7b93e294459.jpg)
-
 ![](https://user-images.githubusercontent.com/20797902/227959202-3cb96215-a26c-4f3a-86c3-9fed21680d06.jpg)
 
 ![](https://user-images.githubusercontent.com/20797902/227959205-41170182-4f45-455d-8475-b2c71e32fa53.jpg)
+
+![](https://user-images.githubusercontent.com/20797902/228320251-2dec18f6-40f5-4c0e-bf3d-d7b93e294459.jpg)
 
 ![](https://user-images.githubusercontent.com/20797902/227959208-cbdcc863-72f3-42a0-a8e8-342ac22b30fb.jpg)
 
