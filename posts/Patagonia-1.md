@@ -19,6 +19,12 @@ After following the Pacific for some time, we crossed central Chile, where the w
 
 ![Pichilemu beach, Chileans chilling](https://user-images.githubusercontent.com/20797902/228319167-a8663209-e583-49b2-bf5f-bc57568ff3e9.jpg)
 
+![wild horses](https://user-images.githubusercontent.com/20797902/228357435-4fa8d524-2800-483f-ad5d-e0d5cd3326a7.JPG)
+
+![Villarica volcano](https://user-images.githubusercontent.com/20797902/228356029-7ae2d09a-8693-4a4e-94f1-7385025a28e7.JPG)
+
+![Antoine admires an araucania tree](https://user-images.githubusercontent.com/20797902/228357377-02c42125-4f76-464f-8ca8-29848272b814.JPG)
+
 We arrived in the vast dry planes of Argentinian Patagonia (or „the land of giants“, named like this because the local Tehuelche people were allegedly quite tall when Magellan anchored here). Those endless planes are only populated by quantities of guanacos  (local wild llamas) and ~nandus (small ostriches) and estancias (ranches) as nothing else could resist the famously strong Patagonian wind.
 
 We decided to go straight to the Atlantic coast to visit Gaiman, a small town that rose from Welsh communities that established here in XIX century, and visit a Palaeontology museum that contains bones from the biggest dinosaur ever found: the Patagotitan. The museum was a bit disappointing (the patagotitan was actually on a world tour), but we were lucky to meet a young fellow scientist working there who brought us in the reserve and in the labs, where we could marvel at freshly found bones and have a fascinating discussion with him and his colleagues. They were preparing for the digging of a new site with hadrosaurs (the ones with bony skulls).
