@@ -43,15 +43,15 @@ Magda’s father has always dreamt of seeing Patagonia, hence for the second tim
 
 We went on together across Tierra del Fuego all the way to Ushuaia, the end of the road. The town started as a British mission established in second half of XIX century by the relentless efforts of courageous pioneers, that sadly resulted directly or indirectly in the vanishing of all the local indigenous tribes (diseases, alcohol, internal conflicts due to land loss, manhunt, and assimilation). 
 
-The small hamlet have since then turned to a crowded touristic place where we failed to feel the remoteness of this _uttermost part of the earth_ (name of the book written by Lucas Bridges, who was born and lived among the natives here; the book also describes the life of his father, Thomas Bridges, who was one of the first to manage to permanently settle thanks to his efforts to learn the language of the Yaghans - one of the 4 main tribes).
-
 ![forest in southern Tierra del Fuego](https://user-images.githubusercontent.com/20797902/227959016-8c282699-58b6-4f1d-9cfc-02a46701782a.jpg)
+
+The small hamlet have since then turned to a crowded touristic place where we failed to feel the remoteness of this _uttermost part of the earth_ (name of the book written by Lucas Bridges, who was born and lived among the natives here; the book also describes the life of his father, Thomas Bridges, who was one of the first to manage to permanently settle thanks to his efforts to learn the language of the Yaghans - one of the 4 main tribes).
 
 ![dad and Aga walking on the beach, Beagle Channel](https://user-images.githubusercontent.com/20797902/227959030-d0cc635f-6cb5-4f0b-9dca-6e316dd8384e.jpg)
 
-We then took a boat across the Beagle Chanel (named after the HMS Beagle that carried onboard young Darwin while he was forming his famous theory), and saw some tiny penguins from very (too?) close.
-
 ![Ushuaia seen from the Beagle Channel](https://user-images.githubusercontent.com/20797902/227959036-ab96ea2e-d393-445d-8493-3bcce942b021.jpg)
+
+We then took a boat across the Beagle Chanel (named after the HMS Beagle that carried onboard young Darwin while he was forming his famous theory), and saw some tiny penguins from very (too?) close.
 
 ![bird island on the Beagle Channel](https://user-images.githubusercontent.com/20797902/227959042-58fdef0a-370b-4b2b-8a30-8535bf1afb0e.jpg)
 
@@ -75,9 +75,11 @@ Patagonia is definitely strange and even fully colonised by sheep farmers and ro
 
 ![inside](https://user-images.githubusercontent.com/20797902/227959076-af285d47-bc9c-415a-b84a-09ec078e2aec.jpg)
 
-Our next stop was the last for Bogdan and Agnieszka, and one of the most famous in all Chile: Torres del Paine, an impressive and colourful mountain massif surrounded by glaciers, and a hikers’ paradise. After getting lost all around the park and seeing icebergs, guanacos, birds of preys, and condors, they left us and went back to Punta Arenas while we started our tiresome but rewarding journey hiking and camping around the massif. We did the O trek, so around 130 km in 8 days, with several steep 900m+ ascents to the various view points and a high snowy mountain pass. The beginning was a good test of our will power since it rained for 3 days, and we had to do long hikes in unbelievably muddy terrain with our heavy backpacks, desperately trying to dry our clothes, shoes and bones every night. On the other side of the range it was easier and more sunny but also more crowded (I never saw so many hikers!). Assuredly, the sights were breathtaking and the facilities were nice.
+Our next stop was the last for Bogdan and Agnieszka, and one of the most famous in all Chile: Torres del Paine, an impressive and colourful mountain massif surrounded by glaciers, and a hikers’ paradise. After getting lost all around the park and seeing icebergs, guanacos, birds of preys, and condors, they left us and went back to Punta Arenas while we started our tiresome but rewarding journey hiking and camping around the massif.
 
 ![Torres del Paine](https://user-images.githubusercontent.com/20797902/227959084-deaf211e-34e0-4173-8f00-46d7a8e5835d.jpg)
+
+We did the O trek, so around 130 km in 8 days, with several steep 900m+ ascents to the various view points and a high snowy mountain pass. The beginning was a good test of our will power since it rained for 3 days, and we had to do long hikes in unbelievably muddy terrain with our heavy backpacks, desperately trying to dry our clothes, shoes and bones every night. On the other side of the range it was easier and more sunny but also more crowded (I never saw so many hikers!). Assuredly, the sights were breathtaking and the facilities were nice.
 
 ![Torres del Paine rainbow](https://user-images.githubusercontent.com/20797902/227959079-92bbf312-eede-4b52-9416-58c21a14a63d.jpg)
 
